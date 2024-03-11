@@ -1,0 +1,965 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Season,Team
+0,2022-09-18,17:00,WSL,Matchweek 2,Sun,Away,L,1,2,Liverpool,1.3,2.0,68.0,3006.0,Magdalena Eriksson,3-4-1-2,Emily Heaslip,Match Report,,9.0,3.0,17.2,0.0,1,1,2024,Chelsea Women
+1,2022-09-25,16:00,WSL,Matchweek 3,Sun,Home,W,2,0,Manchester City,1.4,0.9,57.0,4403.0,Magdalena Eriksson,3-4-1-2,Abigail Bryne,Match Report,,11.0,2.0,20.3,0.0,1,1,2024,Chelsea Women
+2,2022-09-28,19:05,WSL,Matchweek 1,Wed,Home,W,3,1,West Ham,2.5,0.2,69.0,2842.0,Magdalena Eriksson,4-2-3-1,Tom Reeves,Match Report,,20.0,7.0,15.1,0.0,0,1,2024,Chelsea Women
+3,2022-10-16,13:00,WSL,Matchweek 4,Sun,Away,W,3,1,Everton,2.3,0.7,50.0,1668.0,Magdalena Eriksson,3-4-1-2,Lauren Impey,Match Report,,21.0,7.0,17.3,0.0,1,1,2024,Chelsea Women
+5,2022-10-23,18:45,WSL,Matchweek 5,Sun,Away,W,2,0,Brighton,2.0,1.0,62.0,3626.0,Millie Bright,3-4-3,Abigail Bryne,Match Report,,21.0,9.0,16.0,0.0,0,0,2024,Chelsea Women
+7,2022-10-30,14:00,WSL,Matchweek 6,Sun,Home,W,3,1,Aston Villa,1.7,0.6,64.0,4373.0,Magdalena Eriksson,4-4-2,Martin Woods,Match Report,,21.0,7.0,14.6,0.0,0,0,2024,Chelsea Women
+8,2022-11-06,18:45,WSL,Matchweek 7,Sun,Away,W,3,1,Manchester Utd,1.2,0.5,48.0,6186.0,Magdalena Eriksson,3-4-3,Cheryl Foster,Match Report,,16.0,6.0,15.5,0.0,0,0,2024,Chelsea Women
+9,2022-11-20,13:00,WSL,Matchweek 8,Sun,Home,W,3,0,Tottenham,1.5,0.7,57.0,38350.0,Magdalena Eriksson,3-4-3,Rebecca Welch,Match Report,,13.0,7.0,18.1,0.0,1,1,2024,Chelsea Women
+11,2022-12-03,15:00,WSL,Matchweek 9,Sat,Away,W,8,0,Leicester City,4.1,0.2,69.0,3023.0,Magdalena Eriksson,3-4-3,Amy Fearn,Match Report,,23.0,13.0,13.4,0.0,0,0,2024,Chelsea Women
+13,2022-12-11,18:45,WSL,Matchweek 10,Sun,Home,W,3,2,Reading,2.0,0.9,60.0,1184.0,Magdalena Eriksson,3-4-1-2,Kirsty Dowle,Match Report,,18.0,8.0,14.3,0.0,0,0,2024,Chelsea Women
+16,2023-01-15,12:00,WSL,Matchweek 11,Sun,Away,D,1,1,Arsenal,1.3,1.6,60.0,46881.0,Magdalena Eriksson,4-2-3-1,Emily Heaslip,Match Report,,17.0,2.0,16.9,0.0,0,0,2024,Chelsea Women
+17,2023-02-05,12:30,WSL,Matchweek 13,Sun,Away,W,3,2,Tottenham,0.7,1.1,58.0,,Millie Bright,4-2-3-1,Abigail Byrne,Match Report,,9.0,5.0,18.5,0.0,0,0,2024,Chelsea Women
+18,2023-03-08,19:30,WSL,Matchweek 14,Wed,Home,W,3,1,Brighton,2.8,0.3,71.0,916.0,Millie Bright,4-1-4-1,Abigail Byrne,Match Report,,13.0,3.0,13.9,0.0,1,1,2024,Chelsea Women
+19,2023-03-12,12:30,WSL,Matchweek 15,Sun,Home,W,1,0,Manchester Utd,1.1,0.8,38.0,3277.0,Millie Bright,4-2-3-1,Cheryl Foster,Match Report,,9.0,3.0,15.8,0.0,0,0,2024,Chelsea Women
+21,2023-03-26,12:40,WSL,Matchweek 16,Sun,Away,L,0,2,Manchester City,0.6,0.9,51.0,5222.0,Magdalena Eriksson,4-2-3-1,Paul Howard,Match Report,,9.0,4.0,19.6,0.0,0,0,2024,Chelsea Women
+23,2023-04-02,18:45,WSL,Matchweek 17,Sun,Away,W,3,0,Aston Villa,2.2,1.3,43.0,3835.0,Magdalena Eriksson,4-2-3-1,Louise Saunders,Match Report,,14.0,7.0,12.5,0.0,0,0,2024,Chelsea Women
+26,2023-05-03,19:15,WSL,Matchweek 12,Wed,Home,W,2,1,Liverpool,2.7,0.7,67.0,1664.0,Magdalena Eriksson,3-4-3,Abigail Byrne,Match Report,,25.0,5.0,17.2,1.0,0,0,2024,Chelsea Women
+27,2023-05-07,18:45,WSL,Matchweek 20,Sun,Home,W,7,0,Everton,2.5,0.4,54.0,,Magdalena Eriksson,4-2-3-1,Lisa Benn,Match Report,,17.0,11.0,13.7,0.0,0,0,2024,Chelsea Women
+28,2023-05-10,19:00,WSL,Matchweek 18,Wed,Home,W,6,0,Leicester City,3.4,0.4,65.0,1308.0,Magdalena Eriksson,4-2-3-1,Rebecca Welch,Match Report,,22.0,11.0,12.1,0.0,0,0,2024,Chelsea Women
+29,2023-05-17,20:15,WSL,Matchweek 19,Wed,Away,W,4,0,West Ham,2.4,0.4,72.0,,Magdalena Eriksson,4-2-3-1,Louise Saunders,Match Report,,20.0,7.0,13.4,0.0,0,0,2024,Chelsea Women
+30,2023-05-21,12:30,WSL,Matchweek 21,Sun,Home,W,2,0,Arsenal,1.9,2.0,45.0,3456.0,Magdalena Eriksson,4-2-3-1,Abigail Byrne,Match Report,,17.0,7.0,15.2,0.0,0,0,2024,Chelsea Women
+31,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,W,3,0,Reading,2.3,0.3,77.0,,Magdalena Eriksson,4-2-3-1,Rebecca Welch,Match Report,,23.0,5.0,15.4,0.0,0,0,2024,Chelsea Women
+0,2022-09-17,12:00,WSL,Matchweek 2,Sat,Home,W,4,0,Reading,2.3,0.0,72.0,7315.0,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,23.0,7.0,15.8,1.0,1,1,2024,Manchester United Women
+1,2022-09-25,15:00,WSL,Matchweek 3,Sun,Away,W,2,0,West Ham,1.2,0.6,66.0,2104.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,20.0,8.0,17.5,0.0,0,0,2024,Manchester United Women
+2,2022-10-16,12:00,WSL,Matchweek 4,Sun,Home,W,4,0,Brighton,1.5,0.4,60.0,3685.0,Katie Zelem,4-1-4-1,Emily Heaslip,Match Report,,19.0,7.0,21.6,0.0,0,0,2024,Manchester United Women
+3,2022-10-23,15:00,WSL,Matchweek 5,Sun,Away,W,1,0,Leicester City,0.8,0.3,68.0,4007.0,Katie Zelem,4-1-3-2,Neil Hair,Match Report,,10.0,5.0,15.6,1.0,0,0,2024,Manchester United Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Away,W,3,0,Everton,0.7,0.3,52.0,1752.0,Katie Zelem,4-1-4-1,Adam Herczeg,Match Report,,10.0,5.0,19.3,0.0,0,0,2024,Manchester United Women
+5,2022-11-06,18:45,WSL,Matchweek 7,Sun,Home,L,1,3,Chelsea,0.5,1.2,52.0,6186.0,Katie Zelem,4-2-3-1,Cheryl Foster,Match Report,,7.0,2.0,13.4,0.0,0,0,2024,Manchester United Women
+6,2022-11-19,17:30,WSL,Matchweek 8,Sat,Away,W,3,2,Arsenal,0.9,0.8,59.0,40604.0,Katie Zelem,4-1-4-1,Kirsty Dowle,Match Report,,10.0,6.0,12.3,0.0,0,0,2024,Manchester United Women
+7,2022-12-03,12:30,WSL,Matchweek 9,Sat,Home,W,5,0,Aston Villa,2.3,0.4,61.0,30196.0,Katie Zelem,4-2-3-1,Louise Saunders,Match Report,,18.0,9.0,12.5,1.0,0,0,2024,Manchester United Women
+8,2022-12-11,12:30,WSL,Matchweek 10,Sun,Away,D,1,1,Manchester City,1.1,1.6,46.0,44259.0,Katie Zelem,4-2-3-1,Abigail Byrne,Match Report,,15.0,4.0,16.7,0.0,0,0,2024,Manchester United Women
+9,2023-01-15,14:05,WSL,Matchweek 11,Sun,Home,W,6,0,Liverpool,2.7,0.2,71.0,7662.0,Katie Zelem,4-2-3-1,Kirsty Dowle,Match Report,,19.0,6.0,14.8,0.0,0,0,2024,Manchester United Women
+10,2023-01-22,14:00,WSL,Matchweek 12,Sun,Away,W,1,0,Reading,2.4,0.3,68.0,5108.0,Katie Zelem,4-2-3-1,Richie Watkins,Match Report,,24.0,9.0,18.6,0.0,0,1,2024,Manchester United Women
+11,2023-02-05,12:00,WSL,Matchweek 13,Sun,Home,D,0,0,Everton,2.1,0.4,68.0,5040.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,25.0,4.0,15.2,0.0,0,0,2024,Manchester United Women
+12,2023-02-12,12:00,WSL,Matchweek 1,Sun,Away,W,2,1,Tottenham,0.8,0.3,60.0,,Katie Zelem,4-2-3-1,Amy Fearn,Match Report,,11.0,4.0,19.4,1.0,0,0,2024,Manchester United Women
+13,2023-03-05,12:30,WSL,Matchweek 14,Sun,Home,W,5,1,Leicester City,3.5,0.2,70.0,3600.0,Katie Zelem,4-2-3-1,Melissa Burgin,Match Report,,33.0,15.0,14.0,0.0,0,0,2024,Manchester United Women
+14,2023-03-12,12:30,WSL,Matchweek 15,Sun,Away,L,0,1,Chelsea,0.8,1.1,62.0,3277.0,Katie Zelem,4-2-3-1,Cheryl Foster,Match Report,,8.0,3.0,16.7,1.0,0,0,2024,Manchester United Women
+15,2023-03-25,17:30,WSL,Matchweek 16,Sat,Home,W,4,0,West Ham,2.3,0.5,67.0,27919.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,11.0,6.0,16.0,0.0,1,1,2024,Manchester United Women
+16,2023-04-01,11:30,WSL,Matchweek 17,Sat,Away,W,4,0,Brighton,2.3,0.6,60.0,4375.0,Katie Zelem,4-2-3-1,Stacey Fullicks,Match Report,,17.0,9.0,11.9,0.0,0,0,2024,Manchester United Women
+17,2023-04-19,19:15,WSL,Matchweek 18,Wed,Home,W,1,0,Arsenal,0.6,0.5,54.0,6658.0,Katie Zelem,4-2-3-1,Abigail Byrne,Match Report,,7.0,3.0,12.2,0.0,0,0,2024,Manchester United Women
+18,2023-04-28,19:15,WSL,Matchweek 19,Fri,Away,W,3,2,Aston Villa,1.6,0.6,53.0,4176.0,Katie Zelem,4-2-3-1,Lisa Benn,Match Report,,15.0,7.0,15.7,0.0,0,0,2024,Manchester United Women
+19,2023-05-07,12:30,WSL,Matchweek 20,Sun,Home,W,3,0,Tottenham,2.1,1.1,76.0,,Hayley Ladd,4-2-3-1,Kirsty Dowle,Match Report,,18.0,7.0,11.4,0.0,0,0,2024,Manchester United Women
+20,2023-05-21,18:45,WSL,Matchweek 21,Sun,Home,W,2,1,Manchester City,2.0,1.1,54.0,7864.0,Katie Zelem,4-2-3-1,Rebecca Welch,Match Report,,16.0,6.0,16.5,1.0,0,0,2024,Manchester United Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,W,1,0,Liverpool,1.1,0.5,67.0,,Katie Zelem,4-2-3-1,Stacey Fullicks,Match Report,,16.0,4.0,16.5,0.0,0,0,2024,Manchester United Women
+0,2022-09-16,19:30,WSL,Matchweek 2,Fri,Home,W,4,0,Brighton,3.6,0.3,73.0,3238.0,Kim Little,4-2-3-1,Lisa Benn,Match Report,,38.0,14.0,16.1,1.0,0,0,2024,Arsenal Women
+2,2022-09-24,13:30,WSL,Matchweek 3,Sat,Home,W,4,0,Tottenham,1.5,0.2,68.0,47367.0,Kim Little,4-3-3,Rebecca Welch,Match Report,,16.0,4.0,15.0,0.0,0,0,2024,Arsenal Women
+4,2022-10-16,18:45,WSL,Matchweek 4,Sun,Away,W,1,0,Reading,2.1,0.7,68.0,3660.0,Kim Little,4-3-3,Louise Saunders,Match Report,,20.0,5.0,18.0,0.0,0,1,2024,Arsenal Women
+6,2022-10-23,12:00,WSL,Matchweek 5,Sun,Away,W,2,0,Liverpool,1.4,0.7,54.0,3348.0,Kim Little,4-3-3,Anthony Backhouse,Match Report,,16.0,4.0,11.3,0.0,0,0,2024,Arsenal Women
+8,2022-10-30,18:45,WSL,Matchweek 6,Sun,Home,W,3,1,West Ham,1.6,1.3,70.0,3988.0,Kim Little,4-3-3,Abigail Bryne,Match Report,,19.0,10.0,16.2,0.0,0,0,2024,Arsenal Women
+9,2022-11-06,14:00,WSL,Matchweek 7,Sun,Away,W,4,0,Leicester City,1.9,0.2,63.0,3590.0,Jordan Nobbs,4-3-3,Amy Fearn,Match Report,,16.0,8.0,17.6,0.0,0,0,2024,Arsenal Women
+10,2022-11-19,17:30,WSL,Matchweek 8,Sat,Home,L,2,3,Manchester Utd,0.8,0.9,41.0,40604.0,Jordan Nobbs,4-3-3,Kirsty Dowle,Match Report,,9.0,2.0,18.4,0.0,0,0,2024,Arsenal Women
+12,2022-12-03,14:00,WSL,Matchweek 9,Sat,Home,W,1,0,Everton,3.1,1.3,55.0,3935.0,Katie McCabe,4-3-3,Sunny Gill,Match Report,,33.0,13.0,17.3,2.0,0,0,2024,Arsenal Women
+14,2022-12-11,16:15,WSL,Matchweek 10,Sun,Away,W,4,1,Aston Villa,1.7,0.5,52.0,6013.0,Katie McCabe,4-2-3-1,Paul Howard,Match Report,,19.0,7.0,15.4,1.0,0,0,2024,Arsenal Women
+17,2023-01-15,12:00,WSL,Matchweek 11,Sun,Home,D,1,1,Chelsea,1.6,1.3,40.0,46881.0,Kim Little,4-2-3-1,Emily Heaslip,Match Report,,12.0,6.0,19.4,0.0,1,1,2024,Arsenal Women
+18,2023-02-05,18:45,WSL,Matchweek 13,Sun,Away,D,0,0,West Ham,1.6,0.1,70.0,2632.0,Kim Little,4-3-3,Richie Watkins,Match Report,,21.0,9.0,15.3,0.0,0,0,2024,Arsenal Women
+19,2023-02-11,12:30,WSL,Matchweek 1,Sat,Away,L,1,2,Manchester City,0.3,2.3,48.0,4542.0,Kim Little,3-4-3,Rebecca Welch,Match Report,,7.0,2.0,19.3,0.0,0,0,2024,Arsenal Women
+20,2023-03-08,19:15,WSL,Matchweek 14,Wed,Home,W,2,0,Liverpool,2.6,0.2,63.0,,Kim Little,4-3-3,Emily Heaslip,Match Report,,22.0,6.0,15.1,0.0,0,0,2024,Arsenal Women
+21,2023-03-12,18:45,WSL,Matchweek 15,Sun,Home,W,4,0,Reading,4.2,0.2,71.0,3964.0,Kim Little,4-3-3,Amy Fearn,Match Report,,25.0,14.0,13.8,0.0,1,1,2024,Arsenal Women
+23,2023-03-25,15:00,WSL,Matchweek 16,Sat,Away,W,5,1,Tottenham,3.0,1.0,63.0,,Kim Little,4-3-3,Louise Saunders,Match Report,,22.0,12.0,16.3,0.0,1,1,2024,Arsenal Women
+25,2023-04-02,12:30,WSL,Matchweek 17,Sun,Home,W,2,1,Manchester City,1.0,1.4,37.0,3980.0,Leah Williamson,4-2-3-1,Abigail Byrne,Match Report,,9.0,4.0,14.0,0.0,0,0,2024,Arsenal Women
+26,2023-04-19,19:15,WSL,Matchweek 18,Wed,Away,L,0,1,Manchester Utd,0.5,0.6,46.0,6658.0,Leah Williamson,4-3-3,Abigail Byrne,Match Report,,10.0,2.0,17.2,1.0,0,0,2024,Arsenal Women
+29,2023-05-05,19:30,WSL,Matchweek 20,Fri,Home,W,1,0,Leicester City,1.9,0.6,55.0,,Katie McCabe,3-4-3,Emily Heaslip,Match Report,,14.0,6.0,17.4,2.0,0,1,2024,Arsenal Women
+30,2023-05-10,19:30,WSL,Matchweek 12,Wed,Away,W,4,0,Brighton,3.0,0.9,66.0,4411.0,Katie McCabe,3-4-3,Kirsty Dowle,Match Report,,17.0,8.0,12.8,0.0,0,0,2024,Arsenal Women
+31,2023-05-17,18:15,WSL,Matchweek 19,Wed,Away,W,4,1,Everton,3.1,0.3,54.0,,Katie McCabe,3-4-3,Cheryl Foster,Match Report,,20.0,12.0,16.4,0.0,0,0,2024,Arsenal Women
+32,2023-05-21,12:30,WSL,Matchweek 21,Sun,Away,L,0,2,Chelsea,2.0,1.9,55.0,3456.0,Katie McCabe,3-4-3,Abigail Byrne,Match Report,,11.0,7.0,24.1,1.0,0,1,2024,Arsenal Women
+33,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,L,0,2,Aston Villa,0.3,0.8,54.0,,Katie McCabe,3-4-3,Amy Fearn,Match Report,,9.0,3.0,18.4,0.0,0,0,2024,Arsenal Women
+2,2022-09-18,12:30,WSL,Matchweek 2,Sun,Away,L,3,4,Aston Villa,0.7,1.4,63.0,6785.0,Steph Houghton,4-3-3,Louise Saunders,Match Report,,15.0,7.0,18.1,0.0,0,0,2024,Manchester City Women
+3,2022-09-25,16:00,WSL,Matchweek 3,Sun,Away,L,0,2,Chelsea,0.9,1.4,43.0,4403.0,Steph Houghton,4-3-3,Abigail Bryne,Match Report,,15.0,5.0,17.0,0.0,0,0,2024,Manchester City Women
+4,2022-10-16,14:00,WSL,Matchweek 4,Sun,Home,W,4,0,Leicester City,3.3,0.2,76.0,2853.0,Alex Greenwood,4-3-3,Farai Hallam,Match Report,,22.0,7.0,12.6,0.0,0,1,2024,Manchester City Women
+5,2022-10-22,11:30,WSL,Matchweek 5,Sat,Away,W,3,0,Tottenham,0.9,0.1,67.0,1888.0,Alex Greenwood,4-3-3,Emily Heaslip,Match Report,,20.0,8.0,17.5,0.0,0,0,2024,Manchester City Women
+6,2022-10-30,14:00,WSL,Matchweek 6,Sun,Home,W,2,1,Liverpool,2.1,0.9,59.0,4002.0,Alex Greenwood,4-3-3,Kirsty Dowle,Match Report,,21.0,7.0,14.5,0.0,0,0,2024,Manchester City Women
+7,2022-11-06,14:00,WSL,Matchweek 7,Sun,Away,W,3,0,Reading,1.4,0.1,75.0,1911.0,Esme Morgan,4-3-3,Abigail Byrne,Match Report,,19.0,5.0,14.4,0.0,0,0,2024,Manchester City Women
+8,2022-11-19,15:00,WSL,Matchweek 8,Sat,Away,W,2,1,Everton,3.7,0.4,52.0,960.0,Esme Morgan,4-3-3,Emily Heaslip,Match Report,,25.0,7.0,14.6,1.0,0,0,2024,Manchester City Women
+9,2022-12-04,14:00,WSL,Matchweek 9,Sun,Home,W,3,1,Brighton,3.0,1.0,63.0,1696.0,Alex Greenwood,4-3-3,Cheryl Foster,Match Report,,27.0,7.0,16.4,1.0,0,0,2024,Manchester City Women
+10,2022-12-11,12:30,WSL,Matchweek 10,Sun,Home,D,1,1,Manchester Utd,1.6,1.1,54.0,44259.0,Alex Greenwood,4-3-3,Abigail Byrne,Match Report,,13.0,5.0,15.3,1.0,0,0,2024,Manchester City Women
+11,2023-01-15,18:45,WSL,Matchweek 11,Sun,Away,W,1,0,West Ham,3.7,0.8,67.0,1586.0,Alex Greenwood,4-3-3,Amy Fearn,Match Report,,24.0,6.0,11.6,0.0,0,0,2024,Manchester City Women
+12,2023-01-21,11:30,WSL,Matchweek 12,Sat,Home,D,1,1,Aston Villa,2.0,0.7,51.0,,Alex Greenwood,4-2-3-1,Cheryl Foster,Match Report,,17.0,5.0,14.9,0.0,0,0,2024,Manchester City Women
+13,2023-02-04,11:30,WSL,Matchweek 13,Sat,Away,W,2,0,Leicester City,3.4,0.3,74.0,,Steph Houghton,4-2-3-1,Amy Fearn,Match Report,,32.0,17.0,15.6,0.0,0,0,2024,Manchester City Women
+14,2023-02-11,12:30,WSL,Matchweek 1,Sat,Home,W,2,1,Arsenal,2.3,0.3,52.0,4542.0,Steph Houghton,4-2-3-1,Rebecca Welch,Match Report,,17.0,6.0,17.4,0.0,0,0,2024,Manchester City Women
+15,2023-03-05,14:00,WSL,Matchweek 14,Sun,Home,W,3,1,Tottenham,2.4,0.8,65.0,,Steph Houghton,4-2-3-1,Abigail Byrne,Match Report,,28.0,8.0,19.3,0.0,1,1,2024,Manchester City Women
+16,2023-03-12,14:00,WSL,Matchweek 15,Sun,Away,W,2,1,Brighton,2.7,0.4,61.0,3500.0,Steph Houghton,4-2-3-1,Yoshimi Yamashita,Match Report,,24.0,9.0,14.8,0.0,0,0,2024,Manchester City Women
+17,2023-03-26,12:40,WSL,Matchweek 16,Sun,Home,W,2,0,Chelsea,0.9,0.6,49.0,5222.0,Steph Houghton,4-3-3,Paul Howard,Match Report,,16.0,3.0,17.0,1.0,0,0,2024,Manchester City Women
+18,2023-04-02,12:30,WSL,Matchweek 17,Sun,Away,L,1,2,Arsenal,1.4,1.0,63.0,3980.0,Steph Houghton,4-2-3-1,Abigail Byrne,Match Report,,14.0,5.0,15.8,1.0,0,0,2024,Manchester City Women
+19,2023-04-23,18:45,WSL,Matchweek 18,Sun,Home,W,6,2,West Ham,2.3,1.3,66.0,2649.0,Steph Houghton,4-3-3,Jane Simms,Match Report,,19.0,10.0,16.5,0.0,0,0,2024,Manchester City Women
+20,2023-04-30,14:00,WSL,Matchweek 19,Sun,Home,W,4,1,Reading,4.7,0.4,70.0,3102.0,Steph Houghton,4-2-3-1,Amy Fearn,Match Report,,37.0,13.0,16.2,1.0,0,0,2024,Manchester City Women
+21,2023-05-07,14:00,WSL,Matchweek 20,Sun,Away,L,1,2,Liverpool,1.7,0.9,67.0,2552.0,Steph Houghton,4-2-3-1,Jane Simms,Match Report,,17.0,3.0,14.5,0.0,0,0,2024,Manchester City Women
+22,2023-05-21,18:45,WSL,Matchweek 21,Sun,Away,L,1,2,Manchester Utd,1.1,2.0,46.0,7864.0,Steph Houghton,4-2-3-1,Rebecca Welch,Match Report,,13.0,3.0,14.1,0.0,0,0,2024,Manchester City Women
+23,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,W,3,2,Everton,2.1,1.0,61.0,3828.0,Steph Houghton,4-2-3-1,Kirsty Dowle,Match Report,,19.0,6.0,15.3,0.0,0,0,2024,Manchester City Women
+0,2022-09-18,12:30,WSL,Matchweek 2,Sun,Home,W,4,3,Manchester City,1.4,0.7,37.0,6785.0,Rachel Corsie,4-3-3,Louise Saunders,Match Report,,13.0,7.0,18.1,0.0,0,0,2024,Aston Villa Women
+1,2022-09-25,15:00,WSL,Matchweek 3,Sun,Away,W,2,0,Leicester City,1.4,0.8,56.0,2713.0,Rachel Corsie,4-3-3,Thomas Parsons,Match Report,,14.0,5.0,20.0,1.0,1,1,2024,Aston Villa Women
+2,2022-10-15,12:30,WSL,Matchweek 4,Sat,Home,L,1,2,West Ham,2.3,1.0,68.0,1753.0,Rachel Corsie,4-3-3,Cheryl Foster,Match Report,,19.0,6.0,18.0,2.0,0,1,2024,Aston Villa Women
+3,2022-10-22,12:30,WSL,Matchweek 5,Sat,Home,L,0,1,Everton,0.7,0.8,43.0,1636.0,Rachel Corsie,4-3-3,Kirsty Dowle,Match Report,,13.0,2.0,19.1,0.0,0,0,2024,Aston Villa Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Away,L,1,3,Chelsea,0.6,1.7,36.0,4373.0,Rachel Corsie,4-3-3,Martin Woods,Match Report,,8.0,3.0,21.6,0.0,0,0,2024,Aston Villa Women
+5,2022-11-06,14:00,WSL,Matchweek 7,Sun,Away,W,1,0,Liverpool,1.5,1.1,60.0,1719.0,Rachel Corsie,4-3-3,Robert Massey Ellis,Match Report,,8.0,2.0,20.5,0.0,1,1,2024,Aston Villa Women
+6,2022-11-20,14:00,WSL,Matchweek 8,Sun,Home,W,3,1,Reading,2.4,0.4,62.0,4566.0,Rachel Corsie,4-3-3,Adam Herczeg,Match Report,,22.0,5.0,13.8,1.0,1,1,2024,Aston Villa Women
+7,2022-12-03,12:30,WSL,Matchweek 9,Sat,Away,L,0,5,Manchester Utd,0.4,2.3,39.0,30196.0,Rachel Corsie,4-3-3,Louise Saunders,Match Report,,13.0,4.0,20.1,0.0,0,0,2024,Aston Villa Women
+8,2022-12-11,16:15,WSL,Matchweek 10,Sun,Home,L,1,4,Arsenal,0.5,1.7,48.0,6013.0,Rachel Corsie,4-3-3,Paul Howard,Match Report,,8.0,6.0,19.1,0.0,0,0,2024,Aston Villa Women
+9,2023-01-14,12:30,WSL,Matchweek 11,Sat,Home,W,2,1,Tottenham,0.9,0.8,57.0,2049.0,Danielle Turner,4-3-3,Thomas Kirk,Match Report,,10.0,6.0,16.6,0.0,0,0,2024,Aston Villa Women
+10,2023-01-21,11:30,WSL,Matchweek 12,Sat,Away,D,1,1,Manchester City,0.7,2.0,49.0,,Danielle Turner,4-2-3-1,Cheryl Foster,Match Report,,11.0,2.0,18.3,0.0,0,0,2024,Aston Villa Women
+11,2023-02-04,12:30,WSL,Matchweek 13,Sat,Home,D,1,1,Brighton,0.9,0.6,60.0,1365.0,Danielle Turner,4-3-3,Louise Saunders,Match Report,,11.0,4.0,21.1,0.0,0,0,2024,Aston Villa Women
+12,2023-02-12,14:00,WSL,Matchweek 1,Sun,Away,W,6,2,Brighton,2.3,1.1,55.0,2593.0,Danielle Turner,4-3-3,Elizabeth Simms,Match Report,,17.0,8.0,17.1,0.0,0,0,2024,Aston Villa Women
+13,2023-03-05,13:00,WSL,Matchweek 14,Sun,Away,W,2,0,Everton,1.1,0.4,47.0,,Rachel Corsie,4-3-3,Amy Fearn,Match Report,,12.0,3.0,16.2,0.0,0,0,2024,Aston Villa Women
+14,2023-03-12,15:00,WSL,Matchweek 15,Sun,Away,W,2,1,West Ham,0.8,1.4,59.0,,Rachel Corsie,4-3-3,James Bell,Match Report,,10.0,2.0,18.5,0.0,0,0,2024,Aston Villa Women
+15,2023-03-26,14:00,WSL,Matchweek 16,Sun,Home,W,5,0,Leicester City,2.0,0.9,49.0,6489.0,Danielle Turner,4-3-3,Jane Simms,Match Report,,11.0,7.0,12.7,0.0,0,0,2024,Aston Villa Women
+16,2023-04-02,18:45,WSL,Matchweek 17,Sun,Home,L,0,3,Chelsea,1.3,2.2,57.0,3835.0,Danielle Turner,4-2-3-1,Louise Saunders,Match Report,,12.0,4.0,14.9,0.0,0,0,2024,Aston Villa Women
+17,2023-04-23,14:00,WSL,Matchweek 18,Sun,Away,D,3,3,Tottenham,1.8,1.7,65.0,,Danielle Turner,4-3-3,Stacey Pearson,Match Report,,11.0,7.0,14.5,0.0,0,0,2024,Aston Villa Women
+18,2023-04-28,19:15,WSL,Matchweek 19,Fri,Home,L,2,3,Manchester Utd,0.6,1.6,47.0,4176.0,Danielle Turner,4-3-3,Lisa Benn,Match Report,,8.0,2.0,13.5,0.0,0,0,2024,Aston Villa Women
+19,2023-05-07,14:00,WSL,Matchweek 20,Sun,Away,W,5,0,Reading,2.3,0.3,65.0,,Danielle Turner,4-3-3,Abigail Byrne,Match Report,,13.0,8.0,16.1,0.0,0,0,2024,Aston Villa Women
+20,2023-05-21,14:00,WSL,Matchweek 21,Sun,Home,D,3,3,Liverpool,1.3,1.2,51.0,7517.0,Danielle Turner,4-3-3,Kirsty Dowle,Match Report,,15.0,4.0,14.3,0.0,0,0,2024,Aston Villa Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,W,2,0,Arsenal,0.8,0.3,46.0,,Remi Allen,4-3-3,Amy Fearn,Match Report,,9.0,5.0,14.2,0.0,0,0,2024,Aston Villa Women
+0,2022-09-18,15:00,WSL,Matchweek 2,Sun,Away,L,0,1,West Ham,0.6,0.4,65.0,1118.0,Lucy Graham,5-4-1,Lauren Impey,Match Report,,10.0,3.0,15.5,0.0,0,0,2024,Everton Women
+1,2022-09-25,18:45,WSL,Matchweek 3,Sun,Away,W,3,0,Liverpool,1.3,1.4,55.0,27574.0,Izzy Christiansen,3-4-3,Andrew Kitchen,Match Report,,19.0,9.0,15.8,0.0,0,0,2024,Everton Women
+2,2022-09-29,18:30,WSL,Matchweek 1,Thu,Home,W,1,0,Leicester City,0.3,0.2,67.0,724.0,Izzy Christiansen,5-4-1,Cheryl Foster,Match Report,,8.0,2.0,23.0,0.0,0,0,2024,Everton Women
+3,2022-10-16,13:00,WSL,Matchweek 4,Sun,Home,L,1,3,Chelsea,0.7,2.3,50.0,1668.0,Nathalie Björn,3-4-3,Lauren Impey,Match Report,,10.0,1.0,18.1,0.0,0,0,2024,Everton Women
+4,2022-10-22,12:30,WSL,Matchweek 5,Sat,Away,W,1,0,Aston Villa,0.8,0.7,57.0,1636.0,Lucy Graham,5-3-2,Kirsty Dowle,Match Report,,10.0,4.0,16.9,0.0,0,0,2024,Everton Women
+5,2022-10-30,14:00,WSL,Matchweek 6,Sun,Home,L,0,3,Manchester Utd,0.3,0.7,48.0,1752.0,Gabrielle George,3-4-3,Adam Herczeg,Match Report,,4.0,3.0,12.2,0.0,0,0,2024,Everton Women
+6,2022-11-19,15:00,WSL,Matchweek 8,Sat,Home,L,1,2,Manchester City,0.4,3.7,48.0,960.0,Lucy Graham,5-3-2,Emily Heaslip,Match Report,,7.0,4.0,14.7,0.0,0,0,2024,Everton Women
+7,2022-12-03,14:00,WSL,Matchweek 9,Sat,Away,L,0,1,Arsenal,1.3,3.1,45.0,3935.0,Nathalie Björn,4-3-3,Sunny Gill,Match Report,,11.0,5.0,15.1,0.0,0,0,2024,Everton Women
+8,2022-12-14,19:00,WSL,Matchweek 7,Wed,Away,W,3,0,Tottenham,1.3,0.4,48.0,303.0,Gabrielle George,4-3-3,Kirsty Dowle,Match Report,,16.0,8.0,18.4,0.0,0,0,2024,Everton Women
+9,2023-01-15,13:00,WSL,Matchweek 11,Sun,Home,W,3,2,Reading,1.1,0.9,51.0,616.0,Gabrielle George,4-3-3,Tom Reeves,Match Report,,15.0,5.0,17.3,0.0,0,0,2024,Everton Women
+10,2023-01-22,14:00,WSL,Matchweek 12,Sun,Home,W,3,0,West Ham,0.8,0.7,43.0,,Lucy Graham,4-3-3,Tom Nield,Match Report,,10.0,5.0,17.8,0.0,0,0,2024,Everton Women
+11,2023-02-05,12:00,WSL,Matchweek 13,Sun,Away,D,0,0,Manchester Utd,0.4,2.1,32.0,5040.0,Gabrielle George,3-5-2,Emily Heaslip,Match Report,,5.0,1.0,15.2,0.0,0,0,2024,Everton Women
+12,2023-03-05,13:00,WSL,Matchweek 14,Sun,Home,L,0,2,Aston Villa,0.4,1.1,53.0,,Nathalie Björn,3-4-3,Amy Fearn,Match Report,,7.0,3.0,23.6,1.0,0,0,2024,Everton Women
+13,2023-03-12,15:00,WSL,Matchweek 15,Sun,Away,D,0,0,Leicester City,1.7,0.9,61.0,1237.0,Nathalie Björn,4-3-3,Stacey Fullicks,Match Report,,13.0,2.0,12.8,0.0,0,0,2024,Everton Women
+14,2023-03-24,19:30,WSL,Matchweek 16,Fri,Home,D,1,1,Liverpool,1.3,1.5,62.0,22161.0,Gabrielle George,4-3-3,Lauren Impey,Match Report,,13.0,2.0,16.7,0.0,0,0,2024,Everton Women
+15,2023-04-02,13:00,WSL,Matchweek 17,Sun,Home,W,2,1,Tottenham,0.7,0.4,62.0,,Izzy Christiansen,4-3-3,Lisa Benn,Match Report,,11.0,4.0,19.3,1.0,0,0,2024,Everton Women
+16,2023-04-19,19:00,WSL,Matchweek 10,Wed,Away,L,2,3,Brighton,1.7,0.9,62.0,2456.0,Izzy Christiansen,4-3-3,Lauren Impey,Match Report,,13.0,5.0,14.5,2.0,0,0,2024,Everton Women
+17,2023-04-23,14:00,WSL,Matchweek 18,Sun,Away,W,3,2,Reading,2.6,1.1,62.0,,Lucy Graham,4-3-3,Louise Saunders,Match Report,,17.0,7.0,15.7,0.0,1,1,2024,Everton Women
+18,2023-05-07,18:45,WSL,Matchweek 20,Sun,Away,L,0,7,Chelsea,0.4,2.5,46.0,,Nicoline Sørensen,4-3-3,Lisa Benn,Match Report,,8.0,3.0,22.6,0.0,0,0,2024,Everton Women
+19,2023-05-17,18:15,WSL,Matchweek 19,Wed,Home,L,1,4,Arsenal,0.3,3.1,46.0,,Nicoline Sørensen,3-4-1-2,Cheryl Foster,Match Report,,4.0,1.0,14.9,0.0,0,0,2024,Everton Women
+20,2023-05-21,13:00,WSL,Matchweek 21,Sun,Home,W,2,1,Brighton,1.2,1.2,61.0,,Lucy Graham,3-4-1-2,Lauren Impey,Match Report,,19.0,5.0,15.6,0.0,0,0,2024,Everton Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,L,2,3,Manchester City,1.0,2.1,39.0,3828.0,Izzy Christiansen,3-5-2,Kirsty Dowle,Match Report,,12.0,7.0,16.4,0.0,0,0,2024,Everton Women
+0,2022-09-18,17:00,WSL,Matchweek 2,Sun,Home,W,2,1,Chelsea,2.0,1.3,32.0,3006.0,Niamh Fahey,3-4-3,Emily Heaslip,Match Report,,3.0,0.0,27.9,0.0,2,2,2024,Liverpool Women
+1,2022-09-25,18:45,WSL,Matchweek 3,Sun,Home,L,0,3,Everton,1.4,1.3,45.0,27574.0,Niamh Fahey,3-4-3,Andrew Kitchen,Match Report,,10.0,1.0,16.0,0.0,0,0,2024,Liverpool Women
+2,2022-10-16,14:00,WSL,Matchweek 4,Sun,Away,L,0,1,Tottenham,0.5,1.1,49.0,2105.0,Niamh Fahey,3-4-3,Abigail Bryne,Match Report,,10.0,3.0,18.5,0.0,0,0,2024,Liverpool Women
+3,2022-10-23,12:00,WSL,Matchweek 5,Sun,Home,L,0,2,Arsenal,0.7,1.4,46.0,3348.0,Niamh Fahey,3-4-3,Anthony Backhouse,Match Report,,7.0,2.0,17.0,0.0,0,0,2024,Liverpool Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Away,L,1,2,Manchester City,0.9,2.1,41.0,4002.0,Niamh Fahey,3-4-3,Kirsty Dowle,Match Report,,10.0,3.0,19.3,0.0,0,0,2024,Liverpool Women
+5,2022-11-06,14:00,WSL,Matchweek 7,Sun,Home,L,0,1,Aston Villa,1.1,1.5,40.0,1719.0,Niamh Fahey,3-4-3,Robert Massey Ellis,Match Report,,14.0,1.0,16.9,1.0,0,0,2024,Liverpool Women
+6,2022-11-20,14:00,WSL,Matchweek 8,Sun,Away,D,3,3,Brighton,1.3,1.5,59.0,2980.0,Niamh Fahey,3-4-3,Abigail Byrne,Match Report,,12.0,6.0,13.8,0.0,0,0,2024,Liverpool Women
+7,2022-11-24,19:00,WSL,Matchweek 1,Thu,Away,D,3,3,Reading,1.1,1.7,44.0,1479.0,Eartha Cumings,4-3-3,Amy Fearn,Match Report,,16.0,4.0,15.5,0.0,0,0,2024,Liverpool Women
+8,2022-12-04,14:00,WSL,Matchweek 9,Sun,Home,W,2,0,West Ham,2.3,0.3,48.0,1075.0,Niamh Fahey,3-4-3,Neil Hair,Match Report,,24.0,8.0,16.8,0.0,0,0,2024,Liverpool Women
+9,2023-01-15,14:05,WSL,Matchweek 11,Sun,Away,L,0,6,Manchester Utd,0.2,2.7,29.0,7662.0,Niamh Fahey,5-4-1,Kirsty Dowle,Match Report,,4.0,0.0,19.7,1.0,0,0,2024,Liverpool Women
+10,2023-02-05,14:00,WSL,Matchweek 13,Sun,Home,W,2,0,Reading,0.7,0.5,46.0,,Taylor Hinds,5-4-1,Jane Simms,Match Report,,8.0,4.0,16.3,0.0,0,0,2024,Liverpool Women
+11,2023-02-12,14:00,WSL,Matchweek 10,Sun,Home,L,0,1,Leicester City,0.8,0.6,59.0,,Taylor Hinds,5-4-1,Richie Watkins,Match Report,,10.0,4.0,16.1,0.0,0,0,2024,Liverpool Women
+12,2023-03-08,19:15,WSL,Matchweek 14,Wed,Away,L,0,2,Arsenal,0.2,2.6,37.0,,Taylor Hinds,4-4-2,Emily Heaslip,Match Report,,6.0,1.0,24.0,1.0,0,0,2024,Liverpool Women
+13,2023-03-12,14:00,WSL,Matchweek 15,Sun,Home,W,2,1,Tottenham,0.8,0.6,42.0,,Taylor Hinds,5-4-1,Jane Simms,Match Report,,13.0,5.0,17.6,0.0,0,0,2024,Liverpool Women
+14,2023-03-24,19:30,WSL,Matchweek 16,Fri,Away,D,1,1,Everton,1.5,1.3,38.0,22161.0,Taylor Hinds,3-4-1-2,Lauren Impey,Match Report,,17.0,6.0,18.8,0.0,0,0,2024,Liverpool Women
+15,2023-04-02,17:00,WSL,Matchweek 17,Sun,Away,D,0,0,West Ham,0.5,0.1,57.0,2014.0,Rachael Laws,3-4-1-2,Jane Simms,Match Report,,9.0,1.0,16.3,0.0,0,0,2024,Liverpool Women
+16,2023-04-23,14:00,WSL,Matchweek 18,Sun,Home,W,2,1,Brighton,1.0,0.7,48.0,,Taylor Hinds,4-3-3,Lisa Benn,Match Report,,11.0,6.0,17.0,0.0,0,0,2024,Liverpool Women
+17,2023-04-29,12:30,WSL,Matchweek 19,Sat,Away,L,0,4,Leicester City,0.9,1.3,49.0,,Taylor Hinds,4-2-3-1,Emily Heaslip,Match Report,,16.0,8.0,17.9,0.0,0,0,2024,Liverpool Women
+18,2023-05-03,19:15,WSL,Matchweek 12,Wed,Away,L,1,2,Chelsea,0.7,2.7,33.0,1664.0,Taylor Hinds,5-3-2,Abigail Byrne,Match Report,,4.0,3.0,17.7,0.0,0,0,2024,Liverpool Women
+19,2023-05-07,14:00,WSL,Matchweek 20,Sun,Home,W,2,1,Manchester City,0.9,1.7,33.0,2552.0,Taylor Hinds,5-3-2,Jane Simms,Match Report,,6.0,4.0,21.2,1.0,0,0,2024,Liverpool Women
+20,2023-05-21,14:00,WSL,Matchweek 21,Sun,Away,D,3,3,Aston Villa,1.2,1.3,49.0,7517.0,Niamh Fahey,3-4-1-2,Kirsty Dowle,Match Report,,15.0,7.0,20.3,0.0,0,0,2024,Liverpool Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,L,0,1,Manchester Utd,0.5,1.1,33.0,,Niamh Fahey,3-4-1-2,Stacey Fullicks,Match Report,,7.0,2.0,18.4,0.0,0,0,2024,Liverpool Women
+0,2022-09-18,15:00,WSL,Matchweek 2,Sun,Home,W,1,0,Everton,0.4,0.6,35.0,1118.0,Dagný Brynjarsdóttir,4-3-3,Lauren Impey,Match Report,,7.0,2.0,16.9,1.0,0,0,2024,West Ham United Women
+1,2022-09-25,15:00,WSL,Matchweek 3,Sun,Home,L,0,2,Manchester Utd,0.6,1.2,34.0,2104.0,Dagný Brynjarsdóttir,4-4-2,Emily Heaslip,Match Report,,9.0,1.0,20.7,1.0,0,0,2024,West Ham United Women
+2,2022-09-28,19:05,WSL,Matchweek 1,Wed,Away,L,1,3,Chelsea,0.2,2.5,31.0,2842.0,Dagný Brynjarsdóttir,3-5-2,Tom Reeves,Match Report,,4.0,2.0,22.6,0.0,0,0,2024,West Ham United Women
+3,2022-10-15,12:30,WSL,Matchweek 4,Sat,Away,W,2,1,Aston Villa,1.0,2.3,32.0,1753.0,Dagný Brynjarsdóttir,4-3-3,Cheryl Foster,Match Report,,9.0,3.0,14.3,0.0,0,0,2024,West Ham United Women
+4,2022-10-23,15:00,WSL,Matchweek 5,Sun,Home,W,3,2,Reading,1.6,1.4,54.0,1041.0,Dagný Brynjarsdóttir,4-3-3,Lauren Impey,Match Report,,12.0,5.0,15.1,1.0,0,0,2024,West Ham United Women
+5,2022-10-30,18:45,WSL,Matchweek 6,Sun,Away,L,1,3,Arsenal,1.3,1.6,30.0,3988.0,Dagný Brynjarsdóttir,4-3-3,Abigail Bryne,Match Report,,9.0,3.0,16.2,0.0,0,0,2024,West Ham United Women
+6,2022-11-06,15:00,WSL,Matchweek 7,Sun,Home,L,4,5,Brighton,1.1,3.5,48.0,1129.0,Dagný Brynjarsdóttir,4-3-3,Emily Heaslip,Match Report,,7.0,3.0,11.6,0.0,0,0,2024,West Ham United Women
+7,2022-11-20,15:00,WSL,Matchweek 8,Sun,Home,W,1,0,Leicester City,0.6,1.3,45.0,1038.0,Dagný Brynjarsdóttir,4-3-3,Louise Saunders,Match Report,,8.0,2.0,19.1,0.0,0,0,2024,West Ham United Women
+8,2022-12-04,14:00,WSL,Matchweek 9,Sun,Away,L,0,2,Liverpool,0.3,2.3,52.0,1075.0,Dagný Brynjarsdóttir,4-3-3,Neil Hair,Match Report,,3.0,2.0,13.5,0.0,0,0,2024,West Ham United Women
+9,2022-12-11,14:00,WSL,Matchweek 10,Sun,Away,W,2,0,Tottenham,1.8,1.0,42.0,1391.0,Dagný Brynjarsdóttir,4-3-3,Richie Watkins,Match Report,,9.0,3.0,15.5,0.0,0,1,2024,West Ham United Women
+10,2023-01-15,18:45,WSL,Matchweek 11,Sun,Home,L,0,1,Manchester City,0.8,3.7,33.0,1586.0,Dagný Brynjarsdóttir,4-3-3,Amy Fearn,Match Report,,7.0,1.0,13.8,0.0,0,0,2024,West Ham United Women
+11,2023-01-22,14:00,WSL,Matchweek 12,Sun,Away,L,0,3,Everton,0.7,0.8,57.0,,Dagný Brynjarsdóttir,4-3-3,Tom Nield,Match Report,,12.0,4.0,19.7,0.0,0,0,2024,West Ham United Women
+12,2023-02-05,18:45,WSL,Matchweek 13,Sun,Home,D,0,0,Arsenal,0.1,1.6,30.0,2632.0,Dagný Brynjarsdóttir,4-3-3,Richie Watkins,Match Report,,2.0,1.0,25.1,0.0,0,0,2024,West Ham United Women
+13,2023-03-05,14:00,WSL,Matchweek 14,Sun,Away,L,1,2,Reading,0.9,1.2,51.0,,Hawa Cissoko,4-4-1-1,Lisa Benn,Match Report,,14.0,6.0,16.0,0.0,0,0,2024,West Ham United Women
+14,2023-03-12,15:00,WSL,Matchweek 15,Sun,Home,L,1,2,Aston Villa,1.4,0.8,41.0,,Hawa Cissoko,4-4-1-1,James Bell,Match Report,,8.0,5.0,15.5,0.0,0,0,2024,West Ham United Women
+15,2023-03-25,17:30,WSL,Matchweek 16,Sat,Away,L,0,4,Manchester Utd,0.5,2.3,33.0,27919.0,Dagný Brynjarsdóttir,4-4-2,Emily Heaslip,Match Report,,8.0,4.0,17.3,1.0,0,0,2024,West Ham United Women
+16,2023-04-02,17:00,WSL,Matchweek 17,Sun,Home,D,0,0,Liverpool,0.1,0.5,43.0,2014.0,Dagný Brynjarsdóttir,4-4-1-1,Jane Simms,Match Report,,4.0,0.0,25.8,0.0,0,0,2024,West Ham United Women
+17,2023-04-23,18:45,WSL,Matchweek 18,Sun,Away,L,2,6,Manchester City,1.3,2.3,34.0,2649.0,Dagný Brynjarsdóttir,4-2-3-1,Jane Simms,Match Report,,9.0,4.0,14.6,0.0,0,0,2024,West Ham United Women
+18,2023-05-07,14:00,WSL,Matchweek 20,Sun,Away,L,0,1,Brighton,0.2,1.0,52.0,2952.0,Dagný Brynjarsdóttir,4-4-1-1,Amy Fearn,Match Report,,4.0,0.0,17.5,0.0,0,0,2024,West Ham United Women
+19,2023-05-17,20:15,WSL,Matchweek 19,Wed,Home,L,0,4,Chelsea,0.4,2.4,28.0,,Dagný Brynjarsdóttir,5-3-2,Louise Saunders,Match Report,,5.0,1.0,16.0,0.0,0,0,2024,West Ham United Women
+20,2023-05-21,15:00,WSL,Matchweek 21,Sun,Away,W,2,1,Leicester City,1.1,2.5,36.0,4023.0,Dagný Brynjarsdóttir,4-2-3-1,Lisa Benn,Match Report,,4.0,2.0,24.5,0.0,1,1,2024,West Ham United Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,D,2,2,Tottenham,1.0,0.9,48.0,,Dagný Brynjarsdóttir,4-4-1-1,Stacey Pearson,Match Report,,16.0,7.0,18.5,0.0,0,0,2024,West Ham United Women
+0,2022-09-18,15:00,WSL,Matchweek 2,Sun,Away,W,2,1,Leicester City,0.3,0.3,59.0,2868.0,Shelina Zadorsky,3-4-3,Kirsty Dowle,Match Report,,9.0,4.0,22.4,0.0,0,0,2024,Tottenham Women
+1,2022-09-24,13:30,WSL,Matchweek 3,Sat,Away,L,0,4,Arsenal,0.2,1.5,32.0,47367.0,Shelina Zadorsky,3-4-3,Rebecca Welch,Match Report,,4.0,1.0,30.2,0.0,0,0,2024,Tottenham Women
+2,2022-10-16,14:00,WSL,Matchweek 4,Sun,Home,W,1,0,Liverpool,1.1,0.5,51.0,2105.0,Shelina Zadorsky,3-4-3,Abigail Bryne,Match Report,,18.0,3.0,18.6,0.0,0,0,2024,Tottenham Women
+3,2022-10-22,11:30,WSL,Matchweek 5,Sat,Home,L,0,3,Manchester City,0.1,0.9,33.0,1888.0,Shelina Zadorsky,4-4-2,Emily Heaslip,Match Report,,3.0,0.0,23.3,0.0,0,0,2024,Tottenham Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Away,W,8,0,Brighton,2.8,0.8,51.0,2514.0,Shelina Zadorsky,4-4-2,Louise Saunders,Match Report,,18.0,12.0,17.1,0.0,0,0,2024,Tottenham Women
+5,2022-11-20,13:00,WSL,Matchweek 8,Sun,Away,L,0,3,Chelsea,0.7,1.5,43.0,38350.0,Shelina Zadorsky,4-4-1-1,Rebecca Welch,Match Report,,8.0,3.0,27.2,1.0,0,0,2024,Tottenham Women
+6,2022-12-04,12:30,WSL,Matchweek 9,Sun,Away,L,0,1,Reading,0.9,1.3,56.0,1052.0,Shelina Zadorsky,4-2-3-1,Carl Brook,Match Report,,15.0,4.0,16.8,1.0,0,0,2024,Tottenham Women
+7,2022-12-11,14:00,WSL,Matchweek 10,Sun,Home,L,0,2,West Ham,1.0,1.8,58.0,1391.0,Shelina Zadorsky,3-4-3,Richie Watkins,Match Report,,14.0,2.0,19.3,0.0,0,0,2024,Tottenham Women
+8,2022-12-14,19:00,WSL,Matchweek 7,Wed,Home,L,0,3,Everton,0.4,1.3,52.0,303.0,Shelina Zadorsky,4-2-3-1,Kirsty Dowle,Match Report,,7.0,4.0,18.8,1.0,0,0,2024,Tottenham Women
+9,2023-01-14,12:30,WSL,Matchweek 11,Sat,Away,L,1,2,Aston Villa,0.8,0.9,43.0,2049.0,Shelina Zadorsky,4-2-3-1,Thomas Kirk,Match Report,,6.0,3.0,18.3,1.0,0,0,2024,Tottenham Women
+10,2023-02-05,12:30,WSL,Matchweek 13,Sun,Home,L,2,3,Chelsea,1.1,0.7,42.0,,Shelina Zadorsky,3-4-3,Abigail Byrne,Match Report,,6.0,2.0,14.1,0.0,0,0,2024,Tottenham Women
+11,2023-02-12,12:00,WSL,Matchweek 1,Sun,Home,L,1,2,Manchester Utd,0.3,0.8,40.0,,Shelina Zadorsky,5-4-1,Amy Fearn,Match Report,,5.0,1.0,18.5,0.0,0,0,2024,Tottenham Women
+12,2023-03-05,14:00,WSL,Matchweek 14,Sun,Away,L,1,3,Manchester City,0.8,2.4,35.0,,Ashleigh Neville,5-4-1,Abigail Byrne,Match Report,,7.0,2.0,14.8,0.0,0,0,2024,Tottenham Women
+13,2023-03-12,14:00,WSL,Matchweek 15,Sun,Away,L,1,2,Liverpool,0.6,0.8,58.0,,Ashleigh Neville,4-4-2,Jane Simms,Match Report,,11.0,4.0,18.3,0.0,0,0,2024,Tottenham Women
+14,2023-03-15,19:00,WSL,Matchweek 12,Wed,Home,W,1,0,Leicester City,0.6,0.4,49.0,,Ashleigh Neville,4-4-2,Yoshimi Yamashita,Match Report,,11.0,4.0,18.7,0.0,0,0,2024,Tottenham Women
+15,2023-03-25,15:00,WSL,Matchweek 16,Sat,Home,L,1,5,Arsenal,1.0,3.0,37.0,,Ashleigh Neville,4-4-2,Louise Saunders,Match Report,,4.0,0.0,19.7,0.0,1,1,2024,Tottenham Women
+16,2023-04-02,13:00,WSL,Matchweek 17,Sun,Away,L,1,2,Everton,0.4,0.7,38.0,,Ashleigh Neville,4-4-2,Lisa Benn,Match Report,,6.0,3.0,19.6,0.0,0,0,2024,Tottenham Women
+17,2023-04-23,14:00,WSL,Matchweek 18,Sun,Home,D,3,3,Aston Villa,1.7,1.8,35.0,,Ashleigh Neville,4-4-2,Stacey Pearson,Match Report,,11.0,5.0,16.2,0.0,0,0,2024,Tottenham Women
+18,2023-04-29,17:15,WSL,Matchweek 19,Sat,Home,D,2,2,Brighton,1.2,1.5,51.0,,Ashleigh Neville,4-4-2,Cheryl Foster,Match Report,,12.0,4.0,18.0,0.0,0,0,2024,Tottenham Women
+19,2023-05-07,12:30,WSL,Matchweek 20,Sun,Away,L,0,3,Manchester Utd,1.1,2.1,24.0,,Shelina Zadorsky,4-4-2,Kirsty Dowle,Match Report,,10.0,3.0,13.0,0.0,0,0,2024,Tottenham Women
+20,2023-05-20,16:15,WSL,Matchweek 21,Sat,Home,W,4,1,Reading,1.9,0.8,56.0,,Ashleigh Neville,4-4-2,Emily Heaslip,Match Report,,10.0,5.0,14.2,0.0,0,0,2024,Tottenham Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,D,2,2,West Ham,0.9,1.0,52.0,,Ashleigh Neville,4-4-2,Stacey Pearson,Match Report,,7.0,4.0,14.4,0.0,0,0,2024,Tottenham Women
+0,2022-09-18,15:00,WSL,Matchweek 2,Sun,Home,L,1,2,Tottenham,0.3,0.3,41.0,2868.0,Aileen Whelan,3-5-2,Kirsty Dowle,Match Report,,7.0,1.0,18.2,0.0,0,0,2024,Leicester City Women
+1,2022-09-25,15:00,WSL,Matchweek 3,Sun,Home,L,0,2,Aston Villa,0.8,1.4,44.0,2713.0,Aileen Whelan,3-5-2,Thomas Parsons,Match Report,,14.0,4.0,20.2,0.0,0,0,2024,Leicester City Women
+2,2022-09-29,18:30,WSL,Matchweek 1,Thu,Away,L,0,1,Everton,0.2,0.3,33.0,724.0,Aileen Whelan,3-5-2,Cheryl Foster,Match Report,,8.0,3.0,24.0,1.0,0,0,2024,Leicester City Women
+3,2022-10-16,14:00,WSL,Matchweek 4,Sun,Away,L,0,4,Manchester City,0.2,3.3,24.0,2853.0,Aileen Whelan,4-4-1-1,Farai Hallam,Match Report,,4.0,0.0,22.0,0.0,0,0,2024,Leicester City Women
+4,2022-10-23,15:00,WSL,Matchweek 5,Sun,Home,L,0,1,Manchester Utd,0.3,0.8,32.0,4007.0,Aileen Whelan,3-5-2,Neil Hair,Match Report,,9.0,5.0,21.5,0.0,0,0,2024,Leicester City Women
+5,2022-10-30,14:00,WSL,Matchweek 6,Sun,Away,L,1,2,Reading,0.3,0.4,44.0,1559.0,Aileen Whelan,3-5-2,Emily Heaslip,Match Report,,12.0,3.0,21.0,0.0,0,0,2024,Leicester City Women
+6,2022-11-06,14:00,WSL,Matchweek 7,Sun,Home,L,0,4,Arsenal,0.2,1.9,37.0,3590.0,Aileen Whelan,5-4-1,Amy Fearn,Match Report,,4.0,3.0,19.8,0.0,0,0,2024,Leicester City Women
+7,2022-11-20,15:00,WSL,Matchweek 8,Sun,Away,L,0,1,West Ham,1.3,0.6,55.0,1038.0,Aileen Whelan,4-1-4-1,Louise Saunders,Match Report,,17.0,2.0,17.3,0.0,0,0,2024,Leicester City Women
+8,2022-12-03,15:00,WSL,Matchweek 9,Sat,Home,L,0,8,Chelsea,0.2,4.1,31.0,3023.0,Aileen Whelan,4-3-3,Amy Fearn,Match Report,,5.0,4.0,22.3,0.0,0,0,2024,Leicester City Women
+9,2023-01-15,15:00,WSL,Matchweek 11,Sun,Home,W,3,0,Brighton,1.4,0.7,48.0,2329.0,Aileen Whelan,4-2-3-1,Cheryl Foster,Match Report,,14.0,3.0,17.7,0.0,0,0,2024,Leicester City Women
+10,2023-02-04,11:30,WSL,Matchweek 13,Sat,Home,L,0,2,Manchester City,0.3,3.4,26.0,,Aileen Whelan,4-2-3-1,Amy Fearn,Match Report,,4.0,2.0,13.6,0.0,0,0,2024,Leicester City Women
+11,2023-02-12,14:00,WSL,Matchweek 10,Sun,Away,W,1,0,Liverpool,0.6,0.8,41.0,,Aileen Whelan,4-2-3-1,Richie Watkins,Match Report,,9.0,4.0,18.5,0.0,0,0,2024,Leicester City Women
+12,2023-03-05,12:30,WSL,Matchweek 14,Sun,Away,L,1,5,Manchester Utd,0.2,3.5,30.0,3600.0,Aileen Whelan,4-2-3-1,Melissa Burgin,Match Report,,2.0,1.0,17.2,0.0,0,0,2024,Leicester City Women
+13,2023-03-12,15:00,WSL,Matchweek 15,Sun,Home,D,0,0,Everton,0.9,1.7,39.0,1237.0,Aileen Whelan,4-2-3-1,Stacey Fullicks,Match Report,,7.0,1.0,14.9,0.0,0,0,2024,Leicester City Women
+14,2023-03-15,19:00,WSL,Matchweek 12,Wed,Away,L,0,1,Tottenham,0.4,0.6,51.0,,Aileen Whelan,4-2-3-1,Yoshimi Yamashita,Match Report,,9.0,4.0,20.8,0.0,0,0,2024,Leicester City Women
+15,2023-03-26,14:00,WSL,Matchweek 16,Sun,Away,L,0,5,Aston Villa,0.9,2.0,51.0,6489.0,Aileen Whelan,4-2-3-1,Jane Simms,Match Report,,12.0,3.0,15.2,0.0,0,0,2024,Leicester City Women
+16,2023-04-02,15:00,WSL,Matchweek 17,Sun,Home,W,2,1,Reading,1.2,0.5,57.0,,Aileen Whelan,4-2-3-1,Richie Watkins,Match Report,,19.0,8.0,16.6,0.0,0,0,2024,Leicester City Women
+17,2023-04-29,12:30,WSL,Matchweek 19,Sat,Home,W,4,0,Liverpool,1.3,0.9,51.0,,Aileen Whelan,4-2-3-1,Emily Heaslip,Match Report,,20.0,6.0,16.0,0.0,0,0,2024,Leicester City Women
+18,2023-05-05,19:30,WSL,Matchweek 20,Fri,Away,L,0,1,Arsenal,0.6,1.9,45.0,,Aileen Whelan,4-2-3-1,Emily Heaslip,Match Report,,7.0,5.0,14.8,0.0,0,0,2024,Leicester City Women
+19,2023-05-10,19:00,WSL,Matchweek 18,Wed,Away,L,0,6,Chelsea,0.4,3.4,35.0,1308.0,Aileen Whelan,4-2-3-1,Rebecca Welch,Match Report,,6.0,0.0,20.6,0.0,0,0,2024,Leicester City Women
+20,2023-05-21,15:00,WSL,Matchweek 21,Sun,Home,L,1,2,West Ham,2.5,1.1,64.0,4023.0,Aileen Whelan,4-3-3,Lisa Benn,Match Report,,25.0,5.0,16.5,1.0,1,1,2024,Leicester City Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Away,W,1,0,Brighton,1.5,1.1,48.0,3073.0,Aileen Whelan,4-3-3,Abigail Byrne,Match Report,,15.0,4.0,14.1,1.0,0,0,2024,Leicester City Women
+0,2022-09-16,19:30,WSL,Matchweek 2,Fri,Away,L,0,4,Arsenal,0.3,3.6,27.0,3238.0,Victoria Williams,4-4-2,Lisa Benn,Match Report,,3.0,1.0,19.6,0.0,0,0,2024,Brighton and Hove Albion Women
+1,2022-09-25,14:00,WSL,Matchweek 3,Sun,Home,W,2,1,Reading,1.8,1.4,42.0,5220.0,Victoria Williams,4-3-3,Lauren Impey,Match Report,,15.0,7.0,14.8,0.0,0,0,2024,Brighton and Hove Albion Women
+2,2022-10-16,12:00,WSL,Matchweek 4,Sun,Away,L,0,4,Manchester Utd,0.4,1.5,40.0,3685.0,Katie Robinson,3-4-3,Emily Heaslip,Match Report,,8.0,2.0,14.5,0.0,0,0,2024,Brighton and Hove Albion Women
+3,2022-10-23,18:45,WSL,Matchweek 5,Sun,Home,L,0,2,Chelsea,1.0,2.0,38.0,3626.0,Victoria Williams,4-4-1-1,Abigail Bryne,Match Report,,8.0,2.0,12.8,0.0,0,0,2024,Brighton and Hove Albion Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Home,L,0,8,Tottenham,0.8,2.8,49.0,2514.0,Victoria Williams,4-4-2,Louise Saunders,Match Report,,14.0,6.0,20.7,1.0,0,0,2024,Brighton and Hove Albion Women
+5,2022-11-06,15:00,WSL,Matchweek 7,Sun,Away,W,5,4,West Ham,3.5,1.1,52.0,1129.0,Victoria Williams,4-4-2,Emily Heaslip,Match Report,,14.0,6.0,18.1,1.0,1,1,2024,Brighton and Hove Albion Women
+6,2022-11-20,14:00,WSL,Matchweek 8,Sun,Home,D,3,3,Liverpool,1.5,1.3,41.0,2980.0,Victoria Williams,4-4-2,Abigail Byrne,Match Report,,15.0,4.0,18.7,0.0,1,1,2024,Brighton and Hove Albion Women
+7,2022-12-04,14:00,WSL,Matchweek 9,Sun,Away,L,1,3,Manchester City,1.0,3.0,37.0,1696.0,Victoria Williams,4-4-2,Cheryl Foster,Match Report,,9.0,3.0,22.5,0.0,0,0,2024,Brighton and Hove Albion Women
+8,2023-01-15,15:00,WSL,Matchweek 11,Sun,Away,L,0,3,Leicester City,0.7,1.4,52.0,2329.0,Julia Zigiotti Olme,4-4-2,Cheryl Foster,Match Report,,17.0,6.0,23.1,1.0,0,0,2024,Brighton and Hove Albion Women
+9,2023-02-04,12:30,WSL,Matchweek 13,Sat,Away,D,1,1,Aston Villa,0.6,0.9,40.0,1365.0,Julia Zigiotti Olme,4-4-2,Louise Saunders,Match Report,,5.0,3.0,17.6,0.0,0,0,2024,Brighton and Hove Albion Women
+10,2023-02-12,14:00,WSL,Matchweek 1,Sun,Home,L,2,6,Aston Villa,1.1,2.3,45.0,2593.0,Julia Zigiotti Olme,4-2-3-1,Elizabeth Simms,Match Report,,6.0,3.0,23.1,0.0,1,1,2024,Brighton and Hove Albion Women
+11,2023-03-08,19:30,WSL,Matchweek 14,Wed,Away,L,1,3,Chelsea,0.3,2.8,29.0,916.0,Julia Zigiotti Olme,5-4-1,Abigail Byrne,Match Report,,7.0,4.0,25.0,0.0,0,0,2024,Brighton and Hove Albion Women
+12,2023-03-12,14:00,WSL,Matchweek 15,Sun,Home,L,1,2,Manchester City,0.4,2.7,39.0,3500.0,Julia Zigiotti Olme,4-2-3-1,Yoshimi Yamashita,Match Report,,6.0,2.0,21.5,0.0,0,0,2024,Brighton and Hove Albion Women
+13,2023-03-26,14:00,WSL,Matchweek 16,Sun,Away,D,2,2,Reading,2.2,1.7,59.0,,Julia Zigiotti Olme,4-5-1,Robert Madley,Match Report,,14.0,6.0,13.8,0.0,0,0,2024,Brighton and Hove Albion Women
+14,2023-04-01,11:30,WSL,Matchweek 17,Sat,Home,L,0,4,Manchester Utd,0.6,2.3,40.0,4375.0,Julia Zigiotti Olme,5-4-1,Stacey Fullicks,Match Report,,8.0,2.0,15.3,0.0,0,0,2024,Brighton and Hove Albion Women
+15,2023-04-19,19:00,WSL,Matchweek 10,Wed,Home,W,3,2,Everton,0.9,1.7,38.0,2456.0,Megan Connolly,4-2-3-1,Lauren Impey,Match Report,,14.0,5.0,22.4,0.0,0,0,2024,Brighton and Hove Albion Women
+16,2023-04-23,14:00,WSL,Matchweek 18,Sun,Away,L,1,2,Liverpool,0.7,1.0,52.0,,Megan Connolly,4-2-3-1,Lisa Benn,Match Report,,10.0,6.0,16.7,0.0,0,0,2024,Brighton and Hove Albion Women
+17,2023-04-29,17:15,WSL,Matchweek 19,Sat,Away,D,2,2,Tottenham,1.5,1.2,49.0,,Megan Connolly,4-2-3-1,Cheryl Foster,Match Report,,16.0,8.0,18.1,0.0,0,0,2024,Brighton and Hove Albion Women
+18,2023-05-07,14:00,WSL,Matchweek 20,Sun,Home,W,1,0,West Ham,1.0,0.2,48.0,2952.0,Julia Zigiotti Olme,4-2-3-1,Amy Fearn,Match Report,,7.0,3.0,12.6,0.0,0,0,2024,Brighton and Hove Albion Women
+19,2023-05-10,19:30,WSL,Matchweek 12,Wed,Home,L,0,4,Arsenal,0.9,3.0,34.0,4411.0,Julia Zigiotti Olme,4-2-3-1,Kirsty Dowle,Match Report,,12.0,2.0,15.9,0.0,0,0,2024,Brighton and Hove Albion Women
+20,2023-05-21,13:00,WSL,Matchweek 21,Sun,Away,L,1,2,Everton,1.2,1.2,39.0,,Julia Zigiotti Olme,3-4-3,Lauren Impey,Match Report,,17.0,9.0,23.1,1.0,0,0,2024,Brighton and Hove Albion Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,L,0,1,Leicester City,1.1,1.5,52.0,3073.0,Julia Zigiotti Olme,3-4-3,Abigail Byrne,Match Report,,11.0,2.0,14.5,0.0,0,0,2024,Brighton and Hove Albion Women
+0,2022-09-17,12:00,WSL,Matchweek 2,Sat,Away,L,0,4,Manchester Utd,0.0,2.3,28.0,7315.0,Emma Mitchell,3-4-3,Abigail Bryne,Match Report,,2.0,1.0,10.7,0.0,0,0,2024,Reading Women
+1,2022-09-25,14:00,WSL,Matchweek 3,Sun,Away,L,1,2,Brighton,1.4,1.8,58.0,5220.0,Emma Mitchell,3-4-3,Lauren Impey,Match Report,,13.0,4.0,15.8,0.0,0,0,2024,Reading Women
+2,2022-10-16,18:45,WSL,Matchweek 4,Sun,Home,L,0,1,Arsenal,0.7,2.1,32.0,3660.0,Emma Mitchell,4-3-3,Louise Saunders,Match Report,,7.0,3.0,14.4,0.0,0,0,2024,Reading Women
+3,2022-10-23,15:00,WSL,Matchweek 5,Sun,Away,L,2,3,West Ham,1.4,1.6,46.0,1041.0,Emma Mitchell,3-4-3,Lauren Impey,Match Report,,13.0,2.0,22.2,0.0,1,1,2024,Reading Women
+4,2022-10-30,14:00,WSL,Matchweek 6,Sun,Home,W,2,1,Leicester City,0.4,0.3,56.0,1559.0,Emma Mitchell,3-4-3,Emily Heaslip,Match Report,,11.0,4.0,21.3,0.0,0,0,2024,Reading Women
+5,2022-11-06,14:00,WSL,Matchweek 7,Sun,Home,L,0,3,Manchester City,0.1,1.4,25.0,1911.0,Emma Mitchell,3-4-3,Abigail Byrne,Match Report,,3.0,0.0,17.5,0.0,0,0,2024,Reading Women
+6,2022-11-20,14:00,WSL,Matchweek 8,Sun,Away,L,1,3,Aston Villa,0.4,2.4,38.0,4566.0,Emma Mitchell,3-4-3,Adam Herczeg,Match Report,,7.0,4.0,21.5,0.0,0,0,2024,Reading Women
+7,2022-11-24,19:00,WSL,Matchweek 1,Thu,Home,D,3,3,Liverpool,1.7,1.1,56.0,1479.0,Emma Mitchell,3-5-2,Amy Fearn,Match Report,,17.0,7.0,16.3,0.0,0,0,2024,Reading Women
+8,2022-12-04,12:30,WSL,Matchweek 9,Sun,Home,W,1,0,Tottenham,1.3,0.9,44.0,1052.0,Emma Harries,3-5-2,Carl Brook,Match Report,,9.0,6.0,18.4,0.0,0,0,2024,Reading Women
+9,2022-12-11,18:45,WSL,Matchweek 10,Sun,Away,L,2,3,Chelsea,0.9,2.0,40.0,1184.0,Emma Harries,4-1-3-2,Kirsty Dowle,Match Report,,8.0,3.0,13.4,0.0,0,0,2024,Reading Women
+10,2023-01-15,13:00,WSL,Matchweek 11,Sun,Away,L,2,3,Everton,0.9,1.1,49.0,616.0,Emma Mitchell,3-5-2,Tom Reeves,Match Report,,14.0,5.0,19.8,0.0,0,0,2024,Reading Women
+11,2023-01-22,14:00,WSL,Matchweek 12,Sun,Home,L,0,1,Manchester Utd,0.3,2.4,32.0,5108.0,Emma Mitchell,4-1-3-2,Richie Watkins,Match Report,,8.0,5.0,18.6,0.0,0,0,2024,Reading Women
+12,2023-02-05,14:00,WSL,Matchweek 13,Sun,Away,L,0,2,Liverpool,0.5,0.7,54.0,,Emma Mitchell,4-2-3-1,Jane Simms,Match Report,,11.0,1.0,21.1,0.0,0,0,2024,Reading Women
+13,2023-03-05,14:00,WSL,Matchweek 14,Sun,Home,W,2,1,West Ham,1.2,0.9,49.0,,Emma Mitchell,4-3-3,Lisa Benn,Match Report,,13.0,6.0,19.1,0.0,0,0,2024,Reading Women
+14,2023-03-12,18:45,WSL,Matchweek 15,Sun,Away,L,0,4,Arsenal,0.2,4.2,29.0,3964.0,Emma Mitchell,4-3-3,Amy Fearn,Match Report,,3.0,0.0,19.0,0.0,0,0,2024,Reading Women
+15,2023-03-26,14:00,WSL,Matchweek 16,Sun,Home,D,2,2,Brighton,1.7,2.2,41.0,,Emma Mitchell,3-4-3,Robert Madley,Match Report,,21.0,5.0,16.3,1.0,0,0,2024,Reading Women
+16,2023-04-02,15:00,WSL,Matchweek 17,Sun,Away,L,1,2,Leicester City,0.5,1.2,43.0,,Emma Mitchell,4-3-3,Richie Watkins,Match Report,,9.0,2.0,21.5,0.0,0,0,2024,Reading Women
+17,2023-04-23,14:00,WSL,Matchweek 18,Sun,Home,L,2,3,Everton,1.1,2.6,38.0,,Emma Mitchell,4-4-2,Louise Saunders,Match Report,,8.0,3.0,23.5,0.0,1,1,2024,Reading Women
+18,2023-04-30,14:00,WSL,Matchweek 19,Sun,Away,L,1,4,Manchester City,0.4,4.7,30.0,3102.0,Emma Mitchell,4-4-2,Amy Fearn,Match Report,,7.0,2.0,19.9,0.0,0,0,2024,Reading Women
+19,2023-05-07,14:00,WSL,Matchweek 20,Sun,Home,L,0,5,Aston Villa,0.3,2.3,35.0,,Emma Mitchell,4-4-1-1,Abigail Byrne,Match Report,,3.0,1.0,21.5,0.0,0,0,2024,Reading Women
+20,2023-05-20,16:15,WSL,Matchweek 21,Sat,Away,L,1,4,Tottenham,0.8,1.9,44.0,,Emma Mitchell,4-1-3-2,Emily Heaslip,Match Report,,12.0,5.0,14.4,0.0,0,0,2024,Reading Women
+21,2023-05-27,14:30,WSL,Matchweek 22,Sat,Home,L,0,3,Chelsea,0.3,2.3,23.0,,Emma Mitchell,3-4-3,Rebecca Welch,Match Report,,4.0,1.0,21.4,0.0,0,0,2024,Reading Women
+0,2021-09-05,12:30,WSL,Matchweek 1,Sun,Away,L,2,3,Arsenal,1.5,1.5,59.0,8705.0,Magdalena Eriksson,3-4-3,Rebecca Welch,Match Report,,15.0,4.0,16.0,0.0,0,0,2023,Chelsea Women
+1,2021-09-12,12:30,WSL,Matchweek 2,Sun,Home,W,4,0,Everton,2.4,0.2,56.0,2379.0,Magdalena Eriksson,3-4-3,Amy Fearn,Match Report,,27.0,7.0,17.1,0.0,0,0,2023,Chelsea Women
+2,2021-09-26,12:30,WSL,Matchweek 3,Sun,Away,W,6,1,Manchester Utd,3.3,1.1,49.0,2197.0,Magdalena Eriksson,3-4-3,Kirsty Dowle,Match Report,,16.0,9.0,15.4,0.0,0,0,2023,Chelsea Women
+3,2021-10-02,11:30,WSL,Matchweek 4,Sat,Home,W,3,1,Brighton,1.9,0.3,62.0,2480.0,Magdalena Eriksson,3-4-3,Amy Fearn,Match Report,,18.0,6.0,15.6,1.0,0,0,2023,Chelsea Women
+5,2021-10-10,12:30,WSL,Matchweek 5,Sun,Home,W,2,0,Leicester City,1.6,0.1,69.0,5114.0,Magdalena Eriksson,3-4-3,Lisa Benn,Match Report,,22.0,9.0,16.0,0.0,0,0,2023,Chelsea Women
+7,2021-11-06,12:30,WSL,Matchweek 6,Sat,Away,W,1,0,Aston Villa,1.7,0.1,74.0,715.0,Magdalena Eriksson,3-4-3,Abigail Bryne,Match Report,,16.0,5.0,24.1,1.0,0,0,2023,Chelsea Women
+9,2021-11-14,15:00,WSL,Matchweek 7,Sun,Away,W,4,0,Manchester City,1.5,1.1,45.0,3174.0,Magdalena Eriksson,3-4-3,Rebecca Welch,Match Report,,13.0,6.0,14.7,0.0,0,0,2023,Chelsea Women
+11,2021-11-21,14:00,WSL,Matchweek 8,Sun,Home,W,5,0,Birmingham City,4.6,0.0,74.0,2704.0,Magdalena Eriksson,3-4-3,Elizabeth Simms,Match Report,,26.0,13.0,14.1,0.0,0,0,2023,Chelsea Women
+13,2021-12-11,11:30,WSL,Matchweek 9,Sat,Away,L,0,1,Reading,1.7,0.2,77.0,742.0,Magdalena Eriksson,3-4-3,Louise Saunders,Match Report,,34.0,3.0,18.4,0.0,0,0,2023,Chelsea Women
+15,2022-01-23,12:30,WSL,Matchweek 13,Sun,Away,D,0,0,Brighton,1.8,0.1,67.0,1743.0,Millie Bright,3-4-3,Kirsty Dowle,Match Report,,26.0,5.0,16.1,0.0,0,0,2023,Chelsea Women
+16,2022-01-26,19:00,WSL,Matchweek 10,Wed,Home,W,2,0,West Ham,1.5,0.0,57.0,2554.0,Millie Bright,3-4-3,Ryan Atkin,Match Report,,19.0,10.0,18.0,1.0,0,0,2023,Chelsea Women
+17,2022-02-06,12:30,WSL,Matchweek 14,Sun,Home,W,1,0,Manchester City,1.6,1.0,43.0,3321.0,Millie Bright,4-3-3,Amy Fearn,Match Report,,11.0,4.0,16.7,0.0,0,0,2023,Chelsea Women
+18,2022-02-11,19:45,WSL,Matchweek 15,Fri,Home,D,0,0,Arsenal,0.8,0.8,50.0,3330.0,Millie Bright,4-3-3,Rebecca Welch,Match Report,,11.0,3.0,15.5,0.0,0,0,2023,Chelsea Women
+19,2022-03-10,19:45,WSL,Matchweek 16,Thu,Away,W,4,1,West Ham,1.7,1.0,58.0,1735.0,Millie Bright,4-4-2,Carl Brook,Match Report,,13.0,6.0,16.2,0.0,0,0,2023,Chelsea Women
+20,2022-03-13,13:00,WSL,Matchweek 17,Sun,Home,W,1,0,Aston Villa,1.7,0.4,56.0,2655.0,Millie Bright,4-4-2,Abigail Bryne,Match Report,,22.0,8.0,16.3,0.0,0,0,2023,Chelsea Women
+21,2022-03-16,19:00,WSL,Matchweek 12,Wed,Away,W,3,0,Everton,1.2,0.1,63.0,574.0,Millie Bright,3-5-2,James Bell,Match Report,,16.0,5.0,14.9,0.0,0,0,2023,Chelsea Women
+22,2022-03-27,15:00,WSL,Matchweek 18,Sun,Away,W,9,0,Leicester City,3.5,0.4,75.0,2278.0,Millie Bright,3-5-2,Abigail Bryne,Match Report,,25.0,14.0,14.1,1.0,0,0,2023,Chelsea Women
+23,2022-04-03,18:45,WSL,Matchweek 19,Sun,Home,W,5,0,Reading,3.0,0.1,74.0,2485.0,Magdalena Eriksson,3-1-4-2,Emily Heaslip,Match Report,,23.0,7.0,16.3,1.0,1,1,2023,Chelsea Women
+24,2022-04-24,14:30,WSL,Matchweek 20,Sun,Away,W,3,1,Tottenham,1.3,0.3,45.0,2161.0,Millie Bright,3-5-2,Lisa Benn,Match Report,,12.0,6.0,20.2,1.0,0,0,2023,Chelsea Women
+25,2022-04-28,19:45,WSL,Matchweek 11,Thu,Home,W,2,1,Tottenham,1.8,0.1,55.0,3660.0,Magdalena Eriksson,4-3-3,Jack Packman,Match Report,,24.0,9.0,16.2,0.0,0,0,2023,Chelsea Women
+26,2022-05-01,18:45,WSL,Matchweek 21,Sun,Away,W,1,0,Birmingham City,2.0,0.5,66.0,1429.0,Magdalena Eriksson,3-5-2,Emily Heaslip,Match Report,,19.0,2.0,17.8,0.0,1,1,2023,Chelsea Women
+27,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,W,4,2,Manchester Utd,1.4,0.6,45.0,4378.0,Magdalena Eriksson,3-4-3,Abigail Bryne,Match Report,,17.0,4.0,16.6,0.0,0,0,2023,Chelsea Women
+3,2021-09-05,12:30,WSL,Matchweek 1,Sun,Home,W,3,2,Chelsea,1.5,1.5,41.0,8705.0,Kim Little,4-3-3,Rebecca Welch,Match Report,,9.0,6.0,15.4,0.0,0,0,2023,Arsenal Women
+5,2021-09-12,14:00,WSL,Matchweek 2,Sun,Away,W,4,0,Reading,1.6,0.9,62.0,1127.0,Kim Little,4-3-3,Emily Heaslip,Match Report,,16.0,5.0,16.5,0.0,0,0,2023,Arsenal Women
+6,2021-09-26,18:45,WSL,Matchweek 3,Sun,Home,W,5,0,Manchester City,2.8,0.5,37.0,2061.0,Kim Little,4-3-3,Jane Simms,Match Report,,15.0,6.0,18.0,0.0,1,1,2023,Arsenal Women
+7,2021-10-02,17:15,WSL,Matchweek 4,Sat,Away,W,4,0,Aston Villa,1.7,0.2,76.0,4780.0,Kim Little,4-3-3,Emily Heaslip,Match Report,,22.0,11.0,19.1,2.0,0,0,2023,Arsenal Women
+9,2021-10-10,15:00,WSL,Matchweek 5,Sun,Home,W,3,0,Everton,1.6,0.2,56.0,2165.0,Kim Little,4-3-3,Helen Conley,Match Report,,24.0,8.0,17.3,0.0,0,0,2023,Arsenal Women
+11,2021-11-07,18:45,WSL,Matchweek 6,Sun,Home,W,4,0,West Ham,2.6,0.4,60.0,1736.0,Kim Little,4-3-3,Kirsty Dowle,Match Report,,21.0,7.0,18.7,0.0,0,0,2023,Arsenal Women
+13,2021-11-13,13:30,WSL,Matchweek 7,Sat,Away,D,1,1,Tottenham,1.6,1.2,63.0,2896.0,Kim Little,4-3-3,Amy Fearn,Match Report,,19.0,6.0,15.5,1.0,0,0,2023,Arsenal Women
+15,2021-11-21,12:15,WSL,Matchweek 8,Sun,Away,W,2,0,Manchester Utd,1.6,0.7,50.0,2186.0,Kim Little,4-3-3,Emily Heaslip,Match Report,,14.0,4.0,19.1,2.0,1,1,2023,Arsenal Women
+17,2021-12-12,18:45,WSL,Matchweek 9,Sun,Home,W,4,0,Leicester City,2.7,0.1,76.0,1316.0,Jordan Nobbs,4-3-3,Emily Heaslip,Match Report,,22.0,9.0,15.6,1.0,0,0,2023,Arsenal Women
+19,2022-01-09,14:00,WSL,Matchweek 11,Sun,Away,L,0,2,Birmingham City,0.6,0.7,68.0,582.0,Kim Little,4-4-2,Lucy May,Match Report,,11.0,2.0,18.7,1.0,0,0,2023,Arsenal Women
+20,2022-01-23,18:45,WSL,Matchweek 13,Sun,Away,D,1,1,Manchester City,0.2,1.1,55.0,2355.0,Kim Little,4-3-3,Abigail Bryne,Match Report,,10.0,4.0,15.8,0.0,0,0,2023,Arsenal Women
+21,2022-01-27,19:30,WSL,Matchweek 10,Thu,Home,W,2,1,Brighton,1.1,0.1,68.0,1617.0,Kim Little,4-3-3,Kirsty Dowle,Match Report,,18.0,8.0,18.2,2.0,0,0,2023,Arsenal Women
+22,2022-02-05,12:30,WSL,Matchweek 14,Sat,Home,D,1,1,Manchester Utd,2.3,1.7,59.0,2385.0,Kim Little,4-3-3,Elizabeth Simms,Match Report,,12.0,4.0,15.9,0.0,0,0,2023,Arsenal Women
+23,2022-02-11,19:45,WSL,Matchweek 15,Fri,Away,D,0,0,Chelsea,0.8,0.8,50.0,3330.0,Kim Little,4-3-3,Rebecca Welch,Match Report,,9.0,1.0,16.4,0.0,0,0,2023,Arsenal Women
+24,2022-03-02,19:15,WSL,Matchweek 12,Wed,Home,W,4,0,Reading,2.4,0.1,63.0,1554.0,Kim Little,4-3-3,James Bell,Match Report,,19.0,6.0,16.1,0.0,0,0,2023,Arsenal Women
+25,2022-03-06,12:00,WSL,Matchweek 16,Sun,Home,W,4,2,Birmingham City,2.4,1.2,74.0,1700.0,Kim Little,4-3-3,Robert Massey Ellis,Match Report,,18.0,5.0,16.0,0.0,0,0,2023,Arsenal Women
+26,2022-03-13,18:45,WSL,Matchweek 17,Sun,Away,W,3,0,Brighton,1.9,0.4,56.0,2535.0,Kim Little,4-3-3,Tom Reeves,Match Report,,21.0,10.0,15.1,1.0,0,0,2023,Arsenal Women
+29,2022-04-03,12:30,WSL,Matchweek 19,Sun,Away,W,5,0,Leicester City,3.1,0.2,76.0,2158.0,Kim Little,4-4-2,Rebecca Welch,Match Report,,30.0,10.0,16.5,2.0,0,0,2023,Arsenal Women
+30,2022-04-24,18:45,WSL,Matchweek 20,Sun,Away,W,3,0,Everton,1.9,0.1,68.0,583.0,Kim Little,4-3-3,Kirsty Dowle,Match Report,,25.0,6.0,16.6,1.0,0,0,2023,Arsenal Women
+31,2022-05-01,14:15,WSL,Matchweek 21,Sun,Home,W,7,0,Aston Villa,3.1,0.1,69.0,2305.0,Kim Little,4-3-3,Lisa Benn,Match Report,,26.0,13.0,18.0,1.0,1,1,2023,Arsenal Women
+32,2022-05-04,19:15,WSL,Matchweek 18,Wed,Home,W,3,0,Tottenham,1.5,1.1,60.0,12800.0,Kim Little,4-2-3-1,Louise Saunders,Match Report,,21.0,8.0,18.2,1.0,0,0,2023,Arsenal Women
+33,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,W,2,0,West Ham,1.2,0.5,64.0,2585.0,Kim Little,4-2-3-1,Emily Heaslip,Match Report,,20.0,6.0,17.5,0.0,0,0,2023,Arsenal Women
+1,2021-09-04,13:30,WSL,Matchweek 1,Sat,Away,W,4,0,Everton,1.3,0.9,52.0,5998.0,Steph Houghton,4-3-3,Kirsty Dowle,Match Report,,14.0,9.0,17.8,1.0,0,0,2023,Manchester City Women
+3,2021-09-12,18:45,WSL,Matchweek 2,Sun,Home,L,1,2,Tottenham,2.0,0.5,65.0,1126.0,Steph Houghton,4-3-3,Abigail Bryne,Match Report,,18.0,6.0,11.2,0.0,0,0,2023,Manchester City Women
+4,2021-09-26,18:45,WSL,Matchweek 3,Sun,Away,L,0,5,Arsenal,0.5,2.8,63.0,2061.0,Ellen White,4-3-3,Jane Simms,Match Report,,9.0,3.0,18.1,0.0,0,0,2023,Manchester City Women
+5,2021-10-03,14:00,WSL,Matchweek 4,Sun,Home,L,0,2,West Ham,1.6,0.5,72.0,1298.0,Ellen White,4-3-3,Helen Conley,Match Report,,20.0,7.0,20.3,0.0,0,0,2023,Manchester City Women
+6,2021-10-09,13:30,WSL,Matchweek 5,Sat,Away,D,2,2,Manchester Utd,1.9,0.5,45.0,3797.0,Alex Greenwood,4-3-3,Rebecca Welch,Match Report,,10.0,5.0,13.5,0.0,0,0,2023,Manchester City Women
+7,2021-11-07,14:00,WSL,Matchweek 6,Sun,Away,W,4,1,Leicester City,2.0,0.4,67.0,242.0,Ellen White,4-3-3,Helen Conley,Match Report,,28.0,11.0,18.5,0.0,0,0,2023,Manchester City Women
+8,2021-11-14,15:00,WSL,Matchweek 7,Sun,Home,L,0,4,Chelsea,1.1,1.5,55.0,3174.0,Ellen White,4-3-3,Rebecca Welch,Match Report,,11.0,6.0,15.3,0.0,0,0,2023,Manchester City Women
+9,2021-11-20,11:30,WSL,Matchweek 8,Sat,Home,W,5,0,Aston Villa,2.2,0.0,77.0,1098.0,Ellen White,4-3-3,Abigail Bryne,Match Report,,23.0,11.0,17.2,0.0,0,0,2023,Manchester City Women
+10,2021-12-12,14:00,WSL,Matchweek 9,Sun,Away,W,3,2,Birmingham City,2.4,1.8,72.0,812.0,Ellen White,4-3-3,Helen Conley,Match Report,,14.0,8.0,13.1,1.0,0,0,2023,Manchester City Women
+11,2022-01-09,12:00,WSL,Matchweek 11,Sun,Away,W,6,0,Brighton,1.6,0.1,63.0,1345.0,Ellen White,4-3-3,Emily Heaslip,Match Report,,20.0,11.0,16.5,0.0,0,0,2023,Manchester City Women
+12,2022-01-15,12:30,WSL,Matchweek 12,Sat,Away,W,3,0,Aston Villa,1.9,0.1,73.0,483.0,Steph Houghton,4-3-3,Louise Saunders,Match Report,,13.0,3.0,14.8,0.0,0,0,2023,Manchester City Women
+13,2022-01-23,18:45,WSL,Matchweek 13,Sun,Home,D,1,1,Arsenal,1.1,0.2,45.0,2355.0,Steph Houghton,4-3-3,Abigail Bryne,Match Report,,14.0,7.0,18.0,0.0,0,0,2023,Manchester City Women
+14,2022-02-06,12:30,WSL,Matchweek 14,Sun,Away,L,0,1,Chelsea,1.0,1.6,57.0,3321.0,Alex Greenwood,4-3-3,Amy Fearn,Match Report,,11.0,3.0,19.0,1.0,0,0,2023,Manchester City Women
+15,2022-02-13,12:30,WSL,Matchweek 15,Sun,Home,W,1,0,Manchester Utd,1.4,0.2,67.0,5317.0,Ellen White,4-3-3,Kirsty Dowle,Match Report,,18.0,3.0,17.4,2.0,0,0,2023,Manchester City Women
+16,2022-03-13,12:30,WSL,Matchweek 17,Sun,Away,W,1,0,Tottenham,1.0,0.1,60.0,1303.0,Ellen White,4-3-3,Emily Heaslip,Match Report,,9.0,3.0,17.2,1.0,0,0,2023,Manchester City Women
+17,2022-03-16,19:00,WSL,Matchweek 10,Wed,Home,W,2,0,Reading,2.9,0.1,67.0,1126.0,Alex Greenwood,4-3-3,Anthony Backhouse,Match Report,,30.0,12.0,16.5,1.0,0,0,2023,Manchester City Women
+18,2022-03-23,19:00,WSL,Matchweek 16,Wed,Home,W,4,0,Everton,2.2,0.0,65.0,1119.0,Ellen White,4-3-3,Scott Jackson,Match Report,,17.0,7.0,17.5,1.0,0,0,2023,Manchester City Women
+19,2022-04-02,11:30,WSL,Matchweek 19,Sat,Away,W,2,0,West Ham,2.0,0.3,67.0,1475.0,Alex Greenwood,4-3-3,Lucy May,Match Report,,18.0,7.0,17.6,0.0,0,0,2023,Manchester City Women
+20,2022-04-24,14:00,WSL,Matchweek 20,Sun,Home,W,4,0,Leicester City,2.6,0.1,79.0,1895.0,Ellen White,4-3-3,Louise Saunders,Match Report,,21.0,7.0,18.4,0.0,1,1,2023,Manchester City Women
+21,2022-04-30,11:30,WSL,Matchweek 21,Sat,Home,W,7,2,Brighton,3.3,1.4,69.0,1377.0,Alex Greenwood,4-3-3,Amy Fearn,Match Report,,19.0,11.0,11.6,0.0,0,0,2023,Manchester City Women
+22,2022-05-04,19:00,WSL,Matchweek 18,Wed,Home,W,6,0,Birmingham City,3.1,0.0,80.0,1207.0,Alex Greenwood,4-3-3,Jane Simms,Match Report,,29.0,11.0,16.4,1.0,0,0,2023,Manchester City Women
+23,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,W,4,0,Reading,2.8,0.3,74.0,1200.0,Alex Greenwood,4-3-3,Elizabeth Simms,Match Report,,24.0,10.0,18.2,0.0,1,1,2023,Manchester City Women
+0,2021-09-03,19:45,WSL,Matchweek 1,Fri,Home,W,2,0,Reading,1.6,0.2,59.0,2111.0,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,14.0,3.0,18.5,0.0,0,0,2023,Manchester United Women
+1,2021-09-12,14:00,WSL,Matchweek 2,Sun,Away,W,3,1,Leicester City,2.4,0.7,64.0,4473.0,Katie Zelem,4-2-3-1,Jane Simms,Match Report,,32.0,8.0,19.9,1.0,0,0,2023,Manchester United Women
+2,2021-09-26,12:30,WSL,Matchweek 3,Sun,Home,L,1,6,Chelsea,1.1,3.3,51.0,2197.0,Katie Zelem,4-2-3-1,Kirsty Dowle,Match Report,,13.0,2.0,20.7,0.0,0,0,2023,Manchester United Women
+3,2021-10-03,18:45,WSL,Matchweek 4,Sun,Away,W,2,0,Birmingham City,1.7,0.2,70.0,650.0,Katie Zelem,4-2-3-1,Lisa Benn,Match Report,,15.0,2.0,18.8,0.0,0,0,2023,Manchester United Women
+4,2021-10-09,13:30,WSL,Matchweek 5,Sat,Home,D,2,2,Manchester City,0.5,1.9,55.0,3797.0,Katie Zelem,4-2-3-1,Rebecca Welch,Match Report,,7.0,4.0,19.2,0.0,0,0,2023,Manchester United Women
+5,2021-11-07,12:15,WSL,Matchweek 6,Sun,Away,D,1,1,Tottenham,0.9,0.2,52.0,1308.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,17.0,7.0,18.1,2.0,0,0,2023,Manchester United Women
+6,2021-11-14,12:30,WSL,Matchweek 7,Sun,Away,D,1,1,Everton,1.1,1.0,49.0,840.0,Katie Zelem,4-2-3-1,Louise Saunders,Match Report,,12.0,2.0,18.6,0.0,0,0,2023,Manchester United Women
+7,2021-11-21,12:15,WSL,Matchweek 8,Sun,Home,L,0,2,Arsenal,0.7,1.6,50.0,2186.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,7.0,1.0,15.9,0.0,0,0,2023,Manchester United Women
+8,2021-12-12,12:30,WSL,Matchweek 9,Sun,Away,W,2,0,Brighton,1.7,0.3,65.0,1776.0,Katie Zelem,4-5-1,Abigail Bryne,Match Report,,30.0,14.0,17.9,0.0,0,0,2023,Manchester United Women
+9,2021-12-19,12:00,WSL,Matchweek 10,Sun,Home,W,5,0,Aston Villa,2.2,0.5,62.0,1001.0,Katie Zelem,4-2-3-1,Rebecca Welch,Match Report,,18.0,8.0,19.0,0.0,1,1,2023,Manchester United Women
+10,2022-01-15,12:00,WSL,Matchweek 12,Sat,Home,W,5,0,Birmingham City,1.7,0.1,69.0,1015.0,Katie Zelem,4-3-3,Kirsty Dowle,Match Report,,15.0,8.0,14.2,0.0,0,0,2023,Manchester United Women
+11,2022-01-23,12:00,WSL,Matchweek 13,Sun,Home,W,3,0,Tottenham,0.8,0.8,57.0,1519.0,Katie Zelem,4-2-3-1,Lucy May,Match Report,,15.0,5.0,17.8,0.0,0,0,2023,Manchester United Women
+12,2022-02-05,12:30,WSL,Matchweek 14,Sat,Away,D,1,1,Arsenal,1.7,2.3,41.0,2385.0,Katie Zelem,4-2-3-1,Elizabeth Simms,Match Report,,12.0,4.0,13.9,0.0,0,0,2023,Manchester United Women
+13,2022-02-13,12:30,WSL,Matchweek 15,Sun,Away,L,0,1,Manchester City,0.2,1.4,33.0,5317.0,Katie Zelem,4-2-3-1,Kirsty Dowle,Match Report,,4.0,2.0,18.4,0.0,0,0,2023,Manchester United Women
+14,2022-03-05,12:00,WSL,Matchweek 16,Sat,Home,W,4,0,Leicester City,2.3,0.3,64.0,1103.0,Katie Zelem,4-2-3-1,Amy Fearn,Match Report,,23.0,8.0,18.2,0.0,0,0,2023,Manchester United Women
+15,2022-03-12,11:30,WSL,Matchweek 17,Sat,Away,W,3,1,Reading,1.4,2.1,54.0,1371.0,Katie Zelem,4-2-3-1,Lucy May,Match Report,,16.0,4.0,15.3,0.0,0,0,2023,Manchester United Women
+16,2022-03-16,19:30,WSL,Matchweek 11,Wed,Away,D,1,1,West Ham,0.5,0.4,53.0,1425.0,Katie Zelem,4-3-3,Daniel Lamport,Match Report,,10.0,6.0,20.4,0.0,0,0,2023,Manchester United Women
+17,2022-03-27,12:30,WSL,Matchweek 18,Sun,Home,W,3,1,Everton,1.5,0.4,62.0,20241.0,Katie Zelem,4-2-3-1,Helen Conley,Match Report,,15.0,5.0,19.3,0.0,1,1,2023,Manchester United Women
+18,2022-04-03,12:00,WSL,Matchweek 19,Sun,Home,W,1,0,Brighton,1.2,0.6,60.0,1524.0,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,20.0,6.0,18.5,0.0,0,0,2023,Manchester United Women
+19,2022-04-24,18:00,WSL,Matchweek 20,Sun,Away,D,0,0,Aston Villa,2.0,0.2,60.0,941.0,Katie Zelem,4-2-3-1,Emily Heaslip,Match Report,,20.0,6.0,16.5,0.0,0,0,2023,Manchester United Women
+20,2022-05-01,12:00,WSL,Matchweek 21,Sun,Home,W,3,0,West Ham,2.1,0.4,68.0,2546.0,Katie Zelem,4-2-3-1,Lucy May,Match Report,,19.0,6.0,18.0,1.0,0,0,2023,Manchester United Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,L,2,4,Chelsea,0.6,1.4,55.0,4378.0,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,10.0,5.0,14.7,0.0,0,0,2023,Manchester United Women
+0,2021-09-04,15:00,WSL,Matchweek 1,Sat,Home,W,1,0,Birmingham City,0.9,0.2,66.0,4681.0,Shelina Zadorsky,3-4-3,Lisa Benn,Match Report,,19.0,5.0,24.6,2.0,0,0,2023,Tottenham Women
+1,2021-09-12,18:45,WSL,Matchweek 2,Sun,Away,W,2,1,Manchester City,0.5,2.0,35.0,1126.0,Shelina Zadorsky,4-4-2,Abigail Bryne,Match Report,,6.0,2.0,18.8,0.0,0,0,2023,Tottenham Women
+2,2021-09-26,14:00,WSL,Matchweek 3,Sun,Home,W,1,0,Reading,2.3,0.2,48.0,621.0,Shelina Zadorsky,3-4-3,Amy Fearn,Match Report,,22.0,7.0,21.6,1.0,0,0,2023,Tottenham Women
+3,2021-10-03,14:00,WSL,Matchweek 4,Sun,Away,W,2,0,Leicester City,2.7,0.2,60.0,2137.0,Shelina Zadorsky,4-2-3-1,Abigail Bryne,Match Report,,22.0,9.0,14.4,0.0,0,0,2023,Tottenham Women
+4,2021-10-10,14:00,WSL,Matchweek 5,Sun,Away,L,1,2,Brighton,0.8,1.4,52.0,1353.0,Shelina Zadorsky,4-2-3-1,Kirsty Dowle,Match Report,,15.0,7.0,19.3,1.0,0,0,2023,Tottenham Women
+5,2021-11-07,12:15,WSL,Matchweek 6,Sun,Home,D,1,1,Manchester Utd,0.2,0.9,48.0,1308.0,Shelina Zadorsky,3-5-2,Emily Heaslip,Match Report,,8.0,4.0,37.4,1.0,0,0,2023,Tottenham Women
+6,2021-11-13,13:30,WSL,Matchweek 7,Sat,Home,D,1,1,Arsenal,1.2,1.6,37.0,2896.0,Shelina Zadorsky,4-2-3-1,Amy Fearn,Match Report,,11.0,6.0,16.9,0.0,0,0,2023,Tottenham Women
+7,2021-11-21,15:00,WSL,Matchweek 8,Sun,Away,L,0,1,West Ham,0.6,0.5,54.0,1242.0,Maéva Clemaron,4-3-3,Lisa Benn,Match Report,,12.0,4.0,19.2,1.0,0,0,2023,Tottenham Women
+8,2021-12-12,18:00,WSL,Matchweek 9,Sun,Away,W,2,1,Aston Villa,1.2,0.6,53.0,385.0,Shelina Zadorsky,4-4-2,Kirsty Dowle,Match Report,,6.0,4.0,24.6,0.0,1,1,2023,Tottenham Women
+9,2021-12-19,14:00,WSL,Matchweek 10,Sun,Home,W,1,0,Everton,0.4,0.7,43.0,576.0,Shelina Zadorsky,3-4-3,Elizabeth Simms,Match Report,,9.0,5.0,18.3,0.0,0,0,2023,Tottenham Women
+10,2022-01-16,18:45,WSL,Matchweek 12,Sun,Home,D,1,1,West Ham,1.6,0.2,59.0,678.0,Shelina Zadorsky,3-4-3,Amy Fearn,Match Report,,18.0,6.0,21.4,0.0,1,1,2023,Tottenham Women
+11,2022-01-23,12:00,WSL,Matchweek 13,Sun,Away,L,0,3,Manchester Utd,0.8,0.8,43.0,1519.0,Shelina Zadorsky,4-3-3,Lucy May,Match Report,,6.0,1.0,18.4,0.0,0,0,2023,Tottenham Women
+12,2022-02-06,14:00,WSL,Matchweek 14,Sun,Home,W,4,0,Brighton,2.6,0.6,49.0,557.0,Shelina Zadorsky,4-3-3,Lauren Impey,Match Report,,10.0,5.0,14.5,1.0,0,0,2023,Tottenham Women
+13,2022-02-13,14:00,WSL,Matchweek 15,Sun,Away,W,2,0,Birmingham City,2.1,0.2,69.0,487.0,Shelina Zadorsky,4-2-3-1,Emily Heaslip,Match Report,,15.0,7.0,11.2,0.0,0,0,2023,Tottenham Women
+14,2022-03-06,14:00,WSL,Matchweek 16,Sun,Away,D,0,0,Reading,0.6,0.6,56.0,960.0,Kerys Harrop,4-2-3-1,Lauren Impey,Match Report,,11.0,3.0,15.7,0.0,0,0,2023,Tottenham Women
+15,2022-03-13,12:30,WSL,Matchweek 17,Sun,Home,L,0,1,Manchester City,0.1,1.0,40.0,1303.0,Shelina Zadorsky,4-4-2,Emily Heaslip,Match Report,,4.0,1.0,29.5,0.0,0,0,2023,Tottenham Women
+16,2022-04-03,14:00,WSL,Matchweek 19,Sun,Home,L,0,1,Aston Villa,0.5,0.2,51.0,508.0,Shelina Zadorsky,4-3-3,Richie Watkins,Match Report,,9.0,2.0,18.5,0.0,0,0,2023,Tottenham Women
+17,2022-04-24,14:30,WSL,Matchweek 20,Sun,Home,L,1,3,Chelsea,0.3,1.3,55.0,2161.0,Shelina Zadorsky,3-4-3,Lisa Benn,Match Report,,9.0,0.0,20.3,1.0,0,0,2023,Tottenham Women
+18,2022-04-28,19:45,WSL,Matchweek 11,Thu,Away,L,1,2,Chelsea,0.1,1.8,45.0,3660.0,Shelina Zadorsky,3-4-3,Jack Packman,Match Report,,2.0,2.0,18.5,0.0,0,0,2023,Tottenham Women
+19,2022-05-01,19:30,WSL,Matchweek 21,Sun,Away,D,2,2,Everton,2.6,1.2,46.0,462.0,Shelina Zadorsky,3-5-2,Lauren Impey,Match Report,,23.0,9.0,18.2,1.0,0,0,2023,Tottenham Women
+20,2022-05-04,19:15,WSL,Matchweek 18,Wed,Away,L,0,3,Arsenal,1.1,1.5,40.0,12800.0,Shelina Zadorsky,3-4-3,Louise Saunders,Match Report,,5.0,0.0,15.8,0.0,0,1,2023,Tottenham Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,W,1,0,Leicester City,1.1,0.6,66.0,3994.0,Shelina Zadorsky,3-4-3,Kirsty Dowle,Match Report,,18.0,6.0,25.6,0.0,0,0,2023,Tottenham Women
+0,2021-09-05,14:00,WSL,Matchweek 1,Sun,Away,L,0,2,Brighton,0.6,1.4,42.0,2264.0,Gilly Flaherty,3-5-2,Emily Heaslip,Match Report,,8.0,1.0,19.5,0.0,0,0,2023,West Ham United Women
+1,2021-09-11,11:30,WSL,Matchweek 2,Sat,Home,D,1,1,Aston Villa,1.3,1.2,44.0,1106.0,Gilly Flaherty,3-5-2,Kirsty Dowle,Match Report,,8.0,4.0,16.3,0.0,0,0,2023,West Ham United Women
+2,2021-09-26,15:00,WSL,Matchweek 3,Sun,Home,W,4,0,Leicester City,2.7,0.4,58.0,1128.0,Gilly Flaherty,3-5-2,Emily Heaslip,Match Report,,25.0,8.0,14.8,0.0,0,0,2023,West Ham United Women
+3,2021-10-03,14:00,WSL,Matchweek 4,Sun,Away,W,2,0,Manchester City,0.5,1.6,28.0,1298.0,Gilly Flaherty,3-4-3,Helen Conley,Match Report,,9.0,5.0,16.8,0.0,0,0,2023,West Ham United Women
+4,2021-10-10,15:00,WSL,Matchweek 5,Sun,Home,D,1,1,Birmingham City,0.5,1.3,65.0,1142.0,Gilly Flaherty,3-4-3,Lucy May,Match Report,,9.0,3.0,16.5,0.0,0,0,2023,West Ham United Women
+5,2021-11-07,18:45,WSL,Matchweek 6,Sun,Away,L,0,4,Arsenal,0.4,2.6,40.0,1736.0,Gilly Flaherty,3-4-3,Kirsty Dowle,Match Report,,7.0,2.0,20.0,1.0,0,0,2023,West Ham United Women
+6,2021-11-14,15:00,WSL,Matchweek 7,Sun,Home,D,2,2,Reading,1.4,0.3,54.0,1496.0,Gilly Flaherty,3-4-3,Emily Heaslip,Match Report,,15.0,4.0,13.9,2.0,0,0,2023,West Ham United Women
+7,2021-11-21,15:00,WSL,Matchweek 8,Sun,Home,W,1,0,Tottenham,0.5,0.6,46.0,1242.0,Gilly Flaherty,3-5-2,Lisa Benn,Match Report,,12.0,3.0,21.7,0.0,0,0,2023,West Ham United Women
+8,2021-12-12,13:00,WSL,Matchweek 9,Sun,Away,D,1,1,Everton,1.8,1.1,41.0,432.0,Gilly Flaherty,5-3-2,Lucy May,Match Report,,9.0,4.0,15.3,0.0,0,0,2023,West Ham United Women
+9,2022-01-16,18:45,WSL,Matchweek 12,Sun,Away,D,1,1,Tottenham,0.2,1.6,41.0,678.0,Gilly Flaherty,3-5-2,Amy Fearn,Match Report,,6.0,1.0,15.2,0.0,0,0,2023,West Ham United Women
+10,2022-01-23,15:00,WSL,Matchweek 13,Sun,Home,W,3,0,Everton,1.5,0.3,49.0,1372.0,Gilly Flaherty,4-4-2,Lauren Impey,Match Report,,9.0,4.0,13.6,0.0,0,0,2023,West Ham United Women
+11,2022-01-26,19:00,WSL,Matchweek 10,Wed,Away,L,0,2,Chelsea,0.0,1.5,43.0,2554.0,Grace Fisk,3-5-2,Ryan Atkin,Match Report,,3.0,0.0,24.1,0.0,0,0,2023,West Ham United Women
+12,2022-02-06,18:00,WSL,Matchweek 14,Sun,Away,W,2,1,Aston Villa,1.6,1.8,42.0,334.0,Gilly Flaherty,3-5-2,Lucy May,Match Report,,8.0,3.0,15.5,0.0,0,0,2023,West Ham United Women
+13,2022-02-13,14:00,WSL,Matchweek 15,Sun,Away,L,0,3,Leicester City,0.2,1.7,55.0,551.0,Gilly Flaherty,3-5-2,Abigail Bryne,Match Report,,4.0,1.0,23.7,0.0,0,0,2023,West Ham United Women
+14,2022-03-10,19:45,WSL,Matchweek 16,Thu,Home,L,1,4,Chelsea,1.0,1.7,42.0,1735.0,Gilly Flaherty,3-5-2,Carl Brook,Match Report,,12.0,6.0,18.2,0.0,0,0,2023,West Ham United Women
+15,2022-03-13,14:00,WSL,Matchweek 17,Sun,Away,W,1,0,Birmingham City,0.6,0.5,56.0,587.0,Gilly Flaherty,3-5-2,Louise Saunders,Match Report,,9.0,3.0,20.1,0.0,0,0,2023,West Ham United Women
+16,2022-03-16,19:30,WSL,Matchweek 11,Wed,Home,D,1,1,Manchester Utd,0.4,0.5,47.0,1425.0,Gilly Flaherty,3-5-2,Daniel Lamport,Match Report,,9.0,3.0,16.1,0.0,0,0,2023,West Ham United Women
+17,2022-03-27,15:00,WSL,Matchweek 18,Sun,Home,L,0,2,Brighton,0.5,0.7,57.0,1411.0,Gilly Flaherty,3-5-2,Paul Howard,Match Report,,7.0,3.0,15.3,0.0,0,0,2023,West Ham United Women
+18,2022-04-02,11:30,WSL,Matchweek 19,Sat,Home,L,0,2,Manchester City,0.3,2.0,33.0,1475.0,Gilly Flaherty,3-5-2,Lucy May,Match Report,,6.0,0.0,17.7,0.0,0,0,2023,West Ham United Women
+19,2022-04-24,14:00,WSL,Matchweek 20,Sun,Away,W,2,1,Reading,2.2,0.6,55.0,600.0,Kate Longhurst,3-5-2,Tom Reeves,Match Report,,21.0,7.0,15.1,1.0,0,0,2023,West Ham United Women
+20,2022-05-01,12:00,WSL,Matchweek 21,Sun,Away,L,0,3,Manchester Utd,0.4,2.1,32.0,2546.0,Grace Fisk,3-4-1-2,Lucy May,Match Report,,8.0,1.0,22.3,0.0,0,0,2023,West Ham United Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,L,0,2,Arsenal,0.5,1.2,36.0,2585.0,Gilly Flaherty,3-5-2,Emily Heaslip,Match Report,,5.0,0.0,16.7,0.0,0,0,2023,West Ham United Women
+0,2021-09-05,14:00,WSL,Matchweek 1,Sun,Home,W,2,0,West Ham,1.4,0.6,58.0,2264.0,Victoria Williams,4-2-3-1,Emily Heaslip,Match Report,,12.0,4.0,21.5,0.0,1,1,2023,Brighton and Hove Albion Women
+1,2021-09-12,14:00,WSL,Matchweek 2,Sun,Away,W,5,0,Birmingham City,2.2,0.9,65.0,525.0,Victoria Williams,4-3-3,Lucy May,Match Report,,12.0,7.0,18.3,1.0,1,1,2023,Brighton and Hove Albion Women
+2,2021-09-26,14:00,WSL,Matchweek 3,Sun,Home,L,0,1,Aston Villa,0.4,0.8,48.0,1104.0,Victoria Williams,4-2-3-1,Lisa Benn,Match Report,,9.0,3.0,18.4,0.0,0,0,2023,Brighton and Hove Albion Women
+3,2021-10-02,11:30,WSL,Matchweek 4,Sat,Away,L,1,3,Chelsea,0.3,1.9,38.0,2480.0,Victoria Williams,3-5-2,Amy Fearn,Match Report,,5.0,1.0,20.7,0.0,0,0,2023,Brighton and Hove Albion Women
+4,2021-10-10,14:00,WSL,Matchweek 5,Sun,Home,W,2,1,Tottenham,1.4,0.8,48.0,1353.0,Victoria Williams,4-3-3,Kirsty Dowle,Match Report,,17.0,6.0,19.7,0.0,0,0,2023,Brighton and Hove Albion Women
+5,2021-11-06,17:30,WSL,Matchweek 6,Sat,Away,W,1,0,Everton,0.4,0.9,42.0,502.0,Victoria Williams,5-3-2,Lucy May,Match Report,,6.0,3.0,23.2,1.0,0,0,2023,Brighton and Hove Albion Women
+6,2021-11-14,14:00,WSL,Matchweek 7,Sun,Home,W,1,0,Leicester City,0.3,0.4,63.0,3566.0,Victoria Williams,5-3-2,Ryan Atkin,Match Report,,5.0,2.0,18.2,2.0,0,0,2023,Brighton and Hove Albion Women
+7,2021-11-21,14:00,WSL,Matchweek 8,Sun,Away,L,0,2,Reading,0.5,1.0,45.0,733.0,Victoria Williams,5-3-2,Helen Conley,Match Report,,12.0,1.0,21.0,0.0,0,0,2023,Brighton and Hove Albion Women
+8,2021-12-12,12:30,WSL,Matchweek 9,Sun,Home,L,0,2,Manchester Utd,0.3,1.7,35.0,1776.0,Victoria Williams,5-3-2,Abigail Bryne,Match Report,,4.0,2.0,17.0,0.0,0,0,2023,Brighton and Hove Albion Women
+9,2022-01-09,12:00,WSL,Matchweek 11,Sun,Home,L,0,6,Manchester City,0.1,1.6,37.0,1345.0,Victoria Williams,4-4-2,Emily Heaslip,Match Report,,3.0,0.0,17.8,0.0,0,0,2023,Brighton and Hove Albion Women
+10,2022-01-16,14:00,WSL,Matchweek 12,Sun,Away,L,0,1,Leicester City,0.2,0.4,64.0,1667.0,Victoria Williams,4-5-1,Abigail Bryne,Match Report,,12.0,2.0,25.3,0.0,0,0,2023,Brighton and Hove Albion Women
+11,2022-01-23,12:30,WSL,Matchweek 13,Sun,Home,D,0,0,Chelsea,0.1,1.8,33.0,1743.0,Victoria Williams,3-4-3,Kirsty Dowle,Match Report,,4.0,3.0,22.8,0.0,0,0,2023,Brighton and Hove Albion Women
+12,2022-01-27,19:30,WSL,Matchweek 10,Thu,Away,L,1,2,Arsenal,0.1,1.1,32.0,1617.0,Victoria Williams,4-2-3-1,Kirsty Dowle,Match Report,,7.0,2.0,21.5,0.0,0,0,2023,Brighton and Hove Albion Women
+13,2022-02-06,14:00,WSL,Matchweek 14,Sun,Away,L,0,4,Tottenham,0.6,2.6,51.0,557.0,Victoria Williams,4-2-3-1,Lauren Impey,Match Report,,5.0,0.0,14.7,0.0,0,0,2023,Brighton and Hove Albion Women
+14,2022-02-13,14:00,WSL,Matchweek 15,Sun,Home,W,4,1,Reading,2.1,0.4,55.0,1159.0,Megan Walsh,4-2-3-1,Carl Brook,Match Report,,20.0,9.0,15.1,0.0,0,0,2023,Brighton and Hove Albion Women
+15,2022-03-05,11:30,WSL,Matchweek 16,Sat,Away,W,1,0,Aston Villa,1.1,0.6,45.0,496.0,Megan Connolly,4-2-3-1,Louise Saunders,Match Report,,10.0,3.0,19.1,0.0,0,0,2023,Brighton and Hove Albion Women
+16,2022-03-13,18:45,WSL,Matchweek 17,Sun,Home,L,0,3,Arsenal,0.4,1.9,44.0,2535.0,Lee Geum-min,4-2-3-1,Tom Reeves,Match Report,,4.0,2.0,24.2,0.0,0,0,2023,Brighton and Hove Albion Women
+17,2022-03-27,15:00,WSL,Matchweek 18,Sun,Away,W,2,0,West Ham,0.7,0.5,43.0,1411.0,Victoria Williams,4-4-1-1,Paul Howard,Match Report,,8.0,3.0,16.7,0.0,0,0,2023,Brighton and Hove Albion Women
+18,2022-04-03,12:00,WSL,Matchweek 19,Sun,Away,L,0,1,Manchester Utd,0.6,1.2,40.0,1524.0,Victoria Williams,4-1-4-1,Abigail Bryne,Match Report,,8.0,1.0,14.6,0.0,0,0,2023,Brighton and Hove Albion Women
+19,2022-04-23,14:00,WSL,Matchweek 20,Sat,Home,L,1,3,Birmingham City,1.2,0.6,66.0,1206.0,Victoria Williams,4-1-4-1,Elizabeth Simms,Match Report,,16.0,9.0,19.2,0.0,0,0,2023,Brighton and Hove Albion Women
+20,2022-04-30,11:30,WSL,Matchweek 21,Sat,Away,L,2,7,Manchester City,1.4,3.3,31.0,1377.0,Victoria Williams,4-4-1-1,Amy Fearn,Match Report,,5.0,2.0,20.2,0.0,1,1,2023,Brighton and Hove Albion Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,D,1,1,Everton,0.7,0.6,45.0,1371.0,Danique Kerkdijk,4-4-1-1,Louise Saunders,Match Report,,13.0,5.0,20.2,0.0,0,0,2023,Brighton and Hove Albion Women
+0,2021-09-03,19:45,WSL,Matchweek 1,Fri,Away,L,0,2,Manchester Utd,0.2,1.6,41.0,2111.0,Natasha Harding,4-3-3,Abigail Bryne,Match Report,,4.0,0.0,16.9,0.0,0,0,2023,Reading Women
+1,2021-09-12,14:00,WSL,Matchweek 2,Sun,Home,L,0,4,Arsenal,0.9,1.6,38.0,1127.0,Natasha Harding,4-3-3,Emily Heaslip,Match Report,,13.0,3.0,23.4,0.0,0,0,2023,Reading Women
+2,2021-09-26,14:00,WSL,Matchweek 3,Sun,Away,L,0,1,Tottenham,0.2,2.3,52.0,621.0,Natasha Harding,4-4-2,Amy Fearn,Match Report,,7.0,1.0,19.4,0.0,0,0,2023,Reading Women
+3,2021-10-03,14:00,WSL,Matchweek 4,Sun,Home,L,0,3,Everton,0.2,2.3,30.0,740.0,Natasha Harding,4-3-3,Lucy May,Match Report,,4.0,2.0,16.0,0.0,0,0,2023,Reading Women
+4,2021-10-10,14:00,WSL,Matchweek 5,Sun,Home,W,3,0,Aston Villa,0.4,0.6,38.0,578.0,Natasha Harding,4-4-2,Louise Saunders,Match Report,,8.0,3.0,19.8,0.0,0,0,2023,Reading Women
+5,2021-11-07,14:00,WSL,Matchweek 6,Sun,Away,W,3,0,Birmingham City,2.3,0.1,64.0,298.0,Natasha Harding,4-4-2,Louise Saunders,Match Report,,12.0,5.0,11.6,0.0,0,0,2023,Reading Women
+6,2021-11-14,15:00,WSL,Matchweek 7,Sun,Away,D,2,2,West Ham,0.3,1.4,46.0,1496.0,Natasha Harding,4-4-2,Emily Heaslip,Match Report,,6.0,3.0,24.7,0.0,0,0,2023,Reading Women
+7,2021-11-21,14:00,WSL,Matchweek 8,Sun,Home,W,2,0,Brighton,1.0,0.5,55.0,733.0,Natasha Harding,4-4-2,Helen Conley,Match Report,,8.0,3.0,19.7,0.0,0,0,2023,Reading Women
+8,2021-12-11,11:30,WSL,Matchweek 9,Sat,Home,W,1,0,Chelsea,0.2,1.7,23.0,742.0,Natasha Harding,3-4-3,Louise Saunders,Match Report,,4.0,1.0,13.9,0.0,0,0,2023,Reading Women
+9,2022-01-09,14:00,WSL,Matchweek 11,Sun,Home,W,1,0,Leicester City,1.1,0.4,42.0,501.0,Natasha Harding,4-4-2,Louise Saunders,Match Report,,5.0,3.0,23.3,1.0,0,1,2023,Reading Women
+10,2022-01-23,14:00,WSL,Matchweek 13,Sun,Home,W,3,2,Birmingham City,1.5,0.7,56.0,552.0,Natasha Harding,4-4-2,Lisa Benn,Match Report,,6.0,3.0,14.4,1.0,1,1,2023,Reading Women
+11,2022-02-06,13:00,WSL,Matchweek 14,Sun,Away,W,2,1,Everton,2.8,2.0,53.0,242.0,Natasha Harding,4-4-2,Andrew Kitchen,Match Report,,15.0,5.0,19.2,0.0,0,0,2023,Reading Women
+12,2022-02-13,14:00,WSL,Matchweek 15,Sun,Away,L,1,4,Brighton,0.4,2.1,45.0,1159.0,Natasha Harding,4-4-2,Carl Brook,Match Report,,7.0,1.0,21.5,0.0,0,0,2023,Reading Women
+13,2022-03-02,19:15,WSL,Matchweek 12,Wed,Away,L,0,4,Arsenal,0.1,2.4,37.0,1554.0,Natasha Harding,4-4-2,James Bell,Match Report,,4.0,1.0,19.4,0.0,0,0,2023,Reading Women
+14,2022-03-06,14:00,WSL,Matchweek 16,Sun,Home,D,0,0,Tottenham,0.6,0.6,44.0,960.0,Natasha Harding,4-4-2,Lauren Impey,Match Report,,5.0,1.0,11.9,0.0,0,0,2023,Reading Women
+15,2022-03-12,11:30,WSL,Matchweek 17,Sat,Home,L,1,3,Manchester Utd,2.1,1.4,46.0,1371.0,Natasha Harding,4-1-2-1-2◆,Lucy May,Match Report,,16.0,5.0,13.6,1.0,0,0,2023,Reading Women
+16,2022-03-16,19:00,WSL,Matchweek 10,Wed,Away,L,0,2,Manchester City,0.1,2.9,33.0,1126.0,Natasha Harding,4-4-2,Anthony Backhouse,Match Report,,1.0,0.0,12.0,0.0,0,0,2023,Reading Women
+17,2022-03-26,12:30,WSL,Matchweek 18,Sat,Away,D,1,1,Aston Villa,1.2,1.3,48.0,461.0,Natasha Harding,4-3-3,Lauren Impey,Match Report,,7.0,1.0,19.7,1.0,1,1,2023,Reading Women
+18,2022-04-03,18:45,WSL,Matchweek 19,Sun,Away,L,0,5,Chelsea,0.1,3.0,26.0,2485.0,Natasha Harding,5-4-1,Emily Heaslip,Match Report,,2.0,1.0,25.1,0.0,0,0,2023,Reading Women
+19,2022-04-24,14:00,WSL,Matchweek 20,Sun,Home,L,1,2,West Ham,0.6,2.2,45.0,600.0,Natasha Harding,3-4-3,Tom Reeves,Match Report,,12.0,7.0,17.2,0.0,0,0,2023,Reading Women
+20,2022-05-01,14:00,WSL,Matchweek 21,Sun,Away,D,0,0,Leicester City,0.7,1.2,63.0,2244.0,Grace Moloney,4-3-3,Richie Watkins,Match Report,,12.0,3.0,18.2,0.0,0,0,2023,Reading Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,L,0,4,Manchester City,0.3,2.8,26.0,1200.0,Natasha Harding,3-4-3,Elizabeth Simms,Match Report,,6.0,0.0,16.2,0.0,0,0,2023,Reading Women
+0,2021-09-04,12:30,WSL,Matchweek 1,Sat,Home,W,2,1,Leicester City,0.8,1.8,49.0,741.0,Remi Allen,4-2-3-1,Helen Conley,Match Report,,7.0,2.0,22.0,1.0,0,0,2023,Aston Villa Women
+1,2021-09-11,11:30,WSL,Matchweek 2,Sat,Away,D,1,1,West Ham,1.2,1.3,56.0,1106.0,Remi Allen,4-2-3-1,Kirsty Dowle,Match Report,,17.0,6.0,19.6,0.0,0,0,2023,Aston Villa Women
+2,2021-09-26,14:00,WSL,Matchweek 3,Sun,Away,W,1,0,Brighton,0.8,0.4,52.0,1104.0,Remi Allen,4-2-3-1,Lisa Benn,Match Report,,7.0,3.0,14.2,0.0,0,0,2023,Aston Villa Women
+3,2021-10-02,17:15,WSL,Matchweek 4,Sat,Home,L,0,4,Arsenal,0.2,1.7,24.0,4780.0,Remi Allen,5-4-1,Emily Heaslip,Match Report,,4.0,1.0,19.9,1.0,0,0,2023,Aston Villa Women
+4,2021-10-10,14:00,WSL,Matchweek 5,Sun,Away,L,0,3,Reading,0.6,0.4,62.0,578.0,Remi Allen,4-2-3-1,Louise Saunders,Match Report,,12.0,0.0,17.2,0.0,0,0,2023,Aston Villa Women
+5,2021-11-06,12:30,WSL,Matchweek 6,Sat,Home,L,0,1,Chelsea,0.1,1.7,26.0,715.0,Marisa Ewers,5-4-1,Abigail Bryne,Match Report,,3.0,0.0,22.9,0.0,0,0,2023,Aston Villa Women
+6,2021-11-14,14:00,WSL,Matchweek 7,Sun,Away,W,1,0,Birmingham City,0.4,0.7,60.0,1386.0,Marisa Ewers,4-2-3-1,Kirsty Dowle,Match Report,,6.0,1.0,16.0,0.0,0,0,2023,Aston Villa Women
+7,2021-11-20,11:30,WSL,Matchweek 8,Sat,Away,L,0,5,Manchester City,0.0,2.2,23.0,1098.0,Marisa Ewers,4-3-3,Abigail Bryne,Match Report,,1.0,1.0,30.2,0.0,0,0,2023,Aston Villa Women
+8,2021-12-12,18:00,WSL,Matchweek 9,Sun,Home,L,1,2,Tottenham,0.6,1.2,47.0,385.0,Remi Allen,4-3-3,Kirsty Dowle,Match Report,,5.0,1.0,16.3,0.0,0,0,2023,Aston Villa Women
+9,2021-12-19,12:00,WSL,Matchweek 10,Sun,Away,L,0,5,Manchester Utd,0.5,2.2,38.0,1001.0,Remi Allen,4-3-3,Rebecca Welch,Match Report,,6.0,1.0,19.5,1.0,0,0,2023,Aston Villa Women
+10,2022-01-15,12:30,WSL,Matchweek 12,Sat,Home,L,0,3,Manchester City,0.1,1.9,27.0,483.0,Sarah Mayling,4-2-3-1,Louise Saunders,Match Report,,4.0,2.0,31.2,0.0,0,0,2023,Aston Villa Women
+11,2022-01-23,14:00,WSL,Matchweek 13,Sun,Away,W,2,1,Leicester City,0.6,0.4,56.0,616.0,Remi Allen,4-3-3,Elizabeth Simms,Match Report,,9.0,3.0,15.1,0.0,0,0,2023,Aston Villa Women
+12,2022-02-06,18:00,WSL,Matchweek 14,Sun,Home,L,1,2,West Ham,1.8,1.6,58.0,334.0,Remi Allen,4-3-3,Lucy May,Match Report,,7.0,4.0,22.6,1.0,1,1,2023,Aston Villa Women
+13,2022-02-13,13:00,WSL,Matchweek 15,Sun,Away,W,2,0,Everton,1.2,1.2,48.0,419.0,Remi Allen,4-3-3,Elizabeth Simms,Match Report,,6.0,4.0,11.6,0.0,0,0,2023,Aston Villa Women
+14,2022-03-02,19:00,WSL,Matchweek 11,Wed,Home,L,0,1,Everton,0.8,1.2,53.0,324.0,Remi Allen,4-3-3,Robert Massey Ellis,Match Report,,17.0,4.0,20.7,0.0,0,0,2023,Aston Villa Women
+15,2022-03-05,11:30,WSL,Matchweek 16,Sat,Home,L,0,1,Brighton,0.6,1.1,55.0,496.0,Remi Allen,4-3-3,Louise Saunders,Match Report,,11.0,3.0,17.7,0.0,0,0,2023,Aston Villa Women
+16,2022-03-13,13:00,WSL,Matchweek 17,Sun,Away,L,0,1,Chelsea,0.4,1.7,44.0,2655.0,Remi Allen,4-3-3,Abigail Bryne,Match Report,,7.0,1.0,18.9,0.0,0,0,2023,Aston Villa Women
+17,2022-03-26,12:30,WSL,Matchweek 18,Sat,Home,D,1,1,Reading,1.3,1.2,52.0,461.0,Remi Allen,4-3-3,Lauren Impey,Match Report,,13.0,4.0,15.2,0.0,0,0,2023,Aston Villa Women
+18,2022-04-03,14:00,WSL,Matchweek 19,Sun,Away,W,1,0,Tottenham,0.2,0.5,49.0,508.0,Remi Allen,4-3-3,Richie Watkins,Match Report,,3.0,1.0,23.9,0.0,0,0,2023,Aston Villa Women
+19,2022-04-24,18:00,WSL,Matchweek 20,Sun,Home,D,0,0,Manchester Utd,0.2,2.0,40.0,941.0,Remi Allen,4-3-3,Emily Heaslip,Match Report,,6.0,3.0,22.3,1.0,0,0,2023,Aston Villa Women
+20,2022-05-01,14:15,WSL,Matchweek 21,Sun,Away,L,0,7,Arsenal,0.1,3.1,31.0,2305.0,Anita Asante,4-2-3-1,Lisa Benn,Match Report,,4.0,0.0,28.8,0.0,0,0,2023,Aston Villa Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Home,L,0,1,Birmingham City,1.0,0.5,69.0,8367.0,Anita Asante,4-3-3,Rebecca Welch,Match Report,,14.0,3.0,18.0,0.0,0,0,2023,Aston Villa Women
+0,2021-09-04,13:30,WSL,Matchweek 1,Sat,Home,L,0,4,Manchester City,0.9,1.3,48.0,5998.0,Danielle Turner,5-3-2,Kirsty Dowle,Match Report,,9.0,3.0,17.0,1.0,0,0,2023,Everton Women
+1,2021-09-12,12:30,WSL,Matchweek 2,Sun,Away,L,0,4,Chelsea,0.2,2.4,44.0,2379.0,Danielle Turner,5-3-2,Amy Fearn,Match Report,,5.0,2.0,19.9,0.0,0,0,2023,Everton Women
+2,2021-09-25,11:30,WSL,Matchweek 3,Sat,Home,W,3,1,Birmingham City,1.0,0.2,65.0,605.0,Danielle Turner,4-3-3,Tom Reeves,Match Report,,14.0,4.0,17.9,0.0,0,0,2023,Everton Women
+3,2021-10-03,14:00,WSL,Matchweek 4,Sun,Away,W,3,0,Reading,2.3,0.2,70.0,740.0,Danielle Turner,4-3-3,Lucy May,Match Report,,11.0,4.0,16.0,1.0,0,1,2023,Everton Women
+4,2021-10-10,15:00,WSL,Matchweek 5,Sun,Away,L,0,3,Arsenal,0.2,1.6,44.0,2165.0,Danielle Turner,4-3-1-2,Helen Conley,Match Report,,5.0,1.0,28.2,0.0,0,0,2023,Everton Women
+5,2021-11-06,17:30,WSL,Matchweek 6,Sat,Home,L,0,1,Brighton,0.9,0.4,58.0,502.0,Izzy Christiansen,4-3-3,Lucy May,Match Report,,14.0,3.0,20.4,1.0,0,0,2023,Everton Women
+6,2021-11-14,12:30,WSL,Matchweek 7,Sun,Home,D,1,1,Manchester Utd,1.0,1.1,51.0,840.0,Izzy Christiansen,4-3-3,Louise Saunders,Match Report,,11.0,5.0,19.0,0.0,0,0,2023,Everton Women
+7,2021-11-21,14:00,WSL,Matchweek 8,Sun,Away,W,1,0,Leicester City,2.7,0.2,63.0,685.0,Izzy Christiansen,4-3-3,Lucy May,Match Report,,15.0,6.0,15.2,0.0,0,0,2023,Everton Women
+8,2021-12-12,13:00,WSL,Matchweek 9,Sun,Home,D,1,1,West Ham,1.1,1.8,59.0,432.0,Izzy Christiansen,4-3-3,Lucy May,Match Report,,14.0,6.0,19.0,0.0,0,0,2023,Everton Women
+9,2021-12-19,14:00,WSL,Matchweek 10,Sun,Away,L,0,1,Tottenham,0.7,0.4,57.0,576.0,Izzy Christiansen,4-3-3,Elizabeth Simms,Match Report,,11.0,6.0,18.0,0.0,0,0,2023,Everton Women
+10,2022-01-23,15:00,WSL,Matchweek 13,Sun,Away,L,0,3,West Ham,0.3,1.5,51.0,1372.0,Izzy Christiansen,4-2-3-1,Lauren Impey,Match Report,,11.0,3.0,21.2,0.0,0,0,2023,Everton Women
+11,2022-02-06,13:00,WSL,Matchweek 14,Sun,Home,L,1,2,Reading,2.0,2.8,47.0,242.0,Izzy Christiansen,4-2-3-1,Andrew Kitchen,Match Report,,9.0,3.0,15.3,0.0,0,1,2023,Everton Women
+12,2022-02-13,13:00,WSL,Matchweek 15,Sun,Home,L,0,2,Aston Villa,1.2,1.2,52.0,419.0,Izzy Christiansen,4-2-3-1,Elizabeth Simms,Match Report,,12.0,4.0,16.1,0.0,0,0,2023,Everton Women
+13,2022-03-02,19:00,WSL,Matchweek 11,Wed,Away,W,1,0,Aston Villa,1.2,0.8,47.0,324.0,Izzy Christiansen,4-2-3-1,Robert Massey Ellis,Match Report,,14.0,5.0,20.2,1.0,0,0,2023,Everton Women
+14,2022-03-12,17:30,WSL,Matchweek 17,Sat,Home,W,3,2,Leicester City,1.3,1.2,60.0,574.0,Izzy Christiansen,4-2-3-1,Kirsty Dowle,Match Report,,12.0,6.0,21.6,1.0,0,0,2023,Everton Women
+15,2022-03-16,19:00,WSL,Matchweek 12,Wed,Home,L,0,3,Chelsea,0.1,1.2,37.0,574.0,Izzy Christiansen,4-2-3-1,James Bell,Match Report,,5.0,0.0,29.9,0.0,0,0,2023,Everton Women
+16,2022-03-23,19:00,WSL,Matchweek 16,Wed,Away,L,0,4,Manchester City,0.0,2.2,35.0,1119.0,Danielle Turner,5-4-1,Scott Jackson,Match Report,,2.0,1.0,19.7,0.0,0,0,2023,Everton Women
+17,2022-03-27,12:30,WSL,Matchweek 18,Sun,Away,L,1,3,Manchester Utd,0.4,1.5,38.0,20241.0,Izzy Christiansen,5-4-1,Helen Conley,Match Report,,7.0,1.0,20.4,0.0,0,0,2023,Everton Women
+18,2022-04-01,19:00,WSL,Matchweek 19,Fri,Away,D,0,0,Birmingham City,1.6,0.2,64.0,537.0,Izzy Christiansen,3-4-3,Amy Fearn,Match Report,,18.0,5.0,18.3,1.0,0,0,2023,Everton Women
+19,2022-04-24,18:45,WSL,Matchweek 20,Sun,Home,L,0,3,Arsenal,0.1,1.9,32.0,583.0,Izzy Christiansen,5-4-1,Kirsty Dowle,Match Report,,1.0,1.0,10.8,0.0,0,0,2023,Everton Women
+20,2022-05-01,19:30,WSL,Matchweek 21,Sun,Home,D,2,2,Tottenham,1.2,2.6,54.0,462.0,Lucy Graham,5-4-1,Lauren Impey,Match Report,,15.0,3.0,16.7,0.0,0,0,2023,Everton Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,D,1,1,Brighton,0.6,0.7,55.0,1371.0,Lucy Graham,5-4-1,Louise Saunders,Match Report,,12.0,5.0,20.3,0.0,0,0,2023,Everton Women
+0,2021-09-04,12:30,WSL,Matchweek 1,Sat,Away,L,1,2,Aston Villa,1.8,0.8,51.0,741.0,Sophie Barker,3-4-1-2,Helen Conley,Match Report,,13.0,7.0,19.5,0.0,0,0,2023,Leicester City Women
+1,2021-09-12,14:00,WSL,Matchweek 2,Sun,Home,L,1,3,Manchester Utd,0.7,2.4,36.0,4473.0,Ashleigh Plumptre,4-3-3,Jane Simms,Match Report,,8.0,3.0,19.5,0.0,0,0,2023,Leicester City Women
+2,2021-09-26,15:00,WSL,Matchweek 3,Sun,Away,L,0,4,West Ham,0.4,2.7,42.0,1128.0,Sophie Barker,4-3-3,Emily Heaslip,Match Report,,12.0,5.0,23.3,0.0,0,0,2023,Leicester City Women
+3,2021-10-03,14:00,WSL,Matchweek 4,Sun,Home,L,0,2,Tottenham,0.2,2.7,40.0,2137.0,Ashleigh Plumptre,4-4-2,Abigail Bryne,Match Report,,3.0,0.0,8.6,0.0,0,0,2023,Leicester City Women
+4,2021-10-10,12:30,WSL,Matchweek 5,Sun,Away,L,0,2,Chelsea,0.1,1.6,31.0,5114.0,Abbie McManus,4-4-2,Lisa Benn,Match Report,,3.0,0.0,25.6,0.0,0,0,2023,Leicester City Women
+5,2021-11-07,14:00,WSL,Matchweek 6,Sun,Home,L,1,4,Manchester City,0.4,2.0,33.0,242.0,Abbie McManus,4-4-2,Helen Conley,Match Report,,4.0,1.0,18.9,0.0,0,0,2023,Leicester City Women
+6,2021-11-14,14:00,WSL,Matchweek 7,Sun,Away,L,0,1,Brighton,0.4,0.3,37.0,3566.0,Abbie McManus,5-4-1,Ryan Atkin,Match Report,,3.0,2.0,11.6,0.0,0,0,2023,Leicester City Women
+7,2021-11-21,14:00,WSL,Matchweek 8,Sun,Home,L,0,1,Everton,0.2,2.7,37.0,685.0,Sophie Barker,5-4-1,Lucy May,Match Report,,6.0,2.0,24.5,0.0,0,0,2023,Leicester City Women
+8,2021-12-12,18:45,WSL,Matchweek 9,Sun,Away,L,0,4,Arsenal,0.1,2.7,24.0,1316.0,Sophie Barker,4-4-2,Emily Heaslip,Match Report,,2.0,0.0,15.5,0.0,0,0,2023,Leicester City Women
+9,2021-12-19,14:00,WSL,Matchweek 10,Sun,Home,W,2,0,Birmingham City,0.7,0.9,55.0,2124.0,Sophie Barker,4-4-2,Lisa Benn,Match Report,,8.0,6.0,18.6,0.0,0,0,2023,Leicester City Women
+10,2022-01-09,14:00,WSL,Matchweek 11,Sun,Away,L,0,1,Reading,0.4,1.1,58.0,501.0,Sophie Barker,4-4-2,Louise Saunders,Match Report,,9.0,2.0,20.2,0.0,0,0,2023,Leicester City Women
+11,2022-01-16,14:00,WSL,Matchweek 12,Sun,Home,W,1,0,Brighton,0.4,0.2,36.0,1667.0,Abbie McManus,3-4-3,Abigail Bryne,Match Report,,13.0,3.0,17.1,0.0,0,0,2023,Leicester City Women
+12,2022-01-23,14:00,WSL,Matchweek 13,Sun,Home,L,1,2,Aston Villa,0.4,0.6,44.0,616.0,Abbie McManus,3-4-3,Elizabeth Simms,Match Report,,11.0,6.0,23.8,1.0,0,0,2023,Leicester City Women
+13,2022-02-06,14:00,WSL,Matchweek 14,Sun,Away,W,2,1,Birmingham City,3.6,0.7,59.0,810.0,Abbie McManus,3-4-3,Rob Whitton,Match Report,,16.0,2.0,17.1,1.0,1,1,2023,Leicester City Women
+14,2022-02-13,14:00,WSL,Matchweek 15,Sun,Home,W,3,0,West Ham,1.7,0.2,45.0,551.0,Abbie McManus,3-4-3,Abigail Bryne,Match Report,,11.0,3.0,21.2,1.0,0,0,2023,Leicester City Women
+15,2022-03-05,12:00,WSL,Matchweek 16,Sat,Away,L,0,4,Manchester Utd,0.3,2.3,36.0,1103.0,Sophie Barker,3-4-3,Amy Fearn,Match Report,,9.0,2.0,28.1,0.0,0,0,2023,Leicester City Women
+16,2022-03-12,17:30,WSL,Matchweek 17,Sat,Away,L,2,3,Everton,1.2,1.3,40.0,574.0,Abbie McManus,5-4-1,Kirsty Dowle,Match Report,,18.0,9.0,23.5,1.0,0,0,2023,Leicester City Women
+17,2022-03-27,15:00,WSL,Matchweek 18,Sun,Home,L,0,9,Chelsea,0.4,3.5,25.0,2278.0,Ashleigh Plumptre,5-4-1,Abigail Bryne,Match Report,,2.0,0.0,12.5,0.0,0,0,2023,Leicester City Women
+18,2022-04-03,12:30,WSL,Matchweek 19,Sun,Home,L,0,5,Arsenal,0.2,3.1,24.0,2158.0,Sophie Barker,4-5-1,Rebecca Welch,Match Report,,1.0,0.0,11.5,0.0,0,0,2023,Leicester City Women
+19,2022-04-24,14:00,WSL,Matchweek 20,Sun,Away,L,0,4,Manchester City,0.1,2.6,21.0,1895.0,Abbie McManus,4-4-2,Louise Saunders,Match Report,,3.0,1.0,39.0,1.0,0,0,2023,Leicester City Women
+20,2022-05-01,14:00,WSL,Matchweek 21,Sun,Home,D,0,0,Reading,1.2,0.7,37.0,2244.0,Abbie McManus,4-1-4-1,Richie Watkins,Match Report,,13.0,2.0,15.9,1.0,0,0,2023,Leicester City Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,L,0,1,Tottenham,0.6,1.1,34.0,3994.0,Abbie McManus,5-3-2,Kirsty Dowle,Match Report,,11.0,1.0,18.8,0.0,0,0,2023,Leicester City Women
+0,2021-09-04,15:00,WSL,Matchweek 1,Sat,Away,L,0,1,Tottenham,0.2,0.9,34.0,4681.0,Louise Quinn,4-3-3,Lisa Benn,Match Report,,5.0,1.0,21.1,0.0,0,0,2023,Birmingham City Women
+1,2021-09-12,14:00,WSL,Matchweek 2,Sun,Home,L,0,5,Brighton,0.9,2.2,35.0,525.0,Louise Quinn,4-3-3,Lucy May,Match Report,,14.0,4.0,18.1,0.0,0,0,2023,Birmingham City Women
+2,2021-09-25,11:30,WSL,Matchweek 3,Sat,Away,L,1,3,Everton,0.2,1.0,35.0,605.0,Louise Quinn,4-3-3,Tom Reeves,Match Report,,6.0,3.0,20.8,0.0,0,0,2023,Birmingham City Women
+3,2021-10-03,18:45,WSL,Matchweek 4,Sun,Home,L,0,2,Manchester Utd,0.2,1.7,30.0,650.0,Louise Quinn,4-3-3,Lisa Benn,Match Report,,3.0,1.0,19.9,0.0,0,0,2023,Birmingham City Women
+4,2021-10-10,15:00,WSL,Matchweek 5,Sun,Away,D,1,1,West Ham,1.3,0.5,35.0,1142.0,Louise Quinn,4-2-3-1,Lucy May,Match Report,,9.0,2.0,18.2,0.0,0,0,2023,Birmingham City Women
+5,2021-11-07,14:00,WSL,Matchweek 6,Sun,Home,L,0,3,Reading,0.1,2.3,36.0,298.0,Louise Quinn,4-2-3-1,Louise Saunders,Match Report,,3.0,2.0,25.6,0.0,0,0,2023,Birmingham City Women
+6,2021-11-14,14:00,WSL,Matchweek 7,Sun,Home,L,0,1,Aston Villa,0.7,0.4,40.0,1386.0,Louise Quinn,4-4-2,Kirsty Dowle,Match Report,,4.0,1.0,24.3,0.0,0,0,2023,Birmingham City Women
+7,2021-11-21,14:00,WSL,Matchweek 8,Sun,Away,L,0,5,Chelsea,0.0,4.6,26.0,2704.0,Louise Quinn,4-4-2,Elizabeth Simms,Match Report,,1.0,0.0,28.8,0.0,0,0,2023,Birmingham City Women
+8,2021-12-12,14:00,WSL,Matchweek 9,Sun,Home,L,2,3,Manchester City,1.8,2.4,28.0,812.0,Louise Quinn,5-3-2,Helen Conley,Match Report,,9.0,3.0,21.1,0.0,1,1,2023,Birmingham City Women
+9,2021-12-19,14:00,WSL,Matchweek 10,Sun,Away,L,0,2,Leicester City,0.9,0.7,45.0,2124.0,Louise Quinn,3-5-2,Lisa Benn,Match Report,,11.0,1.0,15.4,0.0,0,0,2023,Birmingham City Women
+10,2022-01-09,14:00,WSL,Matchweek 11,Sun,Home,W,2,0,Arsenal,0.7,0.6,32.0,582.0,Louise Quinn,3-5-2,Lucy May,Match Report,,13.0,7.0,23.7,1.0,0,0,2023,Birmingham City Women
+11,2022-01-15,12:00,WSL,Matchweek 12,Sat,Away,L,0,5,Manchester Utd,0.1,1.7,31.0,1015.0,Louise Quinn,3-5-2,Kirsty Dowle,Match Report,,1.0,0.0,20.3,0.0,0,0,2023,Birmingham City Women
+12,2022-01-23,14:00,WSL,Matchweek 13,Sun,Away,L,2,3,Reading,0.7,1.5,44.0,552.0,Louise Quinn,3-5-2,Lisa Benn,Match Report,,12.0,3.0,16.1,0.0,0,0,2023,Birmingham City Women
+13,2022-02-06,14:00,WSL,Matchweek 14,Sun,Home,L,1,2,Leicester City,0.7,3.6,41.0,810.0,Louise Quinn,3-4-3,Rob Whitton,Match Report,,6.0,2.0,18.6,0.0,0,0,2023,Birmingham City Women
+14,2022-02-13,14:00,WSL,Matchweek 15,Sun,Home,L,0,2,Tottenham,0.2,2.1,31.0,487.0,Louise Quinn,3-4-3,Emily Heaslip,Match Report,,4.0,2.0,25.8,0.0,0,0,2023,Birmingham City Women
+15,2022-03-06,12:00,WSL,Matchweek 16,Sun,Away,L,2,4,Arsenal,1.2,2.4,26.0,1700.0,Louise Quinn,3-4-3,Robert Massey Ellis,Match Report,,5.0,3.0,12.9,0.0,0,0,2023,Birmingham City Women
+16,2022-03-13,14:00,WSL,Matchweek 17,Sun,Home,L,0,1,West Ham,0.5,0.6,44.0,587.0,Louise Quinn,3-5-2,Louise Saunders,Match Report,,10.0,2.0,23.5,1.0,0,0,2023,Birmingham City Women
+17,2022-04-01,19:00,WSL,Matchweek 19,Fri,Home,D,0,0,Everton,0.2,1.6,36.0,537.0,Louise Quinn,3-5-2,Amy Fearn,Match Report,,7.0,1.0,17.3,0.0,0,0,2023,Birmingham City Women
+18,2022-04-23,14:00,WSL,Matchweek 20,Sat,Away,W,3,1,Brighton,0.6,1.2,34.0,1206.0,Louise Quinn,3-5-2,Elizabeth Simms,Match Report,,9.0,4.0,15.9,1.0,0,0,2023,Birmingham City Women
+19,2022-05-01,18:45,WSL,Matchweek 21,Sun,Home,L,0,1,Chelsea,0.5,2.0,34.0,1429.0,Louise Quinn,5-3-2,Emily Heaslip,Match Report,,8.0,2.0,18.7,0.0,0,0,2023,Birmingham City Women
+20,2022-05-04,19:00,WSL,Matchweek 18,Wed,Away,L,0,6,Manchester City,0.0,3.1,20.0,1207.0,Louise Quinn,3-5-2,Jane Simms,Match Report,,1.0,0.0,37.3,0.0,0,0,2023,Birmingham City Women
+21,2022-05-08,12:00,WSL,Matchweek 22,Sun,Away,W,1,0,Aston Villa,0.5,1.0,31.0,8367.0,Louise Quinn,3-5-2,Rebecca Welch,Match Report,,8.0,2.0,19.0,0.0,0,0,2023,Birmingham City Women
+0,2020-09-06,14:30,WSL,Matchweek 1,Sun,Away,D,1,1,Manchester Utd,3.2,1.4,49.0,,Magdalena Eriksson,4-3-3,Rebecca Welch,Match Report,,16.0,5.0,13.5,0.0,0,0,2022,Chelsea Women
+1,2020-09-13,12:30,WSL,Matchweek 2,Sun,Home,W,9,0,Bristol City,6.6,0.1,76.0,,Magdalena Eriksson,4-3-3,Stacey Pearson,Match Report,,38.0,19.0,14.4,1.0,1,1,2022,Chelsea Women
+2,2020-10-04,14:30,WSL,Matchweek 3,Sun,Away,W,1,0,Birmingham City,1.3,0.1,69.0,,Magdalena Eriksson,4-3-3,Abigail Bryne,Match Report,,19.0,5.0,17.3,0.0,0,0,2022,Chelsea Women
+3,2020-10-11,14:30,WSL,Matchweek 4,Sun,Home,W,3,1,Manchester City,2.7,1.2,44.0,,Magdalena Eriksson,4-3-3,Rebecca Welch,Match Report,,18.0,3.0,17.9,0.0,1,1,2022,Chelsea Women
+4,2020-11-08,12:00,WSL,Matchweek 6,Sun,Home,W,4,0,Everton,2.0,0.7,63.0,,Magdalena Eriksson,4-3-3,Abigail Bryne,Match Report,,19.0,10.0,17.4,1.0,0,0,2022,Chelsea Women
+5,2020-11-15,14:30,WSL,Matchweek 7,Sun,Away,D,1,1,Arsenal,1.0,1.5,46.0,,Magdalena Eriksson,4-3-3,Kirsty Dowle,Match Report,,9.0,0.0,19.0,1.0,0,0,2022,Chelsea Women
+6,2020-12-06,12:30,WSL,Matchweek 8,Sun,Home,W,3,2,West Ham,3.3,1.1,63.0,266.0,Magdalena Eriksson,4-2-3-1,Rebecca Welch,Match Report,,26.0,9.0,17.4,2.0,0,0,2022,Chelsea Women
+8,2020-12-13,14:00,WSL,Matchweek 9,Sun,Away,W,1,0,Brighton,0.7,0.1,63.0,457.0,Magdalena Eriksson,4-2-3-1,Lisa Benn,Match Report,,13.0,6.0,26.7,1.0,0,0,2022,Chelsea Women
+10,2021-01-10,14:00,WSL,Matchweek 11,Sun,Away,W,5,0,Reading,1.8,0.2,55.0,,Millie Bright,4-2-3-1,Abigail Bryne,Match Report,,15.0,7.0,17.1,1.0,0,0,2022,Chelsea Women
+11,2021-01-17,14:30,WSL,Matchweek 12,Sun,Home,W,2,1,Manchester Utd,2.0,0.2,51.0,,Magdalena Eriksson,4-2-3-1,Rebecca Welch,Match Report,,17.0,6.0,16.6,0.0,0,0,2022,Chelsea Women
+12,2021-01-27,19:00,WSL,Matchweek 5,Wed,Away,W,4,0,Aston Villa,1.7,0.4,71.0,,Magdalena Eriksson,4-2-3-1,Helen Conley,Match Report,,16.0,5.0,20.3,0.0,0,0,2022,Chelsea Women
+13,2021-01-31,12:30,WSL,Matchweek 10,Sun,Home,W,4,0,Tottenham,2.5,0.5,68.0,,Magdalena Eriksson,4-2-3-1,Sarah Garratt,Match Report,,21.0,6.0,17.9,0.0,1,1,2022,Chelsea Women
+14,2021-02-07,14:00,WSL,Matchweek 14,Sun,Home,L,1,2,Brighton,2.0,0.8,75.0,,Magdalena Eriksson,4-1-3-2,Christiana Hattersley,Match Report,,30.0,7.0,16.2,0.0,0,0,2022,Chelsea Women
+15,2021-02-10,19:00,WSL,Matchweek 15,Wed,Home,W,3,0,Arsenal,1.2,0.9,35.0,,Magdalena Eriksson,4-2-3-1,Amy Fearn,Match Report,,8.0,5.0,18.7,0.0,0,0,2022,Chelsea Women
+16,2021-02-14,15:00,WSL,Matchweek 13,Sun,Away,W,5,0,Bristol City,3.4,0.1,71.0,,Magdalena Eriksson,4-1-3-2,Emily Heaslip,Match Report,,24.0,9.0,13.9,0.0,0,0,2022,Chelsea Women
+18,2021-03-07,15:00,WSL,Matchweek 16,Sun,Away,W,2,0,West Ham,2.9,0.5,59.0,,Millie Bright,4-1-3-2,Rob Whitton,Match Report,,13.0,5.0,14.2,0.0,0,0,2022,Chelsea Women
+20,2021-03-17,19:00,WSL,Matchweek 17,Wed,Away,W,3,0,Everton,3.4,0.5,50.0,,Magdalena Eriksson,4-3-1-2,Emily Heaslip,Match Report,,17.0,7.0,17.2,0.0,0,1,2022,Chelsea Women
+22,2021-03-28,14:30,WSL,Matchweek 18,Sun,Home,W,2,0,Aston Villa,1.1,0.0,73.0,,Magdalena Eriksson,4-3-3,Sarah Garratt,Match Report,,18.0,4.0,15.9,0.0,0,0,2022,Chelsea Women
+24,2021-04-04,12:30,WSL,Matchweek 19,Sun,Home,W,6,0,Birmingham City,3.2,0.4,69.0,,Magdalena Eriksson,4-2-3-1,Jane Simms,Match Report,,26.0,11.0,14.8,0.0,0,0,2022,Chelsea Women
+25,2021-04-21,18:00,WSL,Matchweek 20,Wed,Away,D,2,2,Manchester City,1.6,1.5,38.0,,Millie Bright,4-2-3-1,Rebecca Welch,Match Report,,14.0,2.0,19.5,0.0,1,1,2022,Chelsea Women
+28,2021-05-05,17:30,WSL,Matchweek 21,Wed,Away,W,2,0,Tottenham,3.5,0.2,60.0,,Magdalena Eriksson,4-4-2,Amy Fearn,Match Report,,24.0,11.0,11.8,0.0,0,0,2022,Chelsea Women
+29,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,W,5,0,Reading,2.4,0.3,59.0,,Magdalena Eriksson,4-2-3-1,Stacey Pearson,Match Report,,17.0,9.0,12.0,0.0,0,0,2022,Chelsea Women
+0,2020-09-05,14:30,WSL,Matchweek 1,Sat,Away,W,2,0,Aston Villa,2.8,0.9,63.0,,Steph Houghton,4-3-3,Abigail Bryne,Match Report,,18.0,6.0,13.9,0.0,0,0,2022,Manchester City Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Home,D,0,0,Brighton,2.0,0.3,68.0,,Steph Houghton,4-3-3,Helen Conley,Match Report,,17.0,4.0,18.0,1.0,0,0,2022,Manchester City Women
+2,2020-10-04,12:30,WSL,Matchweek 3,Sun,Home,W,4,1,Tottenham,2.8,0.2,67.0,,Steph Houghton,4-3-3,Stacey Pearson,Match Report,,22.0,5.0,19.0,1.0,1,1,2022,Manchester City Women
+3,2020-10-11,14:30,WSL,Matchweek 4,Sun,Away,L,1,3,Chelsea,1.2,2.7,56.0,,Steph Houghton,4-3-3,Rebecca Welch,Match Report,,8.0,1.0,21.8,0.0,1,1,2022,Manchester City Women
+4,2020-10-18,14:00,WSL,Matchweek 5,Sun,Away,D,1,1,Reading,1.8,0.2,67.0,,Steph Houghton,4-3-3,Savvas Yianni,Match Report,,26.0,8.0,17.6,0.0,0,0,2022,Manchester City Women
+5,2020-11-07,15:00,WSL,Matchweek 6,Sat,Home,W,8,1,Bristol City,4.4,0.5,85.0,,Steph Houghton,4-3-3,Christiana Hattersley,Match Report,,24.0,10.0,15.8,1.0,0,0,2022,Manchester City Women
+6,2020-11-14,12:30,WSL,Matchweek 7,Sat,Away,D,2,2,Manchester Utd,1.7,1.2,54.0,,Steph Houghton,4-3-3,Amy Fearn,Match Report,,23.0,5.0,13.5,0.0,0,0,2022,Manchester City Women
+7,2020-12-06,14:30,WSL,Matchweek 8,Sun,Away,W,3,0,Everton,2.4,0.5,57.0,,Steph Houghton,4-3-3,Stacey Pearson,Match Report,,20.0,6.0,15.4,1.0,0,0,2022,Manchester City Women
+9,2020-12-13,14:30,WSL,Matchweek 9,Sun,Home,W,2,1,Arsenal,1.8,0.1,57.0,,Steph Houghton,4-3-3,Emily Heaslip,Match Report,,18.0,4.0,18.2,0.0,0,0,2022,Manchester City Women
+11,2021-01-17,12:30,WSL,Matchweek 12,Sun,Home,W,7,0,Aston Villa,3.8,0.3,63.0,,Steph Houghton,4-3-3,Amy Fearn,Match Report,,24.0,8.0,17.8,1.0,0,0,2022,Manchester City Women
+12,2021-01-24,14:00,WSL,Matchweek 13,Sun,Away,W,7,1,Brighton,4.2,0.2,78.0,,Steph Houghton,4-3-3,Lisa Benn,Match Report,,20.0,10.0,12.6,1.0,0,0,2022,Manchester City Women
+13,2021-01-31,14:00,WSL,Matchweek 11,Sun,Home,W,4,0,West Ham,3.4,0.1,75.0,,Steph Houghton,4-3-3,Jane Simms,Match Report,,25.0,6.0,15.5,0.0,0,0,2022,Manchester City Women
+14,2021-02-07,14:30,WSL,Matchweek 14,Sun,Away,W,2,1,Arsenal,1.9,0.6,47.0,,Steph Houghton,4-3-3,Kirsty Dowle,Match Report,,14.0,4.0,11.1,0.0,0,0,2022,Manchester City Women
+15,2021-02-12,19:00,WSL,Matchweek 15,Fri,Home,W,3,0,Manchester Utd,1.3,0.5,59.0,,Steph Houghton,4-3-3,Abigail Bryne,Match Report,,16.0,8.0,14.5,1.0,0,0,2022,Manchester City Women
+16,2021-02-28,14:00,WSL,Matchweek 10,Sun,Away,W,4,0,Birmingham City,1.3,0.1,81.0,,Steph Houghton,4-3-3,Helen Conley,Match Report,,22.0,11.0,16.8,0.0,0,0,2022,Manchester City Women
+18,2021-03-07,14:00,WSL,Matchweek 16,Sun,Home,W,1,0,Everton,1.2,0.1,63.0,,Steph Houghton,4-3-3,Sarah Garratt,Match Report,,13.0,3.0,17.3,1.0,0,0,2022,Manchester City Women
+20,2021-03-17,19:30,WSL,Matchweek 17,Wed,Away,W,3,0,Bristol City,2.3,0.3,67.0,,Ellen White,4-3-3,Scott Jackson,Match Report,,23.0,10.0,16.0,1.0,0,0,2022,Manchester City Women
+22,2021-03-27,17:30,WSL,Matchweek 18,Sat,Home,W,1,0,Reading,2.3,0.2,69.0,,Keira Walsh,4-3-3,Stacey Pearson,Match Report,,20.0,9.0,16.2,0.0,0,0,2022,Manchester City Women
+24,2021-04-04,14:00,WSL,Matchweek 19,Sun,Away,W,3,0,Tottenham,1.7,0.1,61.0,,Ellen White,4-3-3,Amy Fearn,Match Report,,15.0,4.0,15.3,0.0,0,0,2022,Manchester City Women
+25,2021-04-21,18:00,WSL,Matchweek 20,Wed,Home,D,2,2,Chelsea,1.5,1.6,62.0,,Ellen White,4-3-3,Rebecca Welch,Match Report,,13.0,7.0,12.3,0.0,0,0,2022,Manchester City Women
+26,2021-05-02,15:00,WSL,Matchweek 21,Sun,Home,W,4,0,Birmingham City,3.8,0.0,81.0,,Ellen White,4-3-3,Emily Heaslip,Match Report,,25.0,10.0,16.1,1.0,0,1,2022,Manchester City Women
+27,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,W,1,0,West Ham,4.7,0.5,77.0,,Ellen White,4-3-3,Kirsty Dowle,Match Report,,20.0,4.0,15.8,0.0,0,2,2022,Manchester City Women
+0,2020-09-06,12:30,WSL,Matchweek 1,Sun,Home,W,6,1,Reading,4.0,1.0,57.0,,Kim Little,3-2-4-1,Amy Fearn,Match Report,,21.0,9.0,14.3,1.0,0,0,2022,Arsenal Women
+1,2020-09-12,17:20,WSL,Matchweek 2,Sat,Away,W,9,1,West Ham,3.7,0.1,60.0,,Kim Little,4-3-3,Abigail Bryne,Match Report,,25.0,18.0,14.8,0.0,0,0,2022,Arsenal Women
+2,2020-10-04,14:00,WSL,Matchweek 3,Sun,Home,W,3,1,Bristol City,3.2,0.1,81.0,,Jordan Nobbs,4-3-3,Jack Packman,Match Report,,24.0,9.0,17.8,2.0,0,0,2022,Arsenal Women
+3,2020-10-11,12:30,WSL,Matchweek 4,Sun,Away,W,5,0,Brighton,2.3,0.6,67.0,,Lia Wälti,4-3-3,Kirsty Dowle,Match Report,,15.0,7.0,15.5,0.0,0,0,2022,Arsenal Women
+4,2020-10-18,14:30,WSL,Matchweek 5,Sun,Home,W,6,1,Tottenham,2.8,1.2,69.0,,Lia Wälti,4-3-3,Abigail Bryne,Match Report,,14.0,10.0,15.4,2.0,0,0,2022,Arsenal Women
+5,2020-11-08,14:30,WSL,Matchweek 6,Sun,Away,L,0,1,Manchester Utd,0.5,1.4,53.0,,Lia Wälti,4-3-3,Peter Shacklady,Match Report,,11.0,2.0,19.9,1.0,0,0,2022,Arsenal Women
+6,2020-11-15,14:30,WSL,Matchweek 7,Sun,Home,D,1,1,Chelsea,1.5,1.0,54.0,,Kim Little,4-3-3,Kirsty Dowle,Match Report,,11.0,1.0,14.2,0.0,0,0,2022,Arsenal Women
+7,2020-12-06,14:00,WSL,Matchweek 8,Sun,Home,W,3,0,Birmingham City,3.6,0.1,75.0,,Kim Little,4-3-3,Christiana Hattersley,Match Report,,28.0,12.0,17.5,0.0,1,2,2022,Arsenal Women
+8,2020-12-13,14:30,WSL,Matchweek 9,Sun,Away,L,1,2,Manchester City,0.1,1.8,43.0,,Kim Little,4-3-3,Emily Heaslip,Match Report,,2.0,1.0,19.6,0.0,0,0,2022,Arsenal Women
+9,2020-12-20,12:30,WSL,Matchweek 10,Sun,Home,W,4,0,Everton,3.2,0.2,62.0,,Kim Little,4-3-3,Helen Conley,Match Report,,17.0,7.0,13.2,0.0,0,0,2022,Arsenal Women
+10,2021-01-17,14:00,WSL,Matchweek 12,Sun,Away,D,1,1,Reading,2.9,0.3,59.0,,Kim Little,3-2-4-1,Lisa Benn,Match Report,,12.0,5.0,11.6,0.0,0,0,2022,Arsenal Women
+11,2021-02-07,14:30,WSL,Matchweek 14,Sun,Home,L,1,2,Manchester City,0.6,1.9,53.0,,Leah Williamson,4-3-3,Kirsty Dowle,Match Report,,6.0,3.0,18.8,0.0,0,0,2022,Arsenal Women
+12,2021-02-10,19:00,WSL,Matchweek 15,Wed,Away,L,0,3,Chelsea,0.9,1.2,65.0,,Lia Wälti,4-3-3,Amy Fearn,Match Report,,8.0,3.0,21.3,0.0,0,0,2022,Arsenal Women
+13,2021-02-28,14:00,WSL,Matchweek 11,Sun,Away,W,4,0,Aston Villa,2.6,0.3,78.0,,Jordan Nobbs,4-3-3,Lisa Benn,Match Report,,29.0,13.0,18.8,1.0,0,0,2022,Arsenal Women
+14,2021-03-07,14:00,WSL,Matchweek 16,Sun,Away,W,4,0,Birmingham City,3.6,0.1,74.0,,Jordan Nobbs,4-3-3,Jane Simms,Match Report,,27.0,9.0,15.5,1.0,0,0,2022,Arsenal Women
+15,2021-03-19,18:30,WSL,Matchweek 17,Fri,Home,W,2,0,Manchester Utd,0.9,0.8,39.0,,Kim Little,4-3-3,Amy Fearn,Match Report,,10.0,4.0,16.3,0.0,0,0,2022,Arsenal Women
+16,2021-03-27,15:30,WSL,Matchweek 18,Sat,Away,W,3,0,Tottenham,1.8,1.1,63.0,,Kim Little,4-3-3,Helen Conley,Match Report,,26.0,8.0,16.7,1.0,0,0,2022,Arsenal Women
+17,2021-04-04,14:00,WSL,Matchweek 19,Sun,Away,W,4,0,Bristol City,3.6,0.1,71.0,,Kim Little,4-3-3,Sarah Garratt,Match Report,,27.0,11.0,14.0,0.0,0,0,2022,Arsenal Women
+18,2021-04-25,14:00,WSL,Matchweek 20,Sun,Home,W,2,0,Brighton,1.4,0.2,71.0,,Kim Little,4-3-3,Lisa Benn,Match Report,,15.0,5.0,16.9,0.0,0,0,2022,Arsenal Women
+19,2021-04-28,19:30,WSL,Matchweek 13,Wed,Home,W,2,0,West Ham,1.9,0.3,67.0,,Kim Little,4-4-1-1,Emily Heaslip,Match Report,,15.0,8.0,14.0,0.0,0,0,2022,Arsenal Women
+20,2021-05-02,13:00,WSL,Matchweek 21,Sun,Away,W,2,1,Everton,1.9,0.4,64.0,,Kim Little,4-3-3,Sarah Garratt,Match Report,,13.0,3.0,16.6,0.0,1,1,2022,Arsenal Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,D,0,0,Aston Villa,1.2,0.2,78.0,,Kim Little,4-1-4-1,Abigail Bryne,Match Report,,18.0,4.0,16.9,0.0,0,0,2022,Arsenal Women
+0,2020-09-06,14:30,WSL,Matchweek 1,Sun,Home,D,1,1,Chelsea,1.4,3.2,51.0,,Katie Zelem,4-2-3-1,Rebecca Welch,Match Report,,11.0,3.0,19.8,0.0,0,0,2022,Manchester United Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Away,W,5,2,Birmingham City,2.5,0.3,53.0,,Katie Zelem,4-2-3-1,Lucy Oliver,Match Report,,24.0,12.0,18.2,1.0,0,0,2022,Manchester United Women
+2,2020-10-04,12:00,WSL,Matchweek 3,Sun,Home,W,3,0,Brighton,4.5,0.5,48.0,,Amy Turner,4-2-3-1,Elliot Swallow,Match Report,,22.0,6.0,16.1,1.0,1,1,2022,Manchester United Women
+3,2020-10-10,12:30,WSL,Matchweek 4,Sat,Away,W,1,0,Tottenham,1.6,0.2,53.0,,Katie Zelem,4-2-3-1,Amy Fearn,Match Report,,18.0,6.0,17.4,2.0,0,0,2022,Manchester United Women
+4,2020-10-18,12:30,WSL,Matchweek 5,Sun,Away,W,4,2,West Ham,3.4,0.4,41.0,,Katie Zelem,4-2-3-1,Ryan Atkin,Match Report,,16.0,8.0,15.9,0.0,0,0,2022,Manchester United Women
+5,2020-11-08,14:30,WSL,Matchweek 6,Sun,Home,W,1,0,Arsenal,1.4,0.5,47.0,,Amy Turner,4-2-3-1,Peter Shacklady,Match Report,,23.0,5.0,17.3,1.0,0,0,2022,Manchester United Women
+6,2020-11-14,12:30,WSL,Matchweek 7,Sat,Home,D,2,2,Manchester City,1.2,1.7,46.0,,Amy Turner,4-2-3-1,Amy Fearn,Match Report,,13.0,7.0,17.1,0.0,0,0,2022,Manchester United Women
+7,2020-12-05,12:30,WSL,Matchweek 8,Sat,Away,W,2,0,Aston Villa,1.9,0.8,58.0,,Amy Turner,4-2-3-1,Abigail Bryne,Match Report,,30.0,10.0,19.6,0.0,0,0,2022,Manchester United Women
+8,2020-12-13,12:30,WSL,Matchweek 9,Sun,Away,W,2,1,Reading,1.9,0.5,49.0,,Amy Turner,4-2-3-1,Helen Conley,Match Report,,14.0,3.0,17.3,0.0,0,0,2022,Manchester United Women
+9,2020-12-20,12:00,WSL,Matchweek 10,Sun,Home,W,6,1,Bristol City,1.8,0.9,69.0,,Katie Zelem,4-3-3,Lisa Benn,Match Report,,28.0,11.0,19.7,0.0,0,0,2022,Manchester United Women
+10,2021-01-17,14:30,WSL,Matchweek 12,Sun,Away,L,1,2,Chelsea,0.2,2.0,49.0,,Amy Turner,4-2-3-1,Rebecca Welch,Match Report,,5.0,1.0,21.5,0.0,0,0,2022,Manchester United Women
+11,2021-01-24,12:00,WSL,Matchweek 13,Sun,Home,W,2,0,Birmingham City,3.1,0.0,72.0,,Amy Turner,4-2-3-1,Stacey Pearson,Match Report,,23.0,8.0,16.3,0.0,0,0,2022,Manchester United Women
+12,2021-01-31,14:30,WSL,Matchweek 11,Sun,Away,W,2,0,Everton,1.5,0.3,42.0,,Katie Zelem,4-2-3-1,Kirsty Dowle,Match Report,,8.0,6.0,11.7,0.0,0,0,2022,Manchester United Women
+13,2021-02-07,12:30,WSL,Matchweek 14,Sun,Home,L,0,2,Reading,1.3,1.7,51.0,,Katie Zelem,4-2-3-1,Edward Duckworth,Match Report,,17.0,7.0,18.3,0.0,0,0,2022,Manchester United Women
+14,2021-02-12,19:00,WSL,Matchweek 15,Fri,Away,L,0,3,Manchester City,0.5,1.3,41.0,,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,9.0,3.0,19.4,0.0,0,0,2022,Manchester United Women
+15,2021-03-07,12:00,WSL,Matchweek 16,Sun,Home,W,3,0,Aston Villa,1.0,0.0,73.0,,Katie Zelem,4-2-3-1,Helen Conley,Match Report,,13.0,4.0,16.3,0.0,0,0,2022,Manchester United Women
+16,2021-03-19,18:30,WSL,Matchweek 17,Fri,Away,L,0,2,Arsenal,0.8,0.9,61.0,,Katie Zelem,4-2-3-1,Amy Fearn,Match Report,,12.0,3.0,19.5,1.0,0,0,2022,Manchester United Women
+17,2021-03-27,11:30,WSL,Matchweek 18,Sat,Home,W,2,0,West Ham,2.0,0.5,74.0,,Katie Zelem,4-2-3-1,Lisa Benn,Match Report,,16.0,5.0,17.9,0.0,0,0,2022,Manchester United Women
+18,2021-04-04,14:00,WSL,Matchweek 19,Sun,Away,L,0,1,Brighton,1.2,1.2,66.0,,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,15.0,2.0,20.1,0.0,0,0,2022,Manchester United Women
+19,2021-04-25,12:30,WSL,Matchweek 20,Sun,Home,W,4,1,Tottenham,2.4,0.1,50.0,,Katie Zelem,4-2-3-1,Christiana Hattersley,Match Report,,17.0,9.0,18.5,1.0,1,1,2022,Manchester United Women
+20,2021-05-02,14:00,WSL,Matchweek 21,Sun,Away,W,1,0,Bristol City,2.1,1.0,60.0,,Katie Zelem,4-3-3,Lisa Benn,Match Report,,18.0,3.0,13.9,1.0,0,0,2022,Manchester United Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,W,2,0,Everton,1.0,0.7,49.0,,Katie Zelem,4-3-3,Louise Saunders,Match Report,,12.0,4.0,17.3,1.0,0,0,2022,Manchester United Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Away,W,4,0,Bristol City,3.2,0.8,64.0,,Lucy Graham,4-2-3-1,Scott Jackson,Match Report,,15.0,6.0,13.1,0.0,1,1,2022,Everton Women
+1,2020-09-13,13:00,WSL,Matchweek 2,Sun,Home,W,1,0,Tottenham,1.3,0.4,53.0,,Lucy Graham,4-2-3-1,Robert Massey Ellis,Match Report,,8.0,3.0,16.5,0.0,0,0,2022,Everton Women
+2,2020-10-03,12:30,WSL,Matchweek 3,Sat,Away,W,6,0,Aston Villa,2.4,0.8,53.0,,Lucy Graham,4-2-3-1,Kirsty Dowle,Match Report,,18.0,10.0,16.6,0.0,0,0,2022,Everton Women
+3,2020-10-11,13:00,WSL,Matchweek 4,Sun,Home,W,3,1,West Ham,2.2,0.7,48.0,,Danielle Turner,4-2-3-1,Edward Duckworth,Match Report,,18.0,7.0,13.5,0.0,0,0,2022,Everton Women
+4,2020-10-18,13:00,WSL,Matchweek 5,Sun,Home,D,2,2,Brighton,1.7,0.8,57.0,,Lucy Graham,4-2-3-1,Lucy Oliver,Match Report,,18.0,4.0,16.6,3.0,0,0,2022,Everton Women
+5,2020-11-08,12:00,WSL,Matchweek 6,Sun,Away,L,0,4,Chelsea,0.7,2.0,37.0,,Danielle Turner,4-2-3-1,Abigail Bryne,Match Report,,11.0,2.0,18.8,0.0,0,0,2022,Everton Women
+6,2020-11-14,16:30,WSL,Matchweek 7,Sat,Home,D,1,1,Reading,1.5,0.3,49.0,,Lucy Graham,4-2-3-1,Emily Heaslip,Match Report,,18.0,4.0,16.7,0.0,0,0,2022,Everton Women
+7,2020-12-06,14:30,WSL,Matchweek 8,Sun,Home,L,0,3,Manchester City,0.5,2.4,43.0,,Lucy Graham,4-1-2-1-2◆,Stacey Pearson,Match Report,,9.0,3.0,13.7,0.0,0,0,2022,Everton Women
+8,2020-12-20,12:30,WSL,Matchweek 10,Sun,Away,L,0,4,Arsenal,0.2,3.2,38.0,,Lucy Graham,4-2-3-1,Helen Conley,Match Report,,3.0,1.0,15.7,0.0,0,0,2022,Everton Women
+9,2021-01-17,13:00,WSL,Matchweek 12,Sun,Home,W,4,0,Bristol City,2.4,0.8,65.0,,Lucy Graham,4-2-3-1,Christiana Hattersley,Match Report,,16.0,5.0,14.2,0.0,0,0,2022,Everton Women
+10,2021-01-31,14:30,WSL,Matchweek 11,Sun,Home,L,0,2,Manchester Utd,0.3,1.5,58.0,,Lucy Graham,4-3-3,Kirsty Dowle,Match Report,,8.0,3.0,22.3,0.0,0,0,2022,Everton Women
+11,2021-02-07,14:00,WSL,Matchweek 14,Sun,Home,D,1,1,Birmingham City,0.8,1.1,69.0,,Danielle Turner,4-3-3,Lisa Benn,Match Report,,14.0,3.0,19.0,2.0,0,0,2022,Everton Women
+12,2021-02-14,14:00,WSL,Matchweek 15,Sun,Away,D,1,1,Reading,0.5,1.7,59.0,,Danielle Turner,4-3-3,Stacey Pearson,Match Report,,10.0,3.0,18.8,0.0,0,0,2022,Everton Women
+13,2021-02-28,14:00,WSL,Matchweek 13,Sun,Away,W,3,2,Tottenham,2.4,0.7,55.0,,Danielle Turner,4-3-3,Abigail Bryne,Match Report,,12.0,3.0,16.1,0.0,2,2,2022,Everton Women
+14,2021-03-07,14:00,WSL,Matchweek 16,Sun,Away,L,0,1,Manchester City,0.1,1.2,37.0,,Lucy Graham,5-4-1,Sarah Garratt,Match Report,,2.0,0.0,26.9,0.0,0,0,2022,Everton Women
+15,2021-03-11,19:00,WSL,Matchweek 9,Thu,Away,W,4,0,Birmingham City,1.1,0.3,72.0,,Izzy Christiansen,4-2-3-1,Lisa Benn,Match Report,,8.0,5.0,20.8,0.0,0,0,2022,Everton Women
+16,2021-03-17,19:00,WSL,Matchweek 17,Wed,Home,L,0,3,Chelsea,0.5,3.4,50.0,,Lucy Graham,4-2-3-1,Emily Heaslip,Match Report,,6.0,3.0,15.9,0.0,0,0,2022,Everton Women
+17,2021-03-28,12:30,WSL,Matchweek 18,Sun,Away,W,5,0,Brighton,3.0,0.3,65.0,,Izzy Christiansen,4-2-3-1,Christiana Hattersley,Match Report,,14.0,5.0,14.8,1.0,1,1,2022,Everton Women
+18,2021-04-04,13:00,WSL,Matchweek 19,Sun,Home,W,3,1,Aston Villa,2.2,0.4,69.0,,Lucy Graham,4-2-3-1,Stacey Pearson,Match Report,,9.0,4.0,21.1,0.0,1,2,2022,Everton Women
+19,2021-04-25,15:00,WSL,Matchweek 20,Sun,Away,D,0,0,West Ham,1.1,1.7,61.0,,Izzy Christiansen,4-3-3,Helen Conley,Match Report,,10.0,4.0,17.4,1.0,0,0,2022,Everton Women
+20,2021-05-02,13:00,WSL,Matchweek 21,Sun,Home,L,1,2,Arsenal,0.4,1.9,36.0,,Lucy Graham,3-4-3,Sarah Garratt,Match Report,,5.0,1.0,19.9,0.0,0,0,2022,Everton Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,L,0,2,Manchester Utd,0.7,1.0,51.0,,Izzy Christiansen,3-4-3,Louise Saunders,Match Report,,13.0,3.0,16.0,0.0,0,0,2022,Everton Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Home,W,2,0,Birmingham City,1.2,0.2,55.0,,Danielle Buet,4-3-3,Rob Whitton,Match Report,,15.0,4.0,17.5,1.0,0,0,2022,Brighton and Hove Albion Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Away,D,0,0,Manchester City,0.3,2.0,32.0,,Danielle Buet,4-2-3-1,Helen Conley,Match Report,,7.0,2.0,24.0,1.0,0,0,2022,Brighton and Hove Albion Women
+2,2020-10-04,12:00,WSL,Matchweek 3,Sun,Away,L,0,3,Manchester Utd,0.5,4.5,52.0,,Danielle Buet,4-2-3-1,Elliot Swallow,Match Report,,5.0,2.0,19.8,0.0,0,0,2022,Brighton and Hove Albion Women
+3,2020-10-11,12:30,WSL,Matchweek 4,Sun,Home,L,0,5,Arsenal,0.6,2.3,33.0,,Danielle Buet,4-4-2,Kirsty Dowle,Match Report,,9.0,5.0,18.5,0.0,0,0,2022,Brighton and Hove Albion Women
+4,2020-10-18,13:00,WSL,Matchweek 5,Sun,Away,D,2,2,Everton,0.8,1.7,43.0,,Danielle Buet,4-2-3-1,Lucy Oliver,Match Report,,7.0,2.0,21.1,1.0,0,0,2022,Brighton and Hove Albion Women
+5,2020-11-08,14:00,WSL,Matchweek 6,Sun,Home,L,0,2,Aston Villa,0.5,0.7,52.0,,Danique Kerkdijk,4-2-3-1,Stacey Pearson,Match Report,,11.0,4.0,22.0,0.0,0,0,2022,Brighton and Hove Albion Women
+6,2020-11-15,12:30,WSL,Matchweek 7,Sun,Away,W,1,0,West Ham,0.7,1.4,39.0,,Danielle Buet,4-2-3-1,Abigail Bryne,Match Report,,6.0,3.0,17.9,0.0,0,0,2022,Brighton and Hove Albion Women
+7,2020-12-06,14:00,WSL,Matchweek 8,Sun,Away,L,1,3,Tottenham,1.6,2.4,50.0,,Danielle Buet,4-2-3-1,Emily Heaslip,Match Report,,10.0,4.0,19.4,0.0,1,1,2022,Brighton and Hove Albion Women
+8,2020-12-13,14:00,WSL,Matchweek 9,Sun,Home,L,0,1,Chelsea,0.1,0.7,37.0,457.0,Maya Le Tissier,4-2-3-1,Lisa Benn,Match Report,,4.0,0.0,34.3,0.0,0,0,2022,Brighton and Hove Albion Women
+9,2020-12-20,14:30,WSL,Matchweek 10,Sun,Home,L,1,3,Reading,1.6,0.9,51.0,365.0,Danielle Buet,4-2-3-1,Abigail Bryne,Match Report,,13.0,2.0,18.0,0.0,1,1,2022,Brighton and Hove Albion Women
+10,2021-01-17,14:00,WSL,Matchweek 12,Sun,Away,D,0,0,Birmingham City,1.0,0.3,52.0,,Danielle Buet,4-2-3-1,Helen Conley,Match Report,,20.0,7.0,19.7,2.0,0,0,2022,Brighton and Hove Albion Women
+11,2021-01-24,14:00,WSL,Matchweek 13,Sun,Home,L,1,7,Manchester City,0.2,4.2,22.0,,Danielle Buet,4-4-2,Lisa Benn,Match Report,,4.0,2.0,26.6,0.0,0,0,2022,Brighton and Hove Albion Women
+12,2021-01-30,14:00,WSL,Matchweek 11,Sat,Away,L,0,3,Bristol City,0.4,1.6,61.0,,Danielle Buet,4-2-3-1,Lucy Oliver,Match Report,,10.0,2.0,23.8,1.0,0,0,2022,Brighton and Hove Albion Women
+13,2021-02-07,14:00,WSL,Matchweek 14,Sun,Away,W,2,1,Chelsea,0.8,2.0,25.0,,Victoria Williams,4-2-3-1,Christiana Hattersley,Match Report,,3.0,2.0,17.2,0.0,0,0,2022,Brighton and Hove Albion Women
+14,2021-02-10,19:00,WSL,Matchweek 15,Wed,Home,W,1,0,West Ham,1.6,0.5,46.0,,Victoria Williams,4-2-3-1,Isaac Searle,Match Report,,13.0,5.0,13.8,1.0,0,0,2022,Brighton and Hove Albion Women
+15,2021-03-07,14:00,WSL,Matchweek 16,Sun,Home,W,2,0,Tottenham,0.4,1.2,42.0,,Victoria Williams,3-5-2,Stacey Pearson,Match Report,,7.0,4.0,16.4,0.0,0,0,2022,Brighton and Hove Albion Women
+16,2021-03-17,19:30,WSL,Matchweek 17,Wed,Away,W,2,0,Aston Villa,1.7,0.8,52.0,,Victoria Williams,4-2-3-1,Rebecca Welch,Match Report,,11.0,6.0,19.3,0.0,1,1,2022,Brighton and Hove Albion Women
+17,2021-03-28,12:30,WSL,Matchweek 18,Sun,Home,L,0,5,Everton,0.3,3.0,35.0,,Victoria Williams,4-4-2,Christiana Hattersley,Match Report,,6.0,3.0,19.4,0.0,0,0,2022,Brighton and Hove Albion Women
+18,2021-04-04,14:00,WSL,Matchweek 19,Sun,Home,W,1,0,Manchester Utd,1.2,1.2,34.0,,Victoria Williams,4-2-3-1,Abigail Bryne,Match Report,,8.0,2.0,21.2,0.0,1,1,2022,Brighton and Hove Albion Women
+19,2021-04-25,14:00,WSL,Matchweek 20,Sun,Away,L,0,2,Arsenal,0.2,1.4,29.0,,Victoria Williams,4-4-2,Lisa Benn,Match Report,,3.0,1.0,19.9,0.0,0,0,2022,Brighton and Hove Albion Women
+20,2021-05-02,14:00,WSL,Matchweek 21,Sun,Away,L,2,3,Reading,0.5,1.8,53.0,,Felicity Gibbons,4-3-3,Jane Simms,Match Report,,10.0,5.0,19.0,0.0,0,0,2022,Brighton and Hove Albion Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,W,3,1,Bristol City,1.6,1.0,65.0,,Victoria Williams,4-2-3-1,Amy Fearn,Match Report,,14.0,4.0,16.9,1.0,0,0,2022,Brighton and Hove Albion Women
+0,2020-09-06,12:30,WSL,Matchweek 1,Sun,Away,L,1,6,Arsenal,1.0,4.0,43.0,,Natasha Harding,4-1-2-1-2◆,Amy Fearn,Match Report,,11.0,3.0,23.0,0.0,0,0,2022,Reading Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Home,W,3,1,Aston Villa,3.6,1.2,54.0,,Natasha Harding,4-1-2-1-2◆,Emily Heaslip,Match Report,,28.0,12.0,20.9,1.0,1,1,2022,Reading Women
+2,2020-10-04,15:00,WSL,Matchweek 3,Sun,Away,W,1,0,West Ham,1.3,1.4,50.0,,Natasha Harding,4-3-3,Rob Whitton,Match Report,,11.0,6.0,17.3,0.0,0,0,2022,Reading Women
+3,2020-10-11,14:00,WSL,Matchweek 4,Sun,Home,L,0,1,Birmingham City,1.6,0.5,61.0,,Natasha Harding,4-3-3,Sarah Garratt,Match Report,,22.0,4.0,22.3,3.0,0,0,2022,Reading Women
+4,2020-10-18,14:00,WSL,Matchweek 5,Sun,Home,D,1,1,Manchester City,0.2,1.8,33.0,,Natasha Harding,4-3-3,Savvas Yianni,Match Report,,3.0,2.0,16.5,1.0,0,0,2022,Reading Women
+5,2020-11-07,14:00,WSL,Matchweek 6,Sat,Away,D,1,1,Tottenham,1.6,0.8,56.0,,Natasha Harding,4-1-2-1-2◆,Helen Conley,Match Report,,10.0,3.0,17.7,1.0,0,0,2022,Reading Women
+6,2020-11-14,16:30,WSL,Matchweek 7,Sat,Away,D,1,1,Everton,0.3,1.5,51.0,,Natasha Harding,4-1-2-1-2◆,Emily Heaslip,Match Report,,9.0,3.0,24.4,0.0,0,0,2022,Reading Women
+7,2020-12-06,14:00,WSL,Matchweek 8,Sun,Home,D,1,1,Bristol City,2.7,1.0,69.0,,Natasha Harding,4-3-1-2,Lucy Oliver,Match Report,,33.0,14.0,17.7,1.0,0,0,2022,Reading Women
+8,2020-12-13,12:30,WSL,Matchweek 9,Sun,Home,L,1,2,Manchester Utd,0.5,1.9,51.0,,Natasha Harding,4-4-2,Helen Conley,Match Report,,8.0,1.0,16.1,0.0,0,0,2022,Reading Women
+9,2020-12-20,14:30,WSL,Matchweek 10,Sun,Away,W,3,1,Brighton,0.9,1.6,49.0,365.0,Natasha Harding,4-4-2,Abigail Bryne,Match Report,,10.0,3.0,19.2,0.0,0,0,2022,Reading Women
+10,2021-01-10,14:00,WSL,Matchweek 11,Sun,Home,L,0,5,Chelsea,0.2,1.8,45.0,,Natasha Harding,4-4-2,Abigail Bryne,Match Report,,5.0,0.0,29.1,1.0,0,0,2022,Reading Women
+11,2021-01-17,14:00,WSL,Matchweek 12,Sun,Home,D,1,1,Arsenal,0.3,2.9,41.0,,Natasha Harding,4-4-2,Lisa Benn,Match Report,,5.0,2.0,17.1,0.0,0,0,2022,Reading Women
+12,2021-01-23,12:30,WSL,Matchweek 13,Sat,Away,D,2,2,Aston Villa,2.2,0.8,62.0,,Natasha Harding,4-4-2,Kirsty Dowle,Match Report,,24.0,9.0,17.2,0.0,0,0,2022,Reading Women
+13,2021-02-07,12:30,WSL,Matchweek 14,Sun,Away,W,2,0,Manchester Utd,1.7,1.3,49.0,,Natasha Harding,4-4-2,Edward Duckworth,Match Report,,11.0,4.0,12.3,0.0,0,0,2022,Reading Women
+14,2021-02-14,14:00,WSL,Matchweek 15,Sun,Home,D,1,1,Everton,1.7,0.5,41.0,,Natasha Harding,4-4-2,Stacey Pearson,Match Report,,10.0,5.0,15.8,0.0,0,0,2022,Reading Women
+15,2021-03-08,20:15,WSL,Matchweek 16,Mon,Away,L,2,3,Bristol City,1.9,0.9,63.0,,Natasha Harding,4-4-2,Rebecca Welch,Match Report,,22.0,6.0,18.0,1.0,0,0,2022,Reading Women
+16,2021-03-14,12:30,WSL,Matchweek 17,Sun,Home,D,0,0,Tottenham,0.9,0.8,58.0,,Natasha Harding,3-5-2,Christiana Hattersley,Match Report,,12.0,3.0,17.6,0.0,0,0,2022,Reading Women
+17,2021-03-27,17:30,WSL,Matchweek 18,Sat,Away,L,0,1,Manchester City,0.2,2.3,31.0,,Natasha Harding,5-3-2,Stacey Pearson,Match Report,,3.0,2.0,12.5,0.0,0,0,2022,Reading Women
+18,2021-04-03,14:00,WSL,Matchweek 19,Sat,Home,L,0,5,West Ham,0.5,2.2,60.0,,Natasha Harding,4-4-2,Kirsty Dowle,Match Report,,12.0,3.0,22.5,1.0,0,0,2022,Reading Women
+19,2021-04-25,14:00,WSL,Matchweek 20,Sun,Away,D,1,1,Birmingham City,0.7,1.2,69.0,,Natasha Harding,4-5-1,Lucy May,Match Report,,14.0,4.0,22.3,0.0,0,0,2022,Reading Women
+20,2021-05-02,14:00,WSL,Matchweek 21,Sun,Home,W,3,2,Brighton,1.8,0.5,47.0,,Fara Williams,4-5-1,Jane Simms,Match Report,,13.0,5.0,22.5,0.0,1,1,2022,Reading Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,L,0,5,Chelsea,0.3,2.4,41.0,,Fara Williams,4-5-1,Stacey Pearson,Match Report,,7.0,1.0,21.9,0.0,0,0,2022,Reading Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Home,D,1,1,West Ham,0.7,1.1,55.0,,Josephine Green,4-2-3-1,Kirsty Dowle,Match Report,,14.0,5.0,17.6,0.0,0,0,2022,Tottenham Women
+1,2020-09-13,13:00,WSL,Matchweek 2,Sun,Away,L,0,1,Everton,0.4,1.3,47.0,,Josephine Green,4-2-3-1,Robert Massey Ellis,Match Report,,9.0,4.0,25.9,1.0,0,0,2022,Tottenham Women
+2,2020-10-04,12:30,WSL,Matchweek 3,Sun,Away,L,1,4,Manchester City,0.2,2.8,33.0,,Josephine Green,4-2-3-1,Stacey Pearson,Match Report,,3.0,2.0,21.3,0.0,0,0,2022,Tottenham Women
+3,2020-10-10,12:30,WSL,Matchweek 4,Sat,Home,L,0,1,Manchester Utd,0.2,1.6,47.0,,Josephine Green,4-2-3-1,Amy Fearn,Match Report,,4.0,0.0,20.9,1.0,0,0,2022,Tottenham Women
+4,2020-10-18,14:30,WSL,Matchweek 5,Sun,Away,L,1,6,Arsenal,1.2,2.8,31.0,,Rebecca Spencer,4-2-3-1,Abigail Bryne,Match Report,,8.0,2.0,18.0,1.0,0,1,2022,Tottenham Women
+5,2020-11-07,14:00,WSL,Matchweek 6,Sat,Home,D,1,1,Reading,0.8,1.6,44.0,,Josephine Green,4-2-3-1,Helen Conley,Match Report,,8.0,4.0,20.6,1.0,0,0,2022,Tottenham Women
+6,2020-11-14,18:30,WSL,Matchweek 7,Sat,Away,D,2,2,Bristol City,0.8,1.5,67.0,,Josephine Green,4-3-3,Lisa Benn,Match Report,,13.0,6.0,22.9,2.0,0,0,2022,Tottenham Women
+7,2020-12-06,14:00,WSL,Matchweek 8,Sun,Home,W,3,1,Brighton,2.4,1.6,50.0,,Josephine Green,4-3-3,Emily Heaslip,Match Report,,14.0,5.0,18.8,2.0,1,1,2022,Tottenham Women
+8,2020-12-13,14:00,WSL,Matchweek 9,Sun,Home,W,3,1,Aston Villa,1.8,0.5,54.0,,Kerys Harrop,4-2-3-1,Sarah Garratt,Match Report,,9.0,5.0,18.2,0.0,1,1,2022,Tottenham Women
+9,2021-01-17,15:00,WSL,Matchweek 12,Sun,Away,W,1,0,West Ham,0.9,0.9,51.0,,Shelina Zadorsky,4-2-3-1,Lucy Oliver,Match Report,,8.0,1.0,17.1,1.0,0,0,2022,Tottenham Women
+10,2021-01-31,12:30,WSL,Matchweek 10,Sun,Away,L,0,4,Chelsea,0.5,2.5,32.0,,Alanna Kennedy,4-2-3-1,Sarah Garratt,Match Report,,8.0,2.0,18.8,0.0,0,0,2022,Tottenham Women
+11,2021-02-06,12:30,WSL,Matchweek 14,Sat,Away,L,0,1,Aston Villa,0.4,0.3,68.0,,Shelina Zadorsky,4-2-3-1,Jane Simms,Match Report,,12.0,2.0,23.1,0.0,0,0,2022,Tottenham Women
+12,2021-02-28,14:00,WSL,Matchweek 13,Sun,Home,L,2,3,Everton,0.7,2.4,45.0,,Shelina Zadorsky,4-2-3-1,Abigail Bryne,Match Report,,9.0,3.0,18.1,0.0,0,0,2022,Tottenham Women
+13,2021-03-07,14:00,WSL,Matchweek 16,Sun,Away,L,0,2,Brighton,1.2,0.4,58.0,,Shelina Zadorsky,4-2-3-1,Stacey Pearson,Match Report,,10.0,0.0,16.7,1.0,0,0,2022,Tottenham Women
+14,2021-03-14,12:30,WSL,Matchweek 17,Sun,Away,D,0,0,Reading,0.8,0.9,42.0,,Shelina Zadorsky,4-2-3-1,Christiana Hattersley,Match Report,,8.0,5.0,22.4,0.0,0,0,2022,Tottenham Women
+15,2021-03-21,14:00,WSL,Matchweek 15,Sun,Home,D,1,1,Bristol City,1.5,0.5,54.0,,Shelina Zadorsky,4-2-3-1,Jane Simms,Match Report,,19.0,4.0,18.6,1.0,0,0,2022,Tottenham Women
+16,2021-03-27,15:30,WSL,Matchweek 18,Sat,Home,L,0,3,Arsenal,1.1,1.8,37.0,,Shelina Zadorsky,4-4-2,Helen Conley,Match Report,,10.0,5.0,23.6,1.0,0,0,2022,Tottenham Women
+17,2021-04-04,14:00,WSL,Matchweek 19,Sun,Home,L,0,3,Manchester City,0.1,1.7,39.0,,Shelina Zadorsky,4-3-3,Amy Fearn,Match Report,,3.0,0.0,26.7,0.0,0,0,2022,Tottenham Women
+18,2021-04-25,12:30,WSL,Matchweek 20,Sun,Away,L,1,4,Manchester Utd,0.1,2.4,50.0,,Shelina Zadorsky,4-3-3,Christiana Hattersley,Match Report,,2.0,1.0,31.2,1.0,0,0,2022,Tottenham Women
+19,2021-05-05,17:30,WSL,Matchweek 21,Wed,Home,L,0,2,Chelsea,0.2,3.5,40.0,,Shelina Zadorsky,4-3-3,Amy Fearn,Match Report,,5.0,4.0,18.1,0.0,0,0,2022,Tottenham Women
+20,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,W,1,0,Birmingham City,0.6,0.2,68.0,,Shelina Zadorsky,4-3-3,Lisa Benn,Match Report,,11.0,3.0,18.4,0.0,0,0,2022,Tottenham Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Away,D,1,1,Tottenham,1.1,0.7,45.0,,Gilly Flaherty,4-3-3,Kirsty Dowle,Match Report,,8.0,4.0,15.9,1.0,0,0,2022,West Ham United Women
+1,2020-09-12,17:20,WSL,Matchweek 2,Sat,Home,L,1,9,Arsenal,0.1,3.7,40.0,,Gilly Flaherty,4-3-3,Abigail Bryne,Match Report,,3.0,2.0,23.6,0.0,0,0,2022,West Ham United Women
+2,2020-10-04,15:00,WSL,Matchweek 3,Sun,Home,L,0,1,Reading,1.4,1.3,50.0,,Kenza Dali,4-3-3,Rob Whitton,Match Report,,10.0,3.0,16.0,0.0,0,1,2022,West Ham United Women
+3,2020-10-11,13:00,WSL,Matchweek 4,Sun,Away,L,1,3,Everton,0.7,2.2,52.0,,Gilly Flaherty,4-3-3,Edward Duckworth,Match Report,,9.0,5.0,13.9,0.0,0,0,2022,West Ham United Women
+4,2020-10-18,12:30,WSL,Matchweek 5,Sun,Home,L,2,4,Manchester Utd,0.4,3.4,59.0,,Gilly Flaherty,4-3-3,Ryan Atkin,Match Report,,10.0,4.0,19.9,0.0,0,0,2022,West Ham United Women
+5,2020-11-08,14:00,WSL,Matchweek 6,Sun,Away,W,2,1,Birmingham City,0.9,0.7,60.0,,Gilly Flaherty,4-3-3,Richie Watkins,Match Report,,10.0,4.0,21.5,0.0,0,0,2022,West Ham United Women
+6,2020-11-15,12:30,WSL,Matchweek 7,Sun,Home,L,0,1,Brighton,1.4,0.7,61.0,,Gilly Flaherty,4-3-3,Abigail Bryne,Match Report,,17.0,5.0,18.0,0.0,0,0,2022,West Ham United Women
+7,2020-12-06,12:30,WSL,Matchweek 8,Sun,Away,L,2,3,Chelsea,1.1,3.3,37.0,266.0,Gilly Flaherty,4-3-3,Rebecca Welch,Match Report,,9.0,4.0,15.3,0.0,0,0,2022,West Ham United Women
+8,2020-12-13,14:00,WSL,Matchweek 9,Sun,Away,W,4,0,Bristol City,2.0,0.4,63.0,,Gilly Flaherty,4-2-3-1,Jane Simms,Match Report,,18.0,8.0,16.0,1.0,0,0,2022,West Ham United Women
+9,2021-01-17,15:00,WSL,Matchweek 12,Sun,Home,L,0,1,Tottenham,0.9,0.9,49.0,,Gilly Flaherty,3-4-1-2,Lucy Oliver,Match Report,,15.0,9.0,17.9,0.0,0,0,2022,West Ham United Women
+10,2021-01-31,14:00,WSL,Matchweek 11,Sun,Away,L,0,4,Manchester City,0.1,3.4,25.0,,Gilly Flaherty,3-4-1-2,Jane Simms,Match Report,,1.0,0.0,10.3,0.0,0,0,2022,West Ham United Women
+11,2021-02-07,15:00,WSL,Matchweek 14,Sun,Home,D,1,1,Bristol City,0.3,1.3,51.0,,Gilly Flaherty,3-4-3,Sarah Garratt,Match Report,,4.0,3.0,15.5,1.0,0,0,2022,West Ham United Women
+12,2021-02-10,19:00,WSL,Matchweek 15,Wed,Away,L,0,1,Brighton,0.5,1.6,54.0,,Gilly Flaherty,3-4-3,Isaac Searle,Match Report,,7.0,0.0,20.4,1.0,0,0,2022,West Ham United Women
+13,2021-03-07,15:00,WSL,Matchweek 16,Sun,Home,L,0,2,Chelsea,0.5,2.9,41.0,,Gilly Flaherty,3-4-3,Rob Whitton,Match Report,,7.0,0.0,15.0,1.0,0,0,2022,West Ham United Women
+14,2021-03-17,19:30,WSL,Matchweek 17,Wed,Home,D,2,2,Birmingham City,1.3,1.1,54.0,,Gilly Flaherty,3-4-3,Stacey Pearson,Match Report,,13.0,8.0,21.4,1.0,0,0,2022,West Ham United Women
+15,2021-03-27,11:30,WSL,Matchweek 18,Sat,Away,L,0,2,Manchester Utd,0.5,2.0,26.0,,Gilly Flaherty,3-4-3,Lisa Benn,Match Report,,10.0,5.0,18.7,0.0,0,0,2022,West Ham United Women
+16,2021-04-03,14:00,WSL,Matchweek 19,Sat,Away,W,5,0,Reading,2.2,0.5,40.0,,Gilly Flaherty,3-4-3,Kirsty Dowle,Match Report,,13.0,8.0,16.6,0.0,0,0,2022,West Ham United Women
+17,2021-04-20,18:00,WSL,Matchweek 10,Tue,Home,D,0,0,Aston Villa,0.4,0.0,57.0,,Gilly Flaherty,3-4-3,Amy Fearn,Match Report,,8.0,3.0,17.2,0.0,0,0,2022,West Ham United Women
+18,2021-04-25,15:00,WSL,Matchweek 20,Sun,Home,D,0,0,Everton,1.7,1.1,39.0,,Gilly Flaherty,3-5-1-1,Helen Conley,Match Report,,13.0,1.0,13.1,0.0,0,0,2022,West Ham United Women
+19,2021-04-28,19:30,WSL,Matchweek 13,Wed,Away,L,0,2,Arsenal,0.3,1.9,33.0,,Gilly Flaherty,3-4-3,Emily Heaslip,Match Report,,7.0,1.0,17.2,0.0,0,0,2022,West Ham United Women
+20,2021-05-02,12:30,WSL,Matchweek 21,Sun,Away,D,0,0,Aston Villa,1.6,0.5,61.0,,Gilly Flaherty,3-5-1-1,Rebecca Welch,Match Report,,28.0,6.0,16.6,1.0,0,0,2022,West Ham United Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,L,0,1,Manchester City,0.5,4.7,23.0,,Gilly Flaherty,3-4-3,Kirsty Dowle,Match Report,,4.0,1.0,21.0,1.0,0,0,2022,West Ham United Women
+0,2020-09-05,14:30,WSL,Matchweek 1,Sat,Home,L,0,2,Manchester City,0.9,2.8,37.0,,Marisa Ewers,4-3-3,Abigail Bryne,Match Report,,8.0,3.0,17.2,0.0,0,0,2022,Aston Villa Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Away,L,1,3,Reading,1.2,3.6,46.0,,Marisa Ewers,4-3-3,Emily Heaslip,Match Report,,7.0,1.0,19.5,0.0,1,1,2022,Aston Villa Women
+2,2020-10-03,12:30,WSL,Matchweek 3,Sat,Home,L,0,6,Everton,0.8,2.4,47.0,,Natalie Haigh,4-3-3,Kirsty Dowle,Match Report,,8.0,1.0,18.1,0.0,0,0,2022,Aston Villa Women
+3,2020-11-08,14:00,WSL,Matchweek 6,Sun,Away,W,2,0,Brighton,0.7,0.5,48.0,,Elisha N'Dow,4-3-3,Stacey Pearson,Match Report,,11.0,5.0,20.5,1.0,0,0,2022,Aston Villa Women
+4,2020-11-14,14:30,WSL,Matchweek 7,Sat,Home,L,0,1,Birmingham City,0.7,0.9,58.0,,Marisa Ewers,4-3-3,Rebecca Welch,Match Report,,11.0,1.0,18.3,0.0,0,0,2022,Aston Villa Women
+5,2020-12-05,12:30,WSL,Matchweek 8,Sat,Home,L,0,2,Manchester Utd,0.8,1.9,42.0,,Marisa Ewers,4-3-3,Abigail Bryne,Match Report,,7.0,3.0,13.6,0.0,0,0,2022,Aston Villa Women
+6,2020-12-09,19:30,WSL,Matchweek 4,Wed,Away,W,4,0,Bristol City,1.6,0.5,55.0,,Marisa Ewers,4-3-3,Amy Fearn,Match Report,,12.0,6.0,14.7,0.0,0,0,2022,Aston Villa Women
+7,2020-12-13,14:00,WSL,Matchweek 9,Sun,Away,L,1,3,Tottenham,0.5,1.8,46.0,,Marisa Ewers,4-2-3-1,Sarah Garratt,Match Report,,11.0,2.0,20.5,0.0,0,0,2022,Aston Villa Women
+8,2021-01-17,12:30,WSL,Matchweek 12,Sun,Away,L,0,7,Manchester City,0.3,3.8,37.0,,Marisa Ewers,4-3-3,Amy Fearn,Match Report,,4.0,1.0,18.5,0.0,0,0,2022,Aston Villa Women
+9,2021-01-23,12:30,WSL,Matchweek 13,Sat,Home,D,2,2,Reading,0.8,2.2,38.0,,Marisa Ewers,4-3-3,Kirsty Dowle,Match Report,,7.0,2.0,17.6,0.0,0,0,2022,Aston Villa Women
+10,2021-01-27,19:00,WSL,Matchweek 5,Wed,Home,L,0,4,Chelsea,0.4,1.7,29.0,,Marisa Ewers,4-3-3,Helen Conley,Match Report,,2.0,1.0,11.1,0.0,0,0,2022,Aston Villa Women
+11,2021-02-06,12:30,WSL,Matchweek 14,Sat,Home,W,1,0,Tottenham,0.3,0.4,32.0,,Marisa Ewers,5-3-2,Jane Simms,Match Report,,7.0,2.0,26.1,1.0,0,0,2022,Aston Villa Women
+12,2021-02-28,14:00,WSL,Matchweek 11,Sun,Home,L,0,4,Arsenal,0.3,2.6,22.0,,Marisa Ewers,5-3-2,Lisa Benn,Match Report,,5.0,0.0,18.1,0.0,0,0,2022,Aston Villa Women
+13,2021-03-07,12:00,WSL,Matchweek 16,Sun,Away,L,0,3,Manchester Utd,0.0,1.0,27.0,,Marisa Ewers,5-3-2,Helen Conley,Match Report,,0.0,0.0,,0.0,0,0,2022,Aston Villa Women
+14,2021-03-17,19:30,WSL,Matchweek 17,Wed,Home,L,0,2,Brighton,0.8,1.7,48.0,,Marisa Ewers,5-3-2,Rebecca Welch,Match Report,,15.0,3.0,20.1,0.0,0,0,2022,Aston Villa Women
+15,2021-03-28,14:30,WSL,Matchweek 18,Sun,Away,L,0,2,Chelsea,0.0,1.1,27.0,,Marisa Ewers,5-3-2,Sarah Garratt,Match Report,,1.0,1.0,29.2,0.0,0,0,2022,Aston Villa Women
+16,2021-04-04,13:00,WSL,Matchweek 19,Sun,Away,L,1,3,Everton,0.4,2.2,31.0,,Marisa Ewers,5-4-1,Stacey Pearson,Match Report,,6.0,2.0,14.2,0.0,0,0,2022,Aston Villa Women
+17,2021-04-20,18:00,WSL,Matchweek 10,Tue,Away,D,0,0,West Ham,0.0,0.4,43.0,,Elisha N'Dow,3-5-2,Amy Fearn,Match Report,,1.0,0.0,31.6,0.0,0,0,2022,Aston Villa Women
+18,2021-04-24,12:30,WSL,Matchweek 20,Sat,Home,D,2,2,Bristol City,1.2,0.5,48.0,,Elisha N'Dow,4-4-2,Emily Heaslip,Match Report,,12.0,5.0,11.3,0.0,0,0,2022,Aston Villa Women
+19,2021-04-28,19:00,WSL,Matchweek 15,Wed,Away,D,1,1,Birmingham City,1.0,0.4,48.0,,Natalie Haigh,3-5-2,Jane Simms,Match Report,,9.0,1.0,12.4,0.0,0,0,2022,Aston Villa Women
+20,2021-05-02,12:30,WSL,Matchweek 21,Sun,Home,D,0,0,West Ham,0.5,1.6,39.0,,Elisha N'Dow,3-4-1-2,Rebecca Welch,Match Report,,10.0,6.0,18.6,0.0,0,0,2022,Aston Villa Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,D,0,0,Arsenal,0.2,1.2,22.0,,Marisa Ewers,3-4-1-2,Abigail Bryne,Match Report,,2.0,0.0,15.8,0.0,0,0,2022,Aston Villa Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Away,L,0,2,Brighton,0.2,1.2,45.0,,Christie Murray,4-1-4-1,Rob Whitton,Match Report,,4.0,1.0,20.6,0.0,0,0,2022,Birmingham City Women
+1,2020-09-13,14:00,WSL,Matchweek 2,Sun,Home,L,2,5,Manchester Utd,0.3,2.5,47.0,,Christie Murray,4-1-4-1,Lucy Oliver,Match Report,,6.0,3.0,18.6,0.0,0,0,2022,Birmingham City Women
+2,2020-10-04,14:30,WSL,Matchweek 3,Sun,Home,L,0,1,Chelsea,0.1,1.3,31.0,,Christie Murray,4-1-4-1,Abigail Bryne,Match Report,,2.0,0.0,18.6,0.0,0,0,2022,Birmingham City Women
+3,2020-10-11,14:00,WSL,Matchweek 4,Sun,Away,W,1,0,Reading,0.5,1.6,39.0,,Christie Murray,4-1-4-1,Sarah Garratt,Match Report,,5.0,2.0,21.1,0.0,0,0,2022,Birmingham City Women
+4,2020-10-18,14:00,WSL,Matchweek 5,Sun,Away,W,4,0,Bristol City,2.1,0.4,54.0,,Christie Murray,4-1-4-1,Helen Conley,Match Report,,11.0,7.0,15.5,0.0,1,1,2022,Birmingham City Women
+5,2020-11-08,14:00,WSL,Matchweek 6,Sun,Home,L,1,2,West Ham,0.7,0.9,40.0,,Christie Murray,4-1-4-1,Richie Watkins,Match Report,,6.0,3.0,16.2,0.0,0,0,2022,Birmingham City Women
+6,2020-11-14,14:30,WSL,Matchweek 7,Sat,Away,W,1,0,Aston Villa,0.9,0.7,42.0,,Christie Murray,4-1-4-1,Rebecca Welch,Match Report,,8.0,3.0,21.4,0.0,0,0,2022,Birmingham City Women
+7,2020-12-06,14:00,WSL,Matchweek 8,Sun,Away,L,0,3,Arsenal,0.1,3.6,25.0,,Christie Murray,4-1-4-1,Christiana Hattersley,Match Report,,2.0,2.0,26.8,0.0,0,0,2022,Birmingham City Women
+8,2021-01-17,14:00,WSL,Matchweek 12,Sun,Home,D,0,0,Brighton,0.3,1.0,48.0,,Harriet Scott,4-5-1,Helen Conley,Match Report,,6.0,1.0,21.0,0.0,0,0,2022,Birmingham City Women
+9,2021-01-24,12:00,WSL,Matchweek 13,Sun,Away,L,0,2,Manchester Utd,0.0,3.1,28.0,,Harriet Scott,4-5-1,Stacey Pearson,Match Report,,1.0,0.0,23.9,0.0,0,0,2022,Birmingham City Women
+10,2021-02-07,14:00,WSL,Matchweek 14,Sun,Away,D,1,1,Everton,1.1,0.8,31.0,,Harriet Scott,4-5-1,Lisa Benn,Match Report,,4.0,2.0,17.2,0.0,0,1,2022,Birmingham City Women
+11,2021-02-28,14:00,WSL,Matchweek 10,Sun,Home,L,0,4,Manchester City,0.1,1.3,19.0,,Harriet Scott,5-4-1,Helen Conley,Match Report,,1.0,1.0,18.2,0.0,0,0,2022,Birmingham City Women
+12,2021-03-07,14:00,WSL,Matchweek 16,Sun,Home,L,0,4,Arsenal,0.1,3.6,26.0,,Harriet Scott,4-5-1,Jane Simms,Match Report,,2.0,1.0,15.0,0.0,0,0,2022,Birmingham City Women
+13,2021-03-11,19:00,WSL,Matchweek 9,Thu,Home,L,0,4,Everton,0.3,1.1,28.0,,Christie Murray,4-2-3-1,Lisa Benn,Match Report,,4.0,0.0,19.4,1.0,0,0,2022,Birmingham City Women
+14,2021-03-17,19:30,WSL,Matchweek 17,Wed,Away,D,2,2,West Ham,1.1,1.3,46.0,,Christie Murray,4-2-3-1,Stacey Pearson,Match Report,,8.0,2.0,15.1,0.0,0,0,2022,Birmingham City Women
+15,2021-03-28,16:00,WSL,Matchweek 18,Sun,Home,D,1,1,Bristol City,0.6,1.1,51.0,,Christie Murray,4-2-3-1,Kirsty Dowle,Match Report,,14.0,4.0,21.1,0.0,0,0,2022,Birmingham City Women
+16,2021-04-04,12:30,WSL,Matchweek 19,Sun,Away,L,0,6,Chelsea,0.4,3.2,31.0,,Christie Murray,5-4-1,Jane Simms,Match Report,,3.0,0.0,17.5,0.0,0,0,2022,Birmingham City Women
+17,2021-04-25,14:00,WSL,Matchweek 20,Sun,Home,D,1,1,Reading,1.2,0.7,31.0,,Christie Murray,4-1-4-1,Lucy May,Match Report,,9.0,2.0,19.4,0.0,0,0,2022,Birmingham City Women
+18,2021-04-28,19:00,WSL,Matchweek 15,Wed,Home,D,1,1,Aston Villa,0.4,1.0,52.0,,Christie Murray,4-3-3,Jane Simms,Match Report,,7.0,1.0,24.0,1.0,0,0,2022,Birmingham City Women
+19,2021-05-02,15:00,WSL,Matchweek 21,Sun,Away,L,0,4,Manchester City,0.0,3.8,19.0,,Christie Murray,5-4-1,Emily Heaslip,Match Report,,1.0,0.0,8.1,0.0,0,0,2022,Birmingham City Women
+20,2021-05-09,14:30,WSL,Matchweek 22,Sun,Home,L,0,1,Tottenham,0.2,0.6,32.0,,Harriet Scott,4-5-1,Lisa Benn,Match Report,,4.0,1.0,16.8,0.0,0,0,2022,Birmingham City Women
+0,2020-09-06,14:00,WSL,Matchweek 1,Sun,Home,L,0,4,Everton,0.8,3.2,36.0,,Jasmine Matthews,4-5-1,Scott Jackson,Match Report,,12.0,3.0,23.2,3.0,0,0,2022,Bristol City Women
+1,2020-09-13,12:30,WSL,Matchweek 2,Sun,Away,L,0,9,Chelsea,0.1,6.6,24.0,,Jasmine Matthews,4-4-2,Stacey Pearson,Match Report,,1.0,0.0,13.3,0.0,0,0,2022,Bristol City Women
+2,2020-10-04,14:00,WSL,Matchweek 3,Sun,Away,L,1,3,Arsenal,0.1,3.2,19.0,,Jasmine Matthews,4-4-2,Jack Packman,Match Report,,3.0,2.0,21.7,0.0,0,0,2022,Bristol City Women
+3,2020-10-18,14:00,WSL,Matchweek 5,Sun,Home,L,0,4,Birmingham City,0.4,2.1,46.0,,Jasmine Matthews,4-2-3-1,Helen Conley,Match Report,,9.0,3.0,21.6,1.0,0,0,2022,Bristol City Women
+4,2020-11-07,15:00,WSL,Matchweek 6,Sat,Away,L,1,8,Manchester City,0.5,4.4,15.0,,Jasmine Matthews,5-4-1,Christiana Hattersley,Match Report,,2.0,1.0,13.8,0.0,0,0,2022,Bristol City Women
+5,2020-11-14,18:30,WSL,Matchweek 7,Sat,Home,D,2,2,Tottenham,1.5,0.8,33.0,,Jasmine Matthews,5-4-1,Lisa Benn,Match Report,,8.0,4.0,18.7,0.0,1,1,2022,Bristol City Women
+6,2020-12-06,14:00,WSL,Matchweek 8,Sun,Away,D,1,1,Reading,1.0,2.7,31.0,,Sophie Baggaley,4-4-2,Lucy Oliver,Match Report,,10.0,2.0,19.8,0.0,0,0,2022,Bristol City Women
+7,2020-12-09,19:30,WSL,Matchweek 4,Wed,Home,L,0,4,Aston Villa,0.5,1.6,45.0,,Sophie Baggaley,4-3-1-2,Amy Fearn,Match Report,,13.0,5.0,23.9,1.0,0,0,2022,Bristol City Women
+8,2020-12-13,14:00,WSL,Matchweek 9,Sun,Home,L,0,4,West Ham,0.4,2.0,37.0,,Sophie Baggaley,5-4-1,Jane Simms,Match Report,,8.0,2.0,21.3,1.0,0,0,2022,Bristol City Women
+9,2020-12-20,12:00,WSL,Matchweek 10,Sun,Away,L,1,6,Manchester Utd,0.9,1.8,31.0,,Sophie Baggaley,4-1-4-1,Lisa Benn,Match Report,,8.0,4.0,16.8,0.0,0,0,2022,Bristol City Women
+10,2021-01-17,13:00,WSL,Matchweek 12,Sun,Away,L,0,4,Everton,0.8,2.4,35.0,,Aimee Palmer,4-1-4-1,Christiana Hattersley,Match Report,,11.0,3.0,17.4,1.0,0,0,2022,Bristol City Women
+11,2021-01-30,14:00,WSL,Matchweek 11,Sat,Home,W,3,0,Brighton,1.6,0.4,39.0,,Jasmine Matthews,4-1-4-1,Lucy Oliver,Match Report,,10.0,3.0,19.8,0.0,1,1,2022,Bristol City Women
+12,2021-02-07,15:00,WSL,Matchweek 14,Sun,Away,D,1,1,West Ham,1.3,0.3,49.0,,Jasmine Matthews,4-1-4-1,Sarah Garratt,Match Report,,14.0,3.0,20.3,2.0,0,0,2022,Bristol City Women
+13,2021-02-14,15:00,WSL,Matchweek 13,Sun,Home,L,0,5,Chelsea,0.1,3.4,29.0,,Jasmine Matthews,4-1-4-1,Emily Heaslip,Match Report,,2.0,0.0,23.0,0.0,0,0,2022,Bristol City Women
+14,2021-03-08,20:15,WSL,Matchweek 16,Mon,Home,W,3,2,Reading,0.9,1.9,37.0,,Gemma Evans,4-1-4-1,Rebecca Welch,Match Report,,12.0,4.0,21.4,0.0,0,0,2022,Bristol City Women
+15,2021-03-17,19:30,WSL,Matchweek 17,Wed,Home,L,0,3,Manchester City,0.3,2.3,33.0,,Sophie Baggaley,4-1-4-1,Scott Jackson,Match Report,,7.0,2.0,21.6,1.0,0,0,2022,Bristol City Women
+16,2021-03-21,14:00,WSL,Matchweek 15,Sun,Away,D,1,1,Tottenham,0.5,1.5,46.0,,Gemma Evans,4-1-4-1,Jane Simms,Match Report,,10.0,2.0,23.9,1.0,0,0,2022,Bristol City Women
+17,2021-03-28,16:00,WSL,Matchweek 18,Sun,Away,D,1,1,Birmingham City,1.1,0.6,49.0,,Gemma Evans,4-1-4-1,Kirsty Dowle,Match Report,,13.0,2.0,19.1,0.0,0,0,2022,Bristol City Women
+18,2021-04-04,14:00,WSL,Matchweek 19,Sun,Home,L,0,4,Arsenal,0.1,3.6,29.0,,Gemma Evans,4-1-4-1,Sarah Garratt,Match Report,,3.0,2.0,23.3,0.0,0,0,2022,Bristol City Women
+19,2021-04-24,12:30,WSL,Matchweek 20,Sat,Away,D,2,2,Aston Villa,0.5,1.2,52.0,,Gemma Evans,4-4-2,Emily Heaslip,Match Report,,11.0,5.0,21.7,1.0,0,0,2022,Bristol City Women
+20,2021-05-02,14:00,WSL,Matchweek 21,Sun,Home,L,0,1,Manchester Utd,1.0,2.1,40.0,,Gemma Evans,4-2-3-1,Lisa Benn,Match Report,,10.0,4.0,16.2,0.0,0,0,2022,Bristol City Women
+21,2021-05-09,14:30,WSL,Matchweek 22,Sun,Away,L,1,3,Brighton,1.0,1.6,35.0,,Gemma Evans,4-2-3-1,Amy Fearn,Match Report,,9.0,2.0,19.3,1.0,0,0,2022,Bristol City Women
+0,2019-09-08,12:30,WSL,Regular season,Sun,Home,W,1.0,0.0,Tottenham,1.3,0.3,62.0,24564.0,Magdalena Eriksson,4-3-3,Jack Packman,Match Report,,20.0,6.0,17.5,0.0,0,0,2021,Chelsea Women
+1,2019-09-15,14:00,WSL,Regular season,Sun,Away,D,1.0,1.0,Brighton,1.7,0.4,68.0,1352.0,Magdalena Eriksson,4-1-4-1,Lee Collins,Match Report,,16.0,6.0,16.5,0.0,0,0,2021,Chelsea Women
+2,2019-09-29,15:00,WSL,Regular season,Sun,Away,W,4.0,0.0,Bristol City,2.9,0.0,65.0,986.0,Magdalena Eriksson,4-4-2,Lisa Benn,Match Report,,28.0,13.0,14.4,0.0,0,0,2021,Chelsea Women
+3,2019-10-13,15:00,WSL,Regular season,Sun,Home,W,2.0,1.0,Arsenal,1.4,0.4,42.0,4149.0,Magdalena Eriksson,4-4-2,Rebecca Welch,Match Report,,22.0,6.0,20.7,1.0,0,0,2021,Chelsea Women
+4,2019-10-27,15:00,WSL,Regular season,Sun,Away,W,3.0,1.0,West Ham,1.7,1.6,54.0,2122.0,Magdalena Eriksson,4-4-2,Rob Whitton,Match Report,,24.0,11.0,17.0,0.0,0,0,2021,Chelsea Women
+5,2019-11-17,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Manchester Utd,1.5,0.4,54.0,4790.0,Magdalena Eriksson,4-3-3,Jack Packman,Match Report,,12.0,4.0,18.6,0.0,1,1,2021,Chelsea Women
+6,2019-11-24,14:45,WSL,Regular season,Sun,Away,W,6.0,0.0,Birmingham City,2.7,0.2,56.0,1159.0,Magdalena Eriksson,4-3-3,Richard Walker,Match Report,,15.0,10.0,12.0,1.0,0,0,2021,Chelsea Women
+7,2019-12-08,12:00,WSL,Regular season,Sun,Home,W,2.0,1.0,Manchester City,2.4,0.6,54.0,3498.0,Magdalena Eriksson,4-4-2,Amy Fearn,Match Report,,26.0,10.0,17.1,1.0,0,0,2021,Chelsea Women
+8,2019-12-15,14:00,WSL,Regular season,Sun,Away,D,1.0,1.0,Liverpool,2.9,0.5,64.0,540.0,Magdalena Eriksson,4-2-3-1,Louise Saunders,Match Report,,20.0,3.0,13.5,2.0,0,0,2021,Chelsea Women
+9,2020-01-05,12:30,WSL,Regular season,Sun,Home,W,3.0,1.0,Reading,4.0,1.3,67.0,2828.0,Magdalena Eriksson,4-2-3-1,Stacey Pearson,Match Report,,29.0,10.0,16.7,1.0,0,0,2021,Chelsea Women
+10,2020-01-12,14:00,WSL,Regular season,Sun,Home,W,6.0,1.0,Bristol City,5.2,0.3,74.0,2866.0,Millie Bright,4-2-3-1,Emily Heaslip,Match Report,,28.0,13.0,13.2,0.0,0,0,2021,Chelsea Women
+11,2020-01-19,14:00,WSL,Regular season,Sun,Away,W,4.0,1.0,Arsenal,2.2,0.7,44.0,4000.0,Magdalena Eriksson,4-1-2-1-2◆,Abigail Bryne,Match Report,,15.0,4.0,14.5,0.0,0,0,2021,Chelsea Women
+12,2020-02-02,14:00,WSL,Regular season,Sun,Home,W,8.0,0.0,West Ham,6.5,0.2,51.0,3304.0,Magdalena Eriksson,4-4-2,Amy Fearn,Match Report,,23.0,12.0,14.4,2.0,0,0,2021,Chelsea Women
+13,2020-02-12,19:00,WSL,Regular season,Wed,Home,W,2.0,0.0,Birmingham City,2.1,0.1,59.0,1928.0,Magdalena Eriksson,4-4-1-1,Rob Whitton,Match Report,,19.0,4.0,16.8,0.0,0,0,2021,Chelsea Women
+14,2020-02-23,14:00,WSL,Regular season,Sun,Away,D,3.0,3.0,Manchester City,1.2,2.6,55.0,3542.0,Magdalena Eriksson,4-3-1-2,Rebecca Welch,Match Report,,14.0,9.0,13.1,0.0,0,0,2021,Chelsea Women
+0,2019-09-07,15:00,WSL,Regular season,Sat,Home,W,1.0,0.0,Manchester Utd,0.5,1.1,64.0,31213.0,Steph Houghton,4-4-1-1,Rebecca Welch,Match Report,,11.0,3.0,20.9,1.0,0,0,2021,Manchester City Women
+2,2019-09-15,12:30,WSL,Regular season,Sun,Away,W,2.0,0.0,Reading,2.3,0.2,58.0,897.0,Steph Houghton,4-1-4-1,Stacey Pearson,Match Report,,17.0,5.0,14.0,0.0,0,0,2021,Manchester City Women
+4,2019-09-29,12:30,WSL,Regular season,Sun,Away,W,1.0,0.0,Everton,1.5,0.6,59.0,378.0,Steph Houghton,4-3-3,Lewis Smith,Match Report,,16.0,6.0,16.1,1.0,0,0,2021,Manchester City Women
+5,2019-10-12,14:00,WSL,Regular season,Sat,Home,W,3.0,0.0,Birmingham City,3.5,0.3,58.0,1834.0,Steph Houghton,4-3-3,Helen Conley,Match Report,,12.0,6.0,13.5,0.0,0,0,2021,Manchester City Women
+7,2019-10-27,14:30,WSL,Regular season,Sun,Away,L,0.0,1.0,Arsenal,0.3,1.1,42.0,2424.0,Steph Houghton,4-4-1-1,Rebecca Welch,Match Report,,7.0,2.0,20.8,0.0,0,0,2021,Manchester City Women
+9,2019-11-17,12:30,WSL,Regular season,Sun,Home,W,5.0,0.0,West Ham,3.0,0.7,48.0,2145.0,Steph Houghton,4-2-3-1,Stacey Pearson,Match Report,,28.0,10.0,18.6,1.0,0,0,2021,Manchester City Women
+10,2019-11-24,12:30,WSL,Regular season,Sun,Away,W,5.0,0.0,Bristol City,1.9,1.1,72.0,1212.0,Steph Houghton,4-4-1-1,Lucy Oliver,Match Report,,18.0,6.0,17.2,0.0,0,0,2021,Manchester City Women
+11,2019-12-01,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Liverpool,1.5,1.1,61.0,2293.0,Steph Houghton,4-2-2-2,Kirsty Dowle,Match Report,,13.0,4.0,17.3,0.0,0,0,2021,Manchester City Women
+12,2019-12-08,12:00,WSL,Regular season,Sun,Away,L,1.0,2.0,Chelsea,0.6,2.4,46.0,3498.0,Steph Houghton,4-2-2-2,Amy Fearn,Match Report,,11.0,3.0,17.2,0.0,0,0,2021,Manchester City Women
+13,2019-12-15,12:30,WSL,Regular season,Sun,Home,W,5.0,0.0,Brighton,3.6,0.4,59.0,1173.0,Steph Houghton,4-2-2-2,Lucy Oliver,Match Report,,26.0,12.0,17.0,0.0,0,0,2021,Manchester City Women
+14,2020-01-05,14:00,WSL,Regular season,Sun,Away,W,4.0,1.0,Tottenham,3.9,1.3,63.0,1056.0,Steph Houghton,4-2-2-2,Helen Conley,Match Report,,30.0,15.0,13.0,0.0,0,0,2021,Manchester City Women
+15,2020-01-11,17:30,WSL,Regular season,Sat,Home,W,3.0,1.0,Everton,3.1,0.2,55.0,1681.0,Steph Houghton,4-4-2,Amy Fearn,Match Report,,24.0,7.0,14.4,0.0,0,0,2021,Manchester City Women
+16,2020-01-19,12:00,WSL,Regular season,Sun,Away,W,2.0,0.0,Birmingham City,2.9,0.2,58.0,1197.0,Steph Houghton,4-2-2-2,Helen Conley,Match Report,,15.0,5.0,13.6,0.0,0,0,2021,Manchester City Women
+17,2020-02-02,14:00,WSL,Regular season,Sun,Home,W,2.0,1.0,Arsenal,0.5,2.1,40.0,3664.0,Steph Houghton,4-4-2,Stacey Pearson,Match Report,,7.0,2.0,14.8,0.0,0,0,2021,Manchester City Women
+18,2020-02-12,19:00,WSL,Regular season,Wed,Home,W,1.0,0.0,Bristol City,1.1,0.1,59.0,858.0,Steph Houghton,4-4-2,Edward Duckworth,Match Report,,14.0,7.0,13.6,0.0,0,0,2021,Manchester City Women
+19,2020-02-23,14:00,WSL,Regular season,Sun,Home,D,3.0,3.0,Chelsea,2.6,1.2,45.0,3542.0,Steph Houghton,4-2-2-2,Rebecca Welch,Match Report,,13.0,5.0,16.1,0.0,0,1,2021,Manchester City Women
+0,2019-09-08,14:30,WSL,Regular season,Sun,Home,W,2.0,1.0,West Ham,2.6,0.8,63.0,1795.0,Kim Little,4-2-3-1,Stacey Pearson,Match Report,,17.0,5.0,17.6,0.0,0,0,2021,Arsenal Women
+2,2019-09-16,19:30,WSL,Regular season,Mon,Away,W,1.0,0.0,Manchester Utd,1.9,0.6,66.0,2530.0,Kim Little,4-2-3-1,Abigail Bryne,Match Report,,22.0,8.0,13.5,0.0,0,0,2021,Arsenal Women
+4,2019-09-29,12:30,WSL,Regular season,Sun,Home,W,4.0,0.0,Brighton,1.5,0.1,73.0,1607.0,Kim Little,4-3-3,Elliot Swallow,Match Report,,11.0,5.0,13.7,0.0,0,0,2021,Arsenal Women
+5,2019-10-13,15:00,WSL,Regular season,Sun,Away,L,1.0,2.0,Chelsea,0.4,1.4,58.0,4149.0,Kim Little,4-2-3-1,Rebecca Welch,Match Report,,7.0,3.0,18.5,0.0,0,0,2021,Arsenal Women
+7,2019-10-27,14:30,WSL,Regular season,Sun,Home,W,1.0,0.0,Manchester City,1.1,0.3,58.0,2424.0,Kim Little,4-2-3-1,Rebecca Welch,Match Report,,9.0,3.0,19.1,0.0,0,0,2021,Arsenal Women
+9,2019-11-17,15:00,WSL,Regular season,Sun,Away,W,2.0,0.0,Tottenham,1.4,0.7,67.0,38262.0,Kim Little,4-2-3-1,Abigail Bryne,Match Report,,17.0,3.0,16.0,1.0,0,0,2021,Arsenal Women
+10,2019-11-24,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Liverpool,1.2,0.4,69.0,2017.0,Kim Little,4-2-3-1,Elizabeth Simms,Match Report,,16.0,2.0,19.9,0.0,0,0,2021,Arsenal Women
+11,2019-12-01,12:30,WSL,Regular season,Sun,Home,W,11.0,1.0,Bristol City,8.3,1.1,74.0,1513.0,Jordan Nobbs,3-1-4-2,Helen Conley,Match Report,,34.0,16.0,11.5,0.0,0,0,2021,Arsenal Women
+12,2019-12-08,14:30,WSL,Regular season,Sun,Away,W,3.0,0.0,Reading,1.7,1.4,63.0,943.0,Kim Little,4-3-3,Richard Holme,Match Report,,12.0,6.0,17.4,0.0,0,0,2021,Arsenal Women
+13,2019-12-15,12:30,WSL,Regular season,Sun,Away,W,3.0,1.0,Everton,3.5,0.7,64.0,451.0,Kim Little,4-2-3-1,Ben Speedie,Match Report,,14.0,7.0,13.2,0.0,1,1,2021,Arsenal Women
+14,2020-01-05,14:00,WSL,Regular season,Sun,Home,W,2.0,0.0,Birmingham City,2.7,0.3,67.0,2106.0,Kim Little,4-2-3-1,Elizabeth Simms,Match Report,,14.0,7.0,14.9,0.0,0,0,2021,Arsenal Women
+15,2020-01-12,12:30,WSL,Regular season,Sun,Away,W,4.0,0.0,Brighton,2.0,0.2,66.0,1312.0,Leah Williamson,3-5-1-1,Kirsty Dowle,Match Report,,14.0,6.0,14.0,0.0,0,0,2021,Arsenal Women
+16,2020-01-19,14:00,WSL,Regular season,Sun,Home,L,1.0,4.0,Chelsea,0.7,2.2,56.0,4000.0,Kim Little,3-5-2,Abigail Bryne,Match Report,,9.0,3.0,21.1,1.0,0,0,2021,Arsenal Women
+17,2020-02-02,14:00,WSL,Regular season,Sun,Away,L,1.0,2.0,Manchester City,2.1,0.5,60.0,3664.0,Jordan Nobbs,4-2-3-1,Stacey Pearson,Match Report,,15.0,7.0,16.5,1.0,0,0,2021,Arsenal Women
+18,2020-02-13,19:00,WSL,Regular season,Thu,Away,W,3.0,2.0,Liverpool,1.9,0.8,64.0,660.0,Jordan Nobbs,4-3-3,Rebecca Welch,Match Report,,10.0,5.0,16.7,1.0,0,0,2021,Arsenal Women
+0,2019-09-07,15:00,WSL,Regular season,Sat,Away,L,0.0,1.0,Manchester City,1.1,0.5,36.0,31213.0,Katie Zelem,4-3-3,Rebecca Welch,Match Report,,9.0,2.0,18.4,0.0,0,0,2021,Manchester United Women
+1,2019-09-16,19:30,WSL,Regular season,Mon,Home,L,0.0,1.0,Arsenal,0.6,1.9,34.0,2530.0,Katie Zelem,4-2-3-1,Abigail Bryne,Match Report,,7.0,1.0,19.1,0.0,0,0,2021,Manchester United Women
+2,2019-09-28,12:00,WSL,Regular season,Sat,Home,W,2.0,0.0,Liverpool,3.2,0.5,56.0,2813.0,Katie Zelem,4-3-3,Lucy Oliver,Match Report,,22.0,8.0,18.9,2.0,1,1,2021,Manchester United Women
+3,2019-10-13,12:30,WSL,Regular season,Sun,Away,W,3.0,0.0,Tottenham,3.0,0.8,48.0,1299.0,Katie Zelem,4-2-3-1,Kirsty Dowle,Match Report,,25.0,8.0,17.9,0.0,0,0,2021,Manchester United Women
+4,2019-10-27,12:30,WSL,Regular season,Sun,Home,W,2.0,0.0,Reading,0.9,0.4,42.0,1997.0,Katie Zelem,4-2-3-1,Helen Conley,Match Report,,7.0,3.0,15.5,0.0,0,0,2021,Manchester United Women
+5,2019-11-17,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Chelsea,0.4,1.5,46.0,4790.0,Katie Zelem,4-2-3-1,Jack Packman,Match Report,,8.0,3.0,18.4,1.0,0,0,2021,Manchester United Women
+6,2019-11-24,12:00,WSL,Regular season,Sun,Home,W,4.0,0.0,Brighton,4.5,0.1,61.0,1707.0,Katie Zelem,4-2-3-1,Steven Copeland,Match Report,,18.0,9.0,16.7,0.0,1,1,2021,Manchester United Women
+7,2019-12-01,15:00,WSL,Regular season,Sun,Away,L,2.0,3.0,West Ham,1.2,0.4,54.0,1736.0,Katie Zelem,4-2-3-1,Amy Fearn,Match Report,,15.0,5.0,16.0,1.0,0,0,2021,Manchester United Women
+8,2019-12-08,12:00,WSL,Regular season,Sun,Home,W,3.0,1.0,Everton,2.2,0.6,55.0,1805.0,Katie Zelem,4-2-3-1,Joe Hull,Match Report,,14.0,6.0,16.5,0.0,1,1,2021,Manchester United Women
+9,2020-01-05,12:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Bristol City,2.4,0.2,72.0,2021.0,Katie Zelem,4-2-3-1,Lucy Oliver,Match Report,,26.0,8.0,17.8,0.0,0,0,2021,Manchester United Women
+10,2020-01-19,12:00,WSL,Regular season,Sun,Home,W,3.0,0.0,Tottenham,2.7,0.9,64.0,1836.0,Katie Zelem,4-2-3-1,Edward Duckworth,Match Report,,20.0,9.0,19.5,1.0,1,1,2021,Manchester United Women
+11,2020-02-02,14:00,WSL,Regular season,Sun,Away,D,1.0,1.0,Reading,0.4,1.8,42.0,1256.0,Katie Zelem,4-3-3,Kirsty Dowle,Match Report,,7.0,3.0,16.8,1.0,0,0,2021,Manchester United Women
+12,2020-02-12,19:45,WSL,Regular season,Wed,Away,D,1.0,1.0,Brighton,0.6,2.1,53.0,905.0,Katie Zelem,4-2-3-1,Savvas Yianni,Match Report,,7.0,4.0,18.9,0.0,0,0,2021,Manchester United Women
+13,2020-02-23,12:30,WSL,Regular season,Sun,Away,W,3.0,2.0,Everton,1.3,1.4,48.0,893.0,Jane Ross,4-4-1-1,Andrew Sykes,Match Report,,8.0,3.0,15.1,1.0,0,0,2021,Manchester United Women
+0,2019-09-08,14:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Liverpool,1.0,0.5,54.0,1445.0,Natasha Harding,4-2-3-1,Samuel Barrott,Match Report,,14.0,5.0,19.8,1.0,0,0,2021,Reading Women
+1,2019-09-15,12:30,WSL,Regular season,Sun,Home,L,0.0,2.0,Manchester City,0.2,2.3,42.0,897.0,Natasha Harding,4-2-3-1,Stacey Pearson,Match Report,,6.0,1.0,24.0,0.0,0,0,2021,Reading Women
+2,2019-10-13,14:00,WSL,Regular season,Sun,Home,W,3.0,2.0,Everton,1.8,2.3,53.0,616.0,Natasha Harding,4-2-3-1,Alan Dale,Match Report,,17.0,6.0,19.9,1.0,0,0,2021,Reading Women
+3,2019-10-27,12:30,WSL,Regular season,Sun,Away,L,0.0,2.0,Manchester Utd,0.4,0.9,58.0,1997.0,Fara Williams,4-2-3-1,Helen Conley,Match Report,,7.0,2.0,19.0,2.0,0,0,2021,Reading Women
+4,2019-11-17,14:00,WSL,Regular season,Sun,Home,D,3.0,3.0,Bristol City,3.6,1.4,68.0,1420.0,Fara Williams,4-3-3,Kirsty Dowle,Match Report,,21.0,8.0,19.2,0.0,0,0,2021,Reading Women
+5,2019-11-24,15:00,WSL,Regular season,Sun,Away,W,3.0,2.0,West Ham,1.3,0.9,44.0,1392.0,Fara Williams,3-4-1-2,Lloyd Wood,Match Report,,16.0,6.0,21.1,3.0,0,0,2021,Reading Women
+6,2019-11-29,19:45,WSL,Regular season,Fri,Away,D,2.0,2.0,Brighton,1.7,1.2,59.0,510.0,Fara Williams,4-3-1-2,Matthew Russell,Match Report,,23.0,10.0,19.5,1.0,0,0,2021,Reading Women
+7,2019-12-08,14:30,WSL,Regular season,Sun,Home,L,0.0,3.0,Arsenal,1.4,1.7,37.0,943.0,Fara Williams,4-4-2,Richard Holme,Match Report,,20.0,3.0,21.7,2.0,0,0,2021,Reading Women
+8,2019-12-15,14:00,WSL,Regular season,Sun,Home,W,3.0,1.0,Tottenham,4.3,0.4,56.0,715.0,Fara Williams,4-4-2,Stacey Pearson,Match Report,,25.0,7.0,16.3,0.0,0,0,2021,Reading Women
+9,2020-01-05,12:30,WSL,Regular season,Sun,Away,L,1.0,3.0,Chelsea,1.3,4.0,33.0,2828.0,Fara Williams,4-1-2-1-2◆,Stacey Pearson,Match Report,,8.0,5.0,18.8,0.0,0,0,2021,Reading Women
+10,2020-01-12,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Birmingham City,1.2,0.6,57.0,733.0,Fara Williams,4-3-1-2,Tom Bishop,Match Report,,16.0,8.0,21.6,1.0,0,0,2021,Reading Women
+11,2020-01-19,14:00,WSL,Regular season,Sun,Away,L,1.0,3.0,Everton,1.1,2.0,58.0,,Natasha Harding,4-1-2-1-2◆,Peter Shacklady,Match Report,,5.0,2.0,22.4,0.0,1,1,2021,Reading Women
+12,2020-02-02,14:00,WSL,Regular season,Sun,Home,D,1.0,1.0,Manchester Utd,1.8,0.4,58.0,1256.0,Rachael Laws,4-4-1-1,Kirsty Dowle,Match Report,,5.0,1.0,26.1,1.0,1,2,2021,Reading Women
+13,2020-02-12,19:30,WSL,Regular season,Wed,Home,W,2.0,0.0,West Ham,2.0,0.0,60.0,573.0,Natasha Harding,4-3-1-2,Abigail Bryne,Match Report,,11.0,3.0,17.3,0.0,0,0,2021,Reading Women
+0,2019-09-08,14:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Birmingham City,0.8,0.7,37.0,873.0,Lucy Graham,4-3-3,Elliot Swallow,Match Report,,9.0,5.0,17.0,1.0,0,0,2021,Everton Women
+1,2019-09-15,12:30,WSL,Regular season,Sun,Home,W,2.0,0.0,Bristol City,1.4,1.0,59.0,441.0,Lucy Graham,4-3-3,Amy Fearn,Match Report,,21.0,6.0,18.9,1.0,0,0,2021,Everton Women
+2,2019-09-29,12:30,WSL,Regular season,Sun,Home,L,0.0,1.0,Manchester City,0.6,1.5,41.0,378.0,Lucy Graham,4-2-3-1,Lewis Smith,Match Report,,15.0,3.0,23.9,1.0,0,0,2021,Everton Women
+3,2019-10-13,14:00,WSL,Regular season,Sun,Away,L,2.0,3.0,Reading,2.3,1.8,47.0,616.0,Inessa Kaagman,4-1-4-1,Alan Dale,Match Report,,8.0,2.0,16.6,0.0,1,1,2021,Everton Women
+4,2019-10-27,12:30,WSL,Regular season,Sun,Home,W,2.0,0.0,Brighton,0.8,1.6,56.0,331.0,Lucy Graham,4-2-3-1,Jane Simms,Match Report,,13.0,4.0,19.8,1.0,0,0,2021,Everton Women
+5,2019-11-17,15:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Liverpool,0.9,0.9,46.0,23500.0,Lucy Graham,4-3-3,Amy Fearn,Match Report,,8.0,3.0,23.8,0.0,0,0,2021,Everton Women
+6,2019-11-24,12:30,WSL,Regular season,Sun,Home,W,3.0,1.0,Tottenham,2.1,0.6,50.0,150.0,Lucy Graham,4-2-3-1,Michael Barlow,Match Report,,23.0,9.0,19.5,0.0,0,0,2021,Everton Women
+7,2019-12-08,12:00,WSL,Regular season,Sun,Away,L,1.0,3.0,Manchester Utd,0.6,2.2,45.0,1805.0,Lucy Graham,4-2-3-1,Joe Hull,Match Report,,10.0,1.0,18.9,0.0,0,0,2021,Everton Women
+8,2019-12-15,12:30,WSL,Regular season,Sun,Home,L,1.0,3.0,Arsenal,0.7,3.5,36.0,451.0,Lucy Graham,3-4-3,Ben Speedie,Match Report,,8.0,3.0,16.2,0.0,0,0,2021,Everton Women
+9,2020-01-11,17:30,WSL,Regular season,Sat,Away,L,1.0,3.0,Manchester City,0.2,3.1,45.0,1681.0,Lucy Graham,4-2-3-1,Amy Fearn,Match Report,,5.0,2.0,22.8,0.0,0,0,2021,Everton Women
+10,2020-01-19,14:00,WSL,Regular season,Sun,Home,W,3.0,1.0,Reading,2.0,1.1,42.0,,Lucy Graham,4-2-3-1,Peter Shacklady,Match Report,,11.0,4.0,18.1,1.0,0,0,2021,Everton Women
+11,2020-02-02,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Brighton,0.6,1.2,58.0,830.0,Lucy Graham,4-2-3-1,Abigail Bryne,Match Report,,13.0,4.0,21.1,0.0,0,0,2021,Everton Women
+12,2020-02-12,19:30,WSL,Regular season,Wed,Away,D,2.0,2.0,Tottenham,1.7,0.9,53.0,388.0,Lucy Graham,4-3-3,Lisa Benn,Match Report,,17.0,4.0,19.7,0.0,0,0,2021,Everton Women
+13,2020-02-23,12:30,WSL,Regular season,Sun,Home,L,2.0,3.0,Manchester Utd,1.4,1.3,52.0,893.0,Lucy Graham,4-2-3-1,Andrew Sykes,Match Report,,11.0,5.0,16.7,1.0,0,0,2021,Everton Women
+0,2019-09-08,12:30,WSL,Regular season,Sun,Away,L,0.0,1.0,Chelsea,0.3,1.3,38.0,24564.0,Jenna Schillaci,4-1-4-1,Jack Packman,Match Report,,8.0,2.0,20.1,0.0,0,0,2021,Tottenham Women
+1,2019-09-15,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Liverpool,1.6,0.3,57.0,996.0,Ria Percival,4-1-4-1,Ryan Atkin,Match Report,,22.0,5.0,25.5,1.0,1,1,2021,Tottenham Women
+2,2019-09-29,14:30,WSL,Regular season,Sun,Away,W,2.0,0.0,West Ham,0.9,2.1,43.0,24790.0,Josephine Green,4-3-3,Abigail Bryne,Match Report,,12.0,3.0,19.0,0.0,0,0,2021,Tottenham Women
+3,2019-10-13,12:30,WSL,Regular season,Sun,Home,L,0.0,3.0,Manchester Utd,0.8,3.0,52.0,1299.0,Josephine Green,4-2-3-1,Kirsty Dowle,Match Report,,16.0,7.0,20.9,2.0,0,0,2021,Tottenham Women
+4,2019-10-27,15:00,WSL,Regular season,Sun,Away,W,2.0,1.0,Bristol City,2.2,0.7,60.0,639.0,Josephine Green,4-1-4-1,Daniel Lamport,Match Report,,21.0,4.0,20.6,0.0,0,1,2021,Tottenham Women
+5,2019-11-17,15:00,WSL,Regular season,Sun,Home,L,0.0,2.0,Arsenal,0.7,1.4,33.0,38262.0,Josephine Green,4-4-2,Abigail Bryne,Match Report,,10.0,3.0,26.4,0.0,0,0,2021,Tottenham Women
+6,2019-11-24,12:30,WSL,Regular season,Sun,Away,L,1.0,3.0,Everton,0.6,2.1,50.0,150.0,Jenna Schillaci,4-1-4-1,Michael Barlow,Match Report,,8.0,1.0,25.1,1.0,0,0,2021,Tottenham Women
+7,2019-12-04,19:30,WSL,Regular season,Wed,Away,D,1.0,1.0,Birmingham City,1.8,0.8,59.0,304.0,Jenna Schillaci,4-3-3,Jane Simms,Match Report,,14.0,4.0,17.2,1.0,0,0,2021,Tottenham Women
+8,2019-12-08,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Brighton,2.0,0.8,52.0,571.0,Josephine Green,4-3-3,Emily Heaslip,Match Report,,9.0,4.0,14.8,0.0,0,0,2021,Tottenham Women
+9,2019-12-15,14:00,WSL,Regular season,Sun,Away,L,1.0,3.0,Reading,0.4,4.3,44.0,715.0,Josephine Green,4-3-3,Stacey Pearson,Match Report,,9.0,4.0,20.1,0.0,0,0,2021,Tottenham Women
+10,2020-01-05,14:00,WSL,Regular season,Sun,Home,L,1.0,4.0,Manchester City,1.3,3.9,37.0,1056.0,Josephine Green,4-4-2,Helen Conley,Match Report,,8.0,2.0,26.7,0.0,1,1,2021,Tottenham Women
+11,2020-01-12,14:00,WSL,Regular season,Sun,Home,W,2.0,1.0,West Ham,1.2,0.5,46.0,855.0,Josephine Green,4-2-3-1,Lucy Oliver,Match Report,,20.0,6.0,20.8,1.0,0,0,2021,Tottenham Women
+12,2020-01-19,12:00,WSL,Regular season,Sun,Away,L,0.0,3.0,Manchester Utd,0.9,2.7,36.0,1836.0,Josephine Green,4-2-3-1,Edward Duckworth,Match Report,,8.0,2.0,18.6,0.0,0,0,2021,Tottenham Women
+13,2020-02-12,19:30,WSL,Regular season,Wed,Home,D,2.0,2.0,Everton,0.9,1.7,47.0,388.0,Josephine Green,4-2-3-1,Lisa Benn,Match Report,,9.0,2.0,19.4,1.0,0,0,2021,Tottenham Women
+14,2020-02-23,14:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Brighton,1.2,0.6,55.0,964.0,Josephine Green,4-2-3-1,Louise Saunders,Match Report,,8.0,4.0,22.6,0.0,1,1,2021,Tottenham Women
+0,2019-09-08,14:30,WSL,Regular season,Sun,Away,L,1.0,2.0,Arsenal,0.8,2.6,37.0,1795.0,Gilly Flaherty,4-4-2,Stacey Pearson,Match Report,,10.0,3.0,17.7,1.0,0,0,2021,West Ham United Women
+1,2019-09-15,15:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Birmingham City,1.4,0.9,49.0,1297.0,Gilly Flaherty,4-2-3-1,Paul Howard,Match Report,,13.0,4.0,18.2,1.0,0,0,2021,West Ham United Women
+2,2019-09-29,14:30,WSL,Regular season,Sun,Home,L,0.0,2.0,Tottenham,2.1,0.9,57.0,24790.0,Gilly Flaherty,4-2-3-1,Abigail Bryne,Match Report,,15.0,2.0,18.0,1.0,0,0,2021,West Ham United Women
+3,2019-10-13,14:00,WSL,Regular season,Sun,Away,W,3.0,1.0,Brighton,2.2,2.0,55.0,849.0,Gilly Flaherty,4-1-4-1,Lisa Benn,Match Report,,10.0,5.0,17.9,0.0,1,1,2021,West Ham United Women
+4,2019-10-27,15:00,WSL,Regular season,Sun,Home,L,1.0,3.0,Chelsea,1.6,1.7,46.0,2122.0,Gilly Flaherty,4-1-4-1,Rob Whitton,Match Report,,13.0,5.0,14.0,0.0,0,0,2021,West Ham United Women
+5,2019-11-17,12:30,WSL,Regular season,Sun,Away,L,0.0,5.0,Manchester City,0.7,3.0,52.0,2145.0,Gilly Flaherty,4-2-3-1,Stacey Pearson,Match Report,,10.0,4.0,17.3,0.0,0,0,2021,West Ham United Women
+6,2019-11-24,15:00,WSL,Regular season,Sun,Home,L,2.0,3.0,Reading,0.9,1.3,56.0,1392.0,Gilly Flaherty,5-4-1,Lloyd Wood,Match Report,,10.0,4.0,16.6,2.0,0,0,2021,West Ham United Women
+7,2019-12-01,15:00,WSL,Regular season,Sun,Home,W,3.0,2.0,Manchester Utd,0.4,1.2,46.0,1736.0,Gilly Flaherty,5-4-1,Amy Fearn,Match Report,,8.0,3.0,22.3,3.0,0,0,2021,West Ham United Women
+8,2019-12-08,14:00,WSL,Regular season,Sun,Away,D,1.0,1.0,Liverpool,1.0,1.9,52.0,565.0,Gilly Flaherty,3-5-2,Peter Gibbons,Match Report,,15.0,3.0,15.9,1.0,0,0,2021,West Ham United Women
+9,2020-01-12,14:00,WSL,Regular season,Sun,Away,L,1.0,2.0,Tottenham,0.5,1.2,54.0,855.0,Gilly Flaherty,4-4-2,Lucy Oliver,Match Report,,11.0,3.0,17.1,0.0,0,0,2021,West Ham United Women
+10,2020-01-19,15:00,WSL,Regular season,Sun,Home,W,2.0,1.0,Brighton,1.8,2.1,55.0,1799.0,Gilly Flaherty,4-2-3-1,Ryan Atkin,Match Report,,9.0,4.0,15.8,0.0,0,0,2021,West Ham United Women
+11,2020-02-02,14:00,WSL,Regular season,Sun,Away,L,0.0,8.0,Chelsea,0.2,6.5,49.0,3304.0,Gilly Flaherty,3-5-2,Amy Fearn,Match Report,,4.0,1.0,20.1,0.0,0,0,2021,West Ham United Women
+12,2020-02-12,19:30,WSL,Regular season,Wed,Away,L,0.0,2.0,Reading,0.0,2.0,40.0,573.0,Gilly Flaherty,4-2-3-1,Abigail Bryne,Match Report,,1.0,0.0,8.0,0.0,0,0,2021,West Ham United Women
+13,2020-02-23,15:00,WSL,Regular season,Sun,Home,W,4.0,2.0,Liverpool,1.6,1.5,55.0,1877.0,Gilly Flaherty,4-3-3,Matthew Russell,Match Report,,10.0,6.0,15.5,0.0,0,0,2021,West Ham United Women
+0,2019-09-07,15:00,WSL,Regular season,Sat,Away,D,0.0,0.0,Bristol City,2.1,0.4,55.0,3041.0,Danielle Buet,4-1-4-1,Abigail Bryne,Match Report,,19.0,8.0,19.9,1.0,0,1,2021,Brighton and Hove Albion Women
+1,2019-09-15,14:00,WSL,Regular season,Sun,Home,D,1.0,1.0,Chelsea,0.4,1.7,32.0,1352.0,Megan Connolly,4-1-4-1,Lee Collins,Match Report,,9.0,1.0,22.9,0.0,0,0,2021,Brighton and Hove Albion Women
+2,2019-09-29,12:30,WSL,Regular season,Sun,Away,L,0.0,4.0,Arsenal,0.1,1.5,27.0,1607.0,Megan Walsh,4-5-1,Elliot Swallow,Match Report,,3.0,1.0,26.8,0.0,0,0,2021,Brighton and Hove Albion Women
+3,2019-10-13,14:00,WSL,Regular season,Sun,Home,L,1.0,3.0,West Ham,2.0,2.2,45.0,849.0,Danielle Buet,4-4-1-1,Lisa Benn,Match Report,,9.0,1.0,14.3,0.0,0,0,2021,Brighton and Hove Albion Women
+4,2019-10-27,12:30,WSL,Regular season,Sun,Away,L,0.0,2.0,Everton,1.6,0.8,44.0,331.0,Danielle Buet,4-2-3-1,Jane Simms,Match Report,,15.0,5.0,19.0,1.0,0,0,2021,Brighton and Hove Albion Women
+5,2019-11-17,14:00,WSL,Regular season,Sun,Home,W,3.0,0.0,Birmingham City,2.4,0.5,43.0,4130.0,Danielle Buet,4-4-2,Helen Conley,Match Report,,13.0,7.0,22.2,0.0,1,1,2021,Brighton and Hove Albion Women
+6,2019-11-24,12:00,WSL,Regular season,Sun,Away,L,0.0,4.0,Manchester Utd,0.1,4.5,39.0,1707.0,Danielle Buet,4-4-2,Steven Copeland,Match Report,,2.0,1.0,31.5,1.0,0,0,2021,Brighton and Hove Albion Women
+7,2019-11-29,19:45,WSL,Regular season,Fri,Home,D,2.0,2.0,Reading,1.2,1.7,41.0,510.0,Danielle Buet,4-4-2,Matthew Russell,Match Report,,11.0,6.0,23.8,0.0,0,0,2021,Brighton and Hove Albion Women
+8,2019-12-08,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Tottenham,0.8,2.0,48.0,571.0,Danielle Buet,4-4-2,Emily Heaslip,Match Report,,17.0,2.0,22.1,0.0,0,0,2021,Brighton and Hove Albion Women
+9,2019-12-15,12:30,WSL,Regular season,Sun,Away,L,0.0,5.0,Manchester City,0.4,3.6,41.0,1173.0,Danielle Buet,4-4-2,Lucy Oliver,Match Report,,10.0,5.0,23.2,0.0,0,0,2021,Brighton and Hove Albion Women
+10,2020-01-05,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Liverpool,0.7,1.1,38.0,947.0,Danielle Buet,4-5-1,Amy Fearn,Match Report,,5.0,2.0,26.0,0.0,0,0,2021,Brighton and Hove Albion Women
+11,2020-01-12,12:30,WSL,Regular season,Sun,Home,L,0.0,4.0,Arsenal,0.2,2.0,34.0,1312.0,Danielle Buet,4-1-4-1,Kirsty Dowle,Match Report,,3.0,0.0,15.5,0.0,0,0,2021,Brighton and Hove Albion Women
+12,2020-01-19,15:00,WSL,Regular season,Sun,Away,L,1.0,2.0,West Ham,2.1,1.8,45.0,1799.0,Danielle Buet,4-4-1-1,Ryan Atkin,Match Report,,14.0,7.0,18.8,0.0,0,0,2021,Brighton and Hove Albion Women
+13,2020-02-02,14:00,WSL,Regular season,Sun,Home,W,1.0,0.0,Everton,1.2,0.6,42.0,830.0,Danielle Buet,4-2-3-1,Abigail Bryne,Match Report,,9.0,4.0,15.3,0.0,0,0,2021,Brighton and Hove Albion Women
+14,2020-02-12,19:45,WSL,Regular season,Wed,Home,D,1.0,1.0,Manchester Utd,2.1,0.6,47.0,905.0,Danielle Buet,4-4-2,Savvas Yianni,Match Report,,9.0,4.0,14.5,0.0,0,0,2021,Brighton and Hove Albion Women
+15,2020-02-23,14:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Tottenham,0.6,1.2,45.0,964.0,Danielle Buet,4-4-2,Louise Saunders,Match Report,,8.0,1.0,21.6,0.0,0,0,2021,Brighton and Hove Albion Women
+0,2019-09-07,15:00,WSL,Regular season,Sat,Home,D,0.0,0.0,Brighton,0.4,2.1,45.0,3041.0,Loren Dykes,4-2-3-1,Abigail Bryne,Match Report,,7.0,2.0,19.7,0.0,0,0,2021,Bristol City Women
+1,2019-09-15,12:30,WSL,Regular season,Sun,Away,L,0.0,2.0,Everton,1.0,1.4,41.0,441.0,Loren Dykes,4-2-3-1,Amy Fearn,Match Report,,14.0,5.0,24.0,0.0,0,0,2021,Bristol City Women
+2,2019-09-29,15:00,WSL,Regular season,Sun,Home,L,0.0,4.0,Chelsea,0.0,2.9,35.0,986.0,Loren Dykes,4-4-1-1,Lisa Benn,Match Report,,1.0,0.0,19.3,0.0,0,0,2021,Bristol City Women
+3,2019-10-13,12:00,WSL,Regular season,Sun,Away,D,1.0,1.0,Liverpool,0.3,1.5,34.0,924.0,Loren Dykes,4-2-3-1,Martin Woods,Match Report,,7.0,2.0,24.2,0.0,0,0,2021,Bristol City Women
+4,2019-10-27,15:00,WSL,Regular season,Sun,Home,L,1.0,2.0,Tottenham,0.7,2.2,40.0,639.0,Loren Dykes,4-2-3-1,Daniel Lamport,Match Report,,10.0,2.0,23.6,0.0,0,0,2021,Bristol City Women
+5,2019-11-17,14:00,WSL,Regular season,Sun,Away,D,3.0,3.0,Reading,1.4,3.6,32.0,1420.0,Loren Dykes,4-2-3-1,Kirsty Dowle,Match Report,,9.0,5.0,16.2,0.0,0,0,2021,Bristol City Women
+6,2019-11-24,12:30,WSL,Regular season,Sun,Home,L,0.0,5.0,Manchester City,1.1,1.9,28.0,1212.0,Loren Dykes,4-4-2,Lucy Oliver,Match Report,,9.0,2.0,10.8,0.0,0,0,2021,Bristol City Women
+7,2019-12-01,12:30,WSL,Regular season,Sun,Away,L,1.0,11.0,Arsenal,1.1,8.3,26.0,1513.0,Loren Dykes,3-4-3,Helen Conley,Match Report,,4.0,1.0,21.0,0.0,0,1,2021,Bristol City Women
+8,2019-12-08,15:00,WSL,Regular season,Sun,Home,L,0.0,2.0,Birmingham City,0.4,0.6,45.0,404.0,Frankie Brown,4-1-4-1,Samuel Allison,Match Report,,9.0,4.0,22.7,1.0,0,0,2021,Bristol City Women
+9,2020-01-05,12:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Manchester Utd,0.2,2.4,28.0,2021.0,Loren Dykes,4-1-4-1,Lucy Oliver,Match Report,,2.0,1.0,20.4,0.0,0,0,2021,Bristol City Women
+10,2020-01-12,14:00,WSL,Regular season,Sun,Away,L,1.0,6.0,Chelsea,0.3,5.2,26.0,2866.0,Loren Dykes,3-5-1-1,Emily Heaslip,Match Report,,6.0,4.0,18.3,0.0,0,0,2021,Bristol City Women
+11,2020-01-19,15:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Liverpool,1.3,1.4,49.0,1007.0,Frankie Brown,4-1-4-1,Savvas Yianni,Match Report,,9.0,5.0,17.9,0.0,0,1,2021,Bristol City Women
+12,2020-02-12,19:00,WSL,Regular season,Wed,Away,L,0.0,1.0,Manchester City,0.1,1.1,41.0,858.0,Frankie Brown,4-2-3-1,Edward Duckworth,Match Report,,3.0,1.0,17.6,0.0,0,0,2021,Bristol City Women
+13,2020-02-23,14:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Birmingham City,0.7,0.6,40.0,659.0,Frankie Brown,4-4-1-1,Stacey Pearson,Match Report,,4.0,2.0,20.5,0.0,0,0,2021,Bristol City Women
+0,2019-09-08,14:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Everton,0.7,0.8,63.0,873.0,Kerys Harrop,4-2-3-1,Elliot Swallow,Match Report,,16.0,4.0,21.7,0.0,0,0,2021,Birmingham City Women
+1,2019-09-15,15:00,WSL,Regular season,Sun,Away,L,0.0,1.0,West Ham,0.9,1.4,51.0,1297.0,Kerys Harrop,4-2-3-1,Paul Howard,Match Report,,18.0,9.0,24.7,2.0,0,0,2021,Birmingham City Women
+2,2019-10-12,14:00,WSL,Regular season,Sat,Away,L,0.0,3.0,Manchester City,0.3,3.5,42.0,1834.0,Kerys Harrop,4-1-4-1,Helen Conley,Match Report,,4.0,0.0,16.2,1.0,0,0,2021,Birmingham City Women
+3,2019-10-27,14:00,WSL,Regular season,Sun,Home,W,2.0,0.0,Liverpool,0.9,0.5,61.0,1056.0,Kerys Harrop,4-1-4-1,Lisa Benn,Match Report,,22.0,8.0,23.1,1.0,0,0,2021,Birmingham City Women
+4,2019-11-17,14:00,WSL,Regular season,Sun,Away,L,0.0,3.0,Brighton,0.5,2.4,57.0,4130.0,Brianna Visalli,4-2-3-1,Helen Conley,Match Report,,7.0,0.0,24.9,0.0,0,0,2021,Birmingham City Women
+5,2019-11-24,14:45,WSL,Regular season,Sun,Home,L,0.0,6.0,Chelsea,0.2,2.7,44.0,1159.0,Lucy Staniforth,4-2-3-1,Richard Walker,Match Report,,6.0,2.0,23.1,0.0,0,0,2021,Birmingham City Women
+6,2019-12-04,19:30,WSL,Regular season,Wed,Home,D,1.0,1.0,Tottenham,0.8,1.8,41.0,304.0,Lucy Staniforth,4-4-2,Jane Simms,Match Report,,13.0,6.0,24.7,1.0,0,0,2021,Birmingham City Women
+7,2019-12-08,15:00,WSL,Regular season,Sun,Away,W,2.0,0.0,Bristol City,0.6,0.4,55.0,404.0,Lucy Staniforth,4-2-3-1,Samuel Allison,Match Report,,16.0,4.0,23.3,0.0,0,0,2021,Birmingham City Women
+8,2020-01-05,14:00,WSL,Regular season,Sun,Away,L,0.0,2.0,Arsenal,0.3,2.7,33.0,2106.0,Lucy Staniforth,4-2-3-1,Elizabeth Simms,Match Report,,6.0,4.0,23.1,0.0,0,0,2021,Birmingham City Women
+9,2020-01-12,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Reading,0.6,1.2,43.0,733.0,Lucy Staniforth,4-2-3-1,Tom Bishop,Match Report,,9.0,3.0,16.5,0.0,0,0,2021,Birmingham City Women
+10,2020-01-19,12:00,WSL,Regular season,Sun,Home,L,0.0,2.0,Manchester City,0.2,2.9,42.0,1197.0,Hannah Hampton,4-2-3-1,Helen Conley,Match Report,,6.0,2.0,21.1,0.0,0,0,2021,Birmingham City Women
+11,2020-02-12,19:00,WSL,Regular season,Wed,Away,L,0.0,2.0,Chelsea,0.1,2.1,41.0,1928.0,Kerys Harrop,4-2-3-1,Rob Whitton,Match Report,,3.0,0.0,19.5,0.0,0,0,2021,Birmingham City Women
+12,2020-02-23,14:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Bristol City,0.6,0.7,60.0,659.0,Kerys Harrop,4-4-2,Stacey Pearson,Match Report,,11.0,3.0,20.2,0.0,0,0,2021,Birmingham City Women
+0,2019-09-08,14:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Reading,0.5,1.0,46.0,1445.0,Sophie Bradley,4-3-3,Samuel Barrott,Match Report,,9.0,2.0,22.1,0.0,0,0,2021,Liverpool Women
+1,2019-09-15,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Tottenham,0.3,1.6,43.0,996.0,Sophie Bradley,4-2-3-1,Ryan Atkin,Match Report,,6.0,1.0,20.7,0.0,0,0,2021,Liverpool Women
+2,2019-09-28,12:00,WSL,Regular season,Sat,Away,L,0.0,2.0,Manchester Utd,0.5,3.2,44.0,2813.0,Sophie Bradley,4-2-3-1,Lucy Oliver,Match Report,,8.0,1.0,18.2,0.0,0,0,2021,Liverpool Women
+3,2019-10-13,12:00,WSL,Regular season,Sun,Home,D,1.0,1.0,Bristol City,1.5,0.3,66.0,924.0,Sophie Bradley,4-4-1-1,Martin Woods,Match Report,,16.0,6.0,24.2,0.0,1,1,2021,Liverpool Women
+4,2019-10-27,14:00,WSL,Regular season,Sun,Away,L,0.0,2.0,Birmingham City,0.5,0.9,39.0,1056.0,Sophie Bradley,4-4-1-1,Lisa Benn,Match Report,,7.0,3.0,14.6,0.0,0,0,2021,Liverpool Women
+5,2019-11-17,15:00,WSL,Regular season,Sun,Home,L,0.0,1.0,Everton,0.9,0.9,54.0,23500.0,Sophie Bradley,4-2-3-1,Amy Fearn,Match Report,,21.0,2.0,25.5,1.0,0,0,2021,Liverpool Women
+6,2019-11-24,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Arsenal,0.4,1.2,31.0,2017.0,Sophie Bradley,4-2-3-1,Elizabeth Simms,Match Report,,5.0,3.0,30.3,0.0,0,0,2021,Liverpool Women
+7,2019-12-01,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Manchester City,1.1,1.5,39.0,2293.0,Sophie Bradley,4-2-3-1,Kirsty Dowle,Match Report,,13.0,3.0,18.1,0.0,0,0,2021,Liverpool Women
+8,2019-12-08,14:00,WSL,Regular season,Sun,Home,D,1.0,1.0,West Ham,1.9,1.0,48.0,565.0,Sophie Bradley,4-4-2,Peter Gibbons,Match Report,,14.0,7.0,22.1,0.0,0,1,2021,Liverpool Women
+9,2019-12-15,14:00,WSL,Regular season,Sun,Home,D,1.0,1.0,Chelsea,0.5,2.9,36.0,540.0,Sophie Bradley,4-2-3-1,Louise Saunders,Match Report,,9.0,7.0,22.5,3.0,0,0,2021,Liverpool Women
+10,2020-01-05,14:00,WSL,Regular season,Sun,Away,L,0.0,1.0,Brighton,1.1,0.7,62.0,947.0,Sophie Bradley,4-2-3-1,Amy Fearn,Match Report,,13.0,1.0,20.0,2.0,0,0,2021,Liverpool Women
+11,2020-01-19,15:00,WSL,Regular season,Sun,Away,W,1.0,0.0,Bristol City,1.4,1.3,51.0,1007.0,Sophie Bradley,4-3-3,Savvas Yianni,Match Report,,17.0,7.0,19.3,1.0,0,0,2021,Liverpool Women
+12,2020-02-13,19:00,WSL,Regular season,Thu,Home,L,2.0,3.0,Arsenal,0.8,1.9,36.0,660.0,Sophie Bradley,4-2-3-1,Rebecca Welch,Match Report,,4.0,3.0,19.6,0.0,0,0,2021,Liverpool Women
+13,2020-02-23,15:00,WSL,Regular season,Sun,Away,L,2.0,4.0,West Ham,1.5,1.6,45.0,1877.0,Sophie Bradley,4-2-3-1,Matthew Russell,Match Report,,15.0,5.0,15.1,0.0,0,0,2021,Liverpool Women

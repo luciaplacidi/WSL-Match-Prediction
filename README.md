@@ -3,7 +3,7 @@
 This project predicts the winner of football matches in the Women's Super League
 
 ## Project Steps
-- Scrape match data from [fbref.com](https://fbref.com/en/comps/189/Womens-Super-League-Stats) using requests, BeautifulSoup and pandas
+- Scraped match data from [fbref.com](https://fbref.com/en/comps/189/Womens-Super-League-Stats) using requests, BeautifulSoup and pandas
 - Clean the data and prepare it for machine learning using pandas
 - Make predictions using scikit-learn
 - Measure error and improve model predictions
